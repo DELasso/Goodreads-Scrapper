@@ -1,0 +1,4132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d8" for="node" attr.name="price" attr.type="double" />
+  <key id="d7" for="node" attr.name="name" attr.type="string" />
+  <key id="d6" for="node" attr.name="genres" attr.type="string" />
+  <key id="d5" for="node" attr.name="score" attr.type="double" />
+  <key id="d4" for="node" attr.name="price" attr.type="long" />
+  <key id="d3" for="node" attr.name="release_date" attr.type="string" />
+  <key id="d2" for="node" attr.name="author" attr.type="string" />
+  <key id="d1" for="node" attr.name="neighbors" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="To Kill a Mockingbird">
+      <data key="d0">book</data>
+      <data key="d1">['Harper Lee']</data>
+      <data key="d2">Harper Lee</data>
+      <data key="d3">[7, 11, 1960]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.26</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'School', 'Literature', 'Young Adult', 'Historical']</data>
+    </node>
+    <node id="Harper Lee">
+      <data key="d0">author</data>
+      <data key="d1">['To Kill a Mockingbird']</data>
+      <data key="d7">Harper Lee</data>
+    </node>
+    <node id="Harry Potter and the Philosopher’s Stone">
+      <data key="d0">book</data>
+      <data key="d1">['J.K. Rowling']</data>
+      <data key="d2">J.K. Rowling</data>
+      <data key="d3">[6, 26, 1997]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.47</data>
+      <data key="d6">['Fiction', 'Young Adult', 'Magic', 'Childrens', 'Middle Grade', 'Classics', 'Audiobook']</data>
+    </node>
+    <node id="J.K. Rowling">
+      <data key="d0">author</data>
+      <data key="d1">['Harry Potter and the Philosopher’s Stone', 'Harry Potter and the Deathly Hallows', 'Harry Potter and the Prisoner of Azkaban', 'Harry Potter and the Goblet of Fire', 'Harry Potter and the Half-Blood Prince', 'Harry Potter and the Chamber of Secrets']</data>
+      <data key="d7">J.K. Rowling</data>
+    </node>
+    <node id="Harry Potter and the Deathly Hallows">
+      <data key="d0">book</data>
+      <data key="d1">['J.K. Rowling']</data>
+      <data key="d2">J.K. Rowling</data>
+      <data key="d3">[7, 21, 2007]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.62</data>
+      <data key="d6">['Young Adult', 'Fiction', 'Magic', 'Childrens', 'Adventure', 'Audiobook', 'Middle Grade']</data>
+    </node>
+    <node id="Harry Potter and the Prisoner of Azkaban">
+      <data key="d0">book</data>
+      <data key="d1">['J.K. Rowling']</data>
+      <data key="d2">J.K. Rowling</data>
+      <data key="d3">[7, 8, 1999]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.58</data>
+      <data key="d6">['Young Adult', 'Childrens', 'Middle Grade', 'Audiobook', 'Adventure', 'Science Fiction Fantasy', 'Novels']</data>
+    </node>
+    <node id="Harry Potter and the Goblet of Fire">
+      <data key="d0">book</data>
+      <data key="d1">['J.K. Rowling']</data>
+      <data key="d2">J.K. Rowling</data>
+      <data key="d3">[7, 8, 2000]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.56</data>
+      <data key="d6">['Young Adult', 'Fiction', 'Magic', 'Childrens', 'Middle Grade', 'Audiobook', 'Adventure']</data>
+    </node>
+    <node id="Harry Potter and the Half-Blood Prince">
+      <data key="d0">book</data>
+      <data key="d1">['J.K. Rowling']</data>
+      <data key="d2">J.K. Rowling</data>
+      <data key="d3">[7, 16, 2005]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.58</data>
+      <data key="d6">['Fantasy', 'Young Adult', 'Fiction', 'Magic', 'Childrens', 'Audiobook', 'Adventure']</data>
+    </node>
+    <node id="Harry Potter and the Chamber of Secrets">
+      <data key="d0">book</data>
+      <data key="d1">['J.K. Rowling']</data>
+      <data key="d2">J.K. Rowling</data>
+      <data key="d3">[7, 2, 1998]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.43</data>
+      <data key="d6">['Fantasy', 'Fiction', 'Young Adult', 'Magic', 'Childrens', 'Middle Grade', 'Audiobook']</data>
+    </node>
+    <node id="Pride and Prejudice">
+      <data key="d0">book</data>
+      <data key="d1">['Jane Austen']</data>
+      <data key="d2">Jane Austen</data>
+      <data key="d3">[1, 28, 1813]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">4.28</data>
+      <data key="d6">['Classics', 'Fiction', 'Romance', 'Historical Fiction', 'Literature', 'Historical', 'Audiobook']</data>
+    </node>
+    <node id="Jane Austen">
+      <data key="d0">author</data>
+      <data key="d1">['Pride and Prejudice', 'Sense and Sensibility', 'Persuasion', 'Emma']</data>
+      <data key="d7">Jane Austen</data>
+    </node>
+    <node id="Sense and Sensibility">
+      <data key="d0">book</data>
+      <data key="d1">['Jane Austen']</data>
+      <data key="d2">Jane Austen</data>
+      <data key="d3">[10, 30, 1811]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">4.08</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'Literature', 'Historical', 'Audiobook', 'Classic Literature']</data>
+    </node>
+    <node id="Persuasion">
+      <data key="d0">book</data>
+      <data key="d1">['Jane Austen']</data>
+      <data key="d2">Jane Austen</data>
+      <data key="d3">[12, 20, 1817]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.15</data>
+      <data key="d6">['Classics', 'Fiction', 'Romance', 'Historical Fiction', 'Historical', 'Literature', 'Audiobook']</data>
+    </node>
+    <node id="Emma">
+      <data key="d0">book</data>
+      <data key="d1">['Jane Austen']</data>
+      <data key="d2">Jane Austen</data>
+      <data key="d3">[12, 23, 1815]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">4.04</data>
+      <data key="d6">['Classics', 'Fiction', 'Romance', 'Historical Fiction', 'Literature', 'Historical', 'Audiobook']</data>
+    </node>
+    <node id="The Diary of a Young Girl">
+      <data key="d0">book</data>
+      <data key="d1">['Anne Frank']</data>
+      <data key="d2">Anne Frank</data>
+      <data key="d3">[1, 1, 1947]</data>
+      <data key="d8">2.51</data>
+      <data key="d5">4.19</data>
+      <data key="d6">['Classics', 'Nonfiction', 'Biography', 'Memoir', 'Historical', 'Holocaust', 'Autobiography']</data>
+    </node>
+    <node id="Anne Frank">
+      <data key="d0">author</data>
+      <data key="d1">['The Diary of a Young Girl']</data>
+      <data key="d7">Anne Frank</data>
+    </node>
+    <node id="Animal Farm">
+      <data key="d0">book</data>
+      <data key="d1">['George Orwell']</data>
+      <data key="d2">George Orwell</data>
+      <data key="d3">[8, 17, 1945]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">3.98</data>
+      <data key="d6">['Classics', 'Fiction', 'Dystopia', 'Fantasy', 'School', 'Politics', 'Literature']</data>
+    </node>
+    <node id="George Orwell">
+      <data key="d0">author</data>
+      <data key="d1">['Animal Farm', '1984', 'Animal Farm / 1984']</data>
+      <data key="d7">George Orwell</data>
+    </node>
+    <node id="1984">
+      <data key="d0">book</data>
+      <data key="d1">['George Orwell']</data>
+      <data key="d2">George Orwell</data>
+      <data key="d3">[6, 8, 1949]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.19</data>
+      <data key="d6">['Classics', 'Fiction', 'Science Fiction', 'Dystopia', 'Literature', 'Politics', 'Novels']</data>
+    </node>
+    <node id="Animal Farm / 1984">
+      <data key="d0">book</data>
+      <data key="d1">['George Orwell']</data>
+      <data key="d2">George Orwell</data>
+      <data key="d3">[1, 1, 1949]</data>
+      <data key="d8">14.99</data>
+      <data key="d5">4.3</data>
+      <data key="d6">['Classics', 'Fiction', 'Dystopia', 'Literature', 'Science Fiction', 'Politics', 'Fantasy']</data>
+    </node>
+    <node id="The Little Prince">
+      <data key="d0">book</data>
+      <data key="d1">['Antoine de Saint-Exupéry']</data>
+      <data key="d2">Antoine de Saint-Exupéry</data>
+      <data key="d3">[4, 6, 1943]</data>
+      <data key="d8">1.8</data>
+      <data key="d5">4.32</data>
+      <data key="d6">['Classics', 'Fiction', 'Fantasy', 'Childrens', 'France', 'Philosophy', 'Young Adult']</data>
+    </node>
+    <node id="Antoine de Saint-Exupéry">
+      <data key="d0">author</data>
+      <data key="d1">['The Little Prince']</data>
+      <data key="d7">Antoine de Saint-Exupéry</data>
+    </node>
+    <node id="The Great Gatsby">
+      <data key="d0">book</data>
+      <data key="d1">['F. Scott Fitzgerald']</data>
+      <data key="d2">F. Scott Fitzgerald</data>
+      <data key="d3">[4, 10, 1925]</data>
+      <data key="d8">1.99</data>
+      <data key="d5">3.93</data>
+      <data key="d6">['Classics', 'Fiction', 'School', 'Historical Fiction', 'Romance', 'Literature', 'Novels']</data>
+    </node>
+    <node id="F. Scott Fitzgerald">
+      <data key="d0">author</data>
+      <data key="d1">['The Great Gatsby']</data>
+      <data key="d7">F. Scott Fitzgerald</data>
+    </node>
+    <node id="The Catcher in the Rye">
+      <data key="d0">book</data>
+      <data key="d1">['J.D. Salinger']</data>
+      <data key="d2">J.D. Salinger</data>
+      <data key="d3">[7, 16, 1951]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">3.8</data>
+      <data key="d6">['Classics', 'Fiction', 'Young Adult', 'Literature', 'School', 'Novels', 'Coming Of Age']</data>
+    </node>
+    <node id="J.D. Salinger">
+      <data key="d0">author</data>
+      <data key="d1">['The Catcher in the Rye']</data>
+      <data key="d7">J.D. Salinger</data>
+    </node>
+    <node id="The Lord of the Rings">
+      <data key="d0">book</data>
+      <data key="d1">['J.R.R. Tolkien']</data>
+      <data key="d2">J.R.R. Tolkien</data>
+      <data key="d3">[10, 20, 1955]</data>
+      <data key="d8">15.99</data>
+      <data key="d5">4.52</data>
+      <data key="d6">['Fantasy', 'Classics', 'Fiction', 'Adventure', 'Science Fiction Fantasy', 'High Fantasy', 'Epic Fantasy']</data>
+    </node>
+    <node id="J.R.R. Tolkien">
+      <data key="d0">author</data>
+      <data key="d1">['The Lord of the Rings', 'The Hobbit', 'Tolkien On Fairy-stories', 'The Fellowship of the Ring', 'The Return of the King', 'The Two Towers', 'J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings', 'The Fellowship of the Ring']</data>
+      <data key="d7">J.R.R. Tolkien</data>
+    </node>
+    <node id="The Hobbit">
+      <data key="d0">book</data>
+      <data key="d1">['J.R.R. Tolkien']</data>
+      <data key="d2">J.R.R. Tolkien</data>
+      <data key="d3">[9, 21, 1937]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.28</data>
+      <data key="d6">['Fantasy', 'Classics', 'Fiction', 'Adventure', 'Young Adult', 'High Fantasy', 'Science Fiction Fantasy']</data>
+    </node>
+    <node id="Tolkien On Fairy-stories">
+      <data key="d0">book</data>
+      <data key="d1">['J.R.R. Tolkien']</data>
+      <data key="d2">J.R.R. Tolkien</data>
+      <data key="d3">[7, 1, 2008]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.32</data>
+      <data key="d6">['Fantasy', 'Classics', 'Essays', 'Fiction', 'Writing', 'Literary Criticism', 'Fairy Tales']</data>
+    </node>
+    <node id="The Fellowship of the Ring">
+      <data key="d0">book</data>
+      <data key="d1">['J.R.R. Tolkien', 'J.R.R. Tolkien']</data>
+      <data key="d2">J.R.R. Tolkien</data>
+      <data key="d3">[7, 29, 1954]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.39</data>
+      <data key="d6">['Fantasy', 'Classics', 'Fiction', 'Adventure', 'High Fantasy', 'Science Fiction Fantasy', 'Epic Fantasy']</data>
+    </node>
+    <node id="The Return of the King">
+      <data key="d0">book</data>
+      <data key="d1">['J.R.R. Tolkien']</data>
+      <data key="d2">J.R.R. Tolkien</data>
+      <data key="d3">[10, 20, 1955]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.56</data>
+      <data key="d6">['Fantasy', 'Fiction', 'Classics', 'Adventure', 'High Fantasy', 'Science Fiction Fantasy', 'Epic Fantasy']</data>
+    </node>
+    <node id="The Two Towers">
+      <data key="d0">book</data>
+      <data key="d1">['J.R.R. Tolkien']</data>
+      <data key="d2">J.R.R. Tolkien</data>
+      <data key="d3">[11, 11, 1954]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.48</data>
+      <data key="d6">['Fantasy', 'Classics', 'Fiction', 'Adventure', 'High Fantasy', 'Science Fiction Fantasy', 'Epic Fantasy']</data>
+    </node>
+    <node id="J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings">
+      <data key="d0">book</data>
+      <data key="d1">['J.R.R. Tolkien']</data>
+      <data key="d2">J.R.R. Tolkien</data>
+      <data key="d3">[1, 1, 1954]</data>
+      <data key="d8">24.0</data>
+      <data key="d5">4.61</data>
+      <data key="d6">['Fantasy', 'Fiction', 'Classics', 'Adventure', 'Science Fiction Fantasy', 'Epic Fantasy', 'High Fantasy']</data>
+    </node>
+    <node id="The Book Thief">
+      <data key="d0">book</data>
+      <data key="d1">['Markus Zusak']</data>
+      <data key="d2">Markus Zusak</data>
+      <data key="d3">[3, 1, 2005]</data>
+      <data key="d8">10.99</data>
+      <data key="d5">4.39</data>
+      <data key="d6">['Historical Fiction', 'Fiction', 'Young Adult', 'Historical', 'Classics', 'War', 'World War II']</data>
+    </node>
+    <node id="Markus Zusak">
+      <data key="d0">author</data>
+      <data key="d1">['The Book Thief']</data>
+      <data key="d7">Markus Zusak</data>
+    </node>
+    <node id="Jane Eyre">
+      <data key="d0">book</data>
+      <data key="d1">['Charlotte Brontë']</data>
+      <data key="d2">Charlotte Brontë</data>
+      <data key="d3">[10, 16, 1847]</data>
+      <data key="d8">3.53</data>
+      <data key="d5">4.15</data>
+      <data key="d6">['Classics', 'Fiction', 'Romance', 'Historical Fiction', 'Gothic', 'Literature', 'Historical']</data>
+    </node>
+    <node id="Charlotte Brontë">
+      <data key="d0">author</data>
+      <data key="d1">['Jane Eyre']</data>
+      <data key="d7">Charlotte Brontë</data>
+    </node>
+    <node id="The Chronicles of Narnia">
+      <data key="d0">book</data>
+      <data key="d1">['C.S. Lewis']</data>
+      <data key="d2">C.S. Lewis</data>
+      <data key="d3">[1, 1, 1956]</data>
+      <data key="d8">39.99</data>
+      <data key="d5">4.27</data>
+      <data key="d6">['Fantasy', 'Classics', 'Fiction', 'Young Adult', 'Childrens', 'Christian', 'Adventure']</data>
+    </node>
+    <node id="C.S. Lewis">
+      <data key="d0">author</data>
+      <data key="d1">['The Chronicles of Narnia', 'The Lion, the Witch and the Wardrobe', 'The Screwtape Letters', 'Mere Christianity']</data>
+      <data key="d7">C.S. Lewis</data>
+    </node>
+    <node id="The Lion, the Witch and the Wardrobe">
+      <data key="d0">book</data>
+      <data key="d1">['C.S. Lewis']</data>
+      <data key="d2">C.S. Lewis</data>
+      <data key="d3">[10, 16, 1950]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.23</data>
+      <data key="d6">['Fantasy', 'Classics', 'Fiction', 'Young Adult', 'Childrens', 'Middle Grade', 'Adventure']</data>
+    </node>
+    <node id="The Screwtape Letters">
+      <data key="d0">book</data>
+      <data key="d1">['C.S. Lewis']</data>
+      <data key="d2">C.S. Lewis</data>
+      <data key="d3">[2, 1, 1942]</data>
+      <data key="d8">12.49</data>
+      <data key="d5">4.26</data>
+      <data key="d6">['Fiction', 'Christian', 'Classics', 'Religion', 'Christianity', 'Fantasy', 'Theology']</data>
+    </node>
+    <node id="Mere Christianity">
+      <data key="d0">book</data>
+      <data key="d1">['C.S. Lewis']</data>
+      <data key="d2">C.S. Lewis</data>
+      <data key="d3">[1, 1, 1942]</data>
+      <data key="d8">14.99</data>
+      <data key="d5">4.35</data>
+      <data key="d6">['Christian', 'Nonfiction', 'Religion', 'Theology', 'Christianity', 'Classics', 'Philosophy']</data>
+    </node>
+    <node id="Lord of the Flies">
+      <data key="d0">book</data>
+      <data key="d1">['William Golding']</data>
+      <data key="d2">William Golding</data>
+      <data key="d3">[9, 17, 1954]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">3.69</data>
+      <data key="d6">['Classics', 'Fiction', 'Young Adult', 'School', 'Literature', 'Dystopia', 'Read For School']</data>
+    </node>
+    <node id="William Golding">
+      <data key="d0">author</data>
+      <data key="d1">['Lord of the Flies']</data>
+      <data key="d7">William Golding</data>
+    </node>
+    <node id="Romeo and Juliet">
+      <data key="d0">book</data>
+      <data key="d1">['William Shakespeare']</data>
+      <data key="d2">William Shakespeare</data>
+      <data key="d3">[1, 1, 1597]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">3.74</data>
+      <data key="d6">['Classics', 'Plays', 'Fiction', 'School', 'Drama', 'Read For School', 'Literature']</data>
+    </node>
+    <node id="William Shakespeare">
+      <data key="d0">author</data>
+      <data key="d1">['Romeo and Juliet', 'Hamlet', 'Macbeth', "A Midsummer Night's Dream", 'The Complete Works']</data>
+      <data key="d7">William Shakespeare</data>
+    </node>
+    <node id="Hamlet">
+      <data key="d0">book</data>
+      <data key="d1">['William Shakespeare']</data>
+      <data key="d2">William Shakespeare</data>
+      <data key="d3">[1, 1, 1601]</data>
+      <data key="d8">3.99</data>
+      <data key="d5">4.02</data>
+      <data key="d6">['Classics', 'Plays', 'Fiction', 'Drama', 'School', 'Literature', 'Theatre']</data>
+    </node>
+    <node id="Macbeth">
+      <data key="d0">book</data>
+      <data key="d1">['William Shakespeare']</data>
+      <data key="d2">William Shakespeare</data>
+      <data key="d3">[1, 1, 1623]</data>
+      <data key="d8">2.99</data>
+      <data key="d5">3.9</data>
+      <data key="d6">['Classics', 'Plays', 'Fiction', 'School', 'Read For School', 'Literature', 'Theatre']</data>
+    </node>
+    <node id="A Midsummer Night's Dream">
+      <data key="d0">book</data>
+      <data key="d1">['William Shakespeare']</data>
+      <data key="d2">William Shakespeare</data>
+      <data key="d3">[1, 1, 1595]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">3.95</data>
+      <data key="d6">['Classics', 'Plays', 'Fiction', 'Fantasy', 'School', 'Romance', 'Theatre']</data>
+    </node>
+    <node id="The Complete Works">
+      <data key="d0">book</data>
+      <data key="d1">['William Shakespeare']</data>
+      <data key="d2">William Shakespeare</data>
+      <data key="d3">[1, 1, 1623]</data>
+      <data key="d8">1.99</data>
+      <data key="d5">4.47</data>
+      <data key="d6">['Classics', 'Poetry', 'Fiction', 'Plays', 'Drama', 'Literature', 'Reference']</data>
+    </node>
+    <node id="The Kite Runner">
+      <data key="d0">book</data>
+      <data key="d1">['Khaled Hosseini']</data>
+      <data key="d2">Khaled Hosseini</data>
+      <data key="d3">[5, 29, 2003]</data>
+      <data key="d8">13.99</data>
+      <data key="d5">4.34</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Classics', 'Contemporary', 'Novels', 'Historical', 'Literature']</data>
+    </node>
+    <node id="Khaled Hosseini">
+      <data key="d0">author</data>
+      <data key="d1">['The Kite Runner', 'A Thousand Splendid Suns']</data>
+      <data key="d7">Khaled Hosseini</data>
+    </node>
+    <node id="A Thousand Splendid Suns">
+      <data key="d0">book</data>
+      <data key="d1">['Khaled Hosseini']</data>
+      <data key="d2">Khaled Hosseini</data>
+      <data key="d3">[5, 1, 2007]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">4.43</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Contemporary', 'Historical', 'Novels', 'Classics', 'War']</data>
+    </node>
+    <node id="The Giver">
+      <data key="d0">book</data>
+      <data key="d1">['Lois Lowry']</data>
+      <data key="d2">Lois Lowry</data>
+      <data key="d3">[4, 26, 1993]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.12</data>
+      <data key="d6">['Young Adult', 'Fiction', 'Classics', 'Dystopia', 'Science Fiction', 'Fantasy', 'School']</data>
+    </node>
+    <node id="Lois Lowry">
+      <data key="d0">author</data>
+      <data key="d1">['The Giver', 'Number the Stars']</data>
+      <data key="d7">Lois Lowry</data>
+    </node>
+    <node id="Number the Stars">
+      <data key="d0">book</data>
+      <data key="d1">['Lois Lowry']</data>
+      <data key="d2">Lois Lowry</data>
+      <data key="d3">[4, 24, 1989]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.18</data>
+      <data key="d6">['Historical Fiction', 'Young Adult', 'Fiction', 'Classics', 'Childrens', 'Historical', 'Middle Grade']</data>
+    </node>
+    <node id="The Giving Tree">
+      <data key="d0">book</data>
+      <data key="d1">['Shel Silverstein']</data>
+      <data key="d2">Shel Silverstein</data>
+      <data key="d3">[1, 1, 1964]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.38</data>
+      <data key="d6">['Childrens', 'Classics', 'Fiction', 'Picture Books', 'Poetry', 'Young Adult', 'Fantasy']</data>
+    </node>
+    <node id="Shel Silverstein">
+      <data key="d0">author</data>
+      <data key="d1">['The Giving Tree', 'Where the Sidewalk Ends', 'A Light in the Attic']</data>
+      <data key="d7">Shel Silverstein</data>
+    </node>
+    <node id="Where the Sidewalk Ends">
+      <data key="d0">book</data>
+      <data key="d1">['Shel Silverstein']</data>
+      <data key="d2">Shel Silverstein</data>
+      <data key="d3">[1, 1, 1974]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.33</data>
+      <data key="d6">['Poetry', 'Childrens', 'Classics', 'Fiction', 'Humor', 'Young Adult', 'Picture Books']</data>
+    </node>
+    <node id="A Light in the Attic">
+      <data key="d0">book</data>
+      <data key="d1">['Shel Silverstein']</data>
+      <data key="d2">Shel Silverstein</data>
+      <data key="d3">[10, 7, 1981]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.35</data>
+      <data key="d6">['Poetry', 'Childrens', 'Classics', 'Fiction', 'Humor', 'Young Adult', 'Picture Books']</data>
+    </node>
+    <node id="Charlotte's Web">
+      <data key="d0">book</data>
+      <data key="d1">['E.B. White']</data>
+      <data key="d2">E.B. White</data>
+      <data key="d3">[10, 15, 1952]</data>
+      <data key="d8">7.99</data>
+      <data key="d5">4.2</data>
+      <data key="d6">['Classics', 'Fiction', 'Childrens', 'Fantasy', 'Young Adult', 'Middle Grade', 'Animals']</data>
+    </node>
+    <node id="E.B. White">
+      <data key="d0">author</data>
+      <data key="d1">["Charlotte's Web"]</data>
+      <data key="d7">E.B. White</data>
+    </node>
+    <node id="Little Women">
+      <data key="d0">book</data>
+      <data key="d1">['Louisa May Alcott']</data>
+      <data key="d2">Louisa May Alcott</data>
+      <data key="d3">[1, 1, 1868]</data>
+      <data key="d8">2.99</data>
+      <data key="d5">4.14</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'Young Adult', 'Romance', 'Historical', 'Literature']</data>
+    </node>
+    <node id="Louisa May Alcott">
+      <data key="d0">author</data>
+      <data key="d1">['Little Women']</data>
+      <data key="d7">Louisa May Alcott</data>
+    </node>
+    <node id="The Hunger Games">
+      <data key="d0">book</data>
+      <data key="d1">['Suzanne Collins']</data>
+      <data key="d2">Suzanne Collins</data>
+      <data key="d3">[9, 14, 2008]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.33</data>
+      <data key="d6">['Young Adult', 'Fiction', 'Fantasy', 'Dystopia', 'Science Fiction', 'Romance', 'Adventure']</data>
+    </node>
+    <node id="Suzanne Collins">
+      <data key="d0">author</data>
+      <data key="d1">['The Hunger Games', 'Catching Fire', 'Mockingjay']</data>
+      <data key="d7">Suzanne Collins</data>
+    </node>
+    <node id="Catching Fire">
+      <data key="d0">book</data>
+      <data key="d1">['Suzanne Collins']</data>
+      <data key="d2">Suzanne Collins</data>
+      <data key="d3">[9, 1, 2009]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.32</data>
+      <data key="d6">['Young Adult', 'Dystopia', 'Fiction', 'Fantasy', 'Science Fiction', 'Romance', 'Adventure']</data>
+    </node>
+    <node id="Mockingjay">
+      <data key="d0">book</data>
+      <data key="d1">['Suzanne Collins']</data>
+      <data key="d2">Suzanne Collins</data>
+      <data key="d3">[8, 24, 2010]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.08</data>
+      <data key="d6">['Young Adult', 'Dystopia', 'Fiction', 'Fantasy', 'Science Fiction', 'Romance', 'Adventure']</data>
+    </node>
+    <node id="Of Mice and Men">
+      <data key="d0">book</data>
+      <data key="d1">['John Steinbeck']</data>
+      <data key="d2">John Steinbeck</data>
+      <data key="d3">[2, 25, 1937]</data>
+      <data key="d8">8.99</data>
+      <data key="d5">3.88</data>
+      <data key="d6">['Classics', 'Fiction', 'School', 'Historical Fiction', 'Literature', 'Read For School', 'Novels']</data>
+    </node>
+    <node id="John Steinbeck">
+      <data key="d0">author</data>
+      <data key="d1">['Of Mice and Men', 'The Grapes of Wrath', 'East of Eden']</data>
+      <data key="d7">John Steinbeck</data>
+    </node>
+    <node id="The Grapes of Wrath">
+      <data key="d0">book</data>
+      <data key="d1">['John Steinbeck']</data>
+      <data key="d2">John Steinbeck</data>
+      <data key="d3">[4, 14, 1939]</data>
+      <data key="d8">13.99</data>
+      <data key="d5">4.0</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'Literature', 'Novels', 'School', 'American']</data>
+    </node>
+    <node id="East of Eden">
+      <data key="d0">book</data>
+      <data key="d1">['John Steinbeck']</data>
+      <data key="d2">John Steinbeck</data>
+      <data key="d3">[1, 1, 1952]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.41</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'Literature', 'Novels', 'American', 'Literary Fiction']</data>
+    </node>
+    <node id="Fahrenheit 451">
+      <data key="d0">book</data>
+      <data key="d1">['Ray Bradbury']</data>
+      <data key="d2">Ray Bradbury</data>
+      <data key="d3">[10, 19, 1953]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">3.97</data>
+      <data key="d6">['Classics', 'Fiction', 'Science Fiction', 'Dystopia', 'School', 'Literature', 'Novels']</data>
+    </node>
+    <node id="Ray Bradbury">
+      <data key="d0">author</data>
+      <data key="d1">['Fahrenheit 451']</data>
+      <data key="d7">Ray Bradbury</data>
+    </node>
+    <node id="Green Eggs and Ham">
+      <data key="d0">book</data>
+      <data key="d1">['Dr. Seuss']</data>
+      <data key="d2">Dr. Seuss</data>
+      <data key="d3">[6, 1, 1960]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.31</data>
+      <data key="d6">['Childrens', 'Picture Books', 'Classics', 'Fiction', 'Poetry', 'Fantasy', 'Humor']</data>
+    </node>
+    <node id="Dr. Seuss">
+      <data key="d0">author</data>
+      <data key="d1">['Green Eggs and Ham', 'The Cat in the Hat', "Oh, the Places You'll Go!", 'The Lorax', 'How the Grinch Stole Christmas!', 'Horton Hears a Who!']</data>
+      <data key="d7">Dr. Seuss</data>
+    </node>
+    <node id="The Cat in the Hat">
+      <data key="d0">book</data>
+      <data key="d1">['Dr. Seuss']</data>
+      <data key="d2">Dr. Seuss</data>
+      <data key="d3">[3, 12, 1957]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.18</data>
+      <data key="d6">['Childrens', 'Picture Books', 'Classics', 'Fiction', 'Poetry', 'Fantasy', 'Humor']</data>
+    </node>
+    <node id="Oh, the Places You'll Go!">
+      <data key="d0">book</data>
+      <data key="d1">['Dr. Seuss']</data>
+      <data key="d2">Dr. Seuss</data>
+      <data key="d3">[1, 22, 1990]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.36</data>
+      <data key="d6">['Childrens', 'Picture Books', 'Fiction', 'Classics', 'Poetry', 'Fantasy', 'Young Adult']</data>
+    </node>
+    <node id="The Lorax">
+      <data key="d0">book</data>
+      <data key="d1">['Dr. Seuss']</data>
+      <data key="d2">Dr. Seuss</data>
+      <data key="d3">[1, 1, 1971]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.34</data>
+      <data key="d6">['Childrens', 'Picture Books', 'Fiction', 'Classics', 'Poetry', 'Fantasy', 'Environment']</data>
+    </node>
+    <node id="How the Grinch Stole Christmas!">
+      <data key="d0">book</data>
+      <data key="d1">['Dr. Seuss']</data>
+      <data key="d2">Dr. Seuss</data>
+      <data key="d3">[10, 12, 1957]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.37</data>
+      <data key="d6">['Childrens', 'Picture Books', 'Christmas', 'Classics', 'Fiction', 'Poetry', 'Fantasy']</data>
+    </node>
+    <node id="Horton Hears a Who!">
+      <data key="d0">book</data>
+      <data key="d1">['Dr. Seuss']</data>
+      <data key="d2">Dr. Seuss</data>
+      <data key="d3">[1, 1, 1954]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.21</data>
+      <data key="d6">['Childrens', 'Picture Books', 'Fiction', 'Classics', 'Poetry', 'Fantasy', 'Animals']</data>
+    </node>
+    <node id="Wuthering Heights">
+      <data key="d0">book</data>
+      <data key="d1">['Emily Brontë']</data>
+      <data key="d2">Emily Brontë</data>
+      <data key="d3">[12, 1, 1847]</data>
+      <data key="d8">3.22</data>
+      <data key="d5">3.89</data>
+      <data key="d6">['Classics', 'Fiction', 'Romance', 'Gothic', 'Historical Fiction', 'Literature', '19th Century']</data>
+    </node>
+    <node id="Emily Brontë">
+      <data key="d0">author</data>
+      <data key="d1">['Wuthering Heights']</data>
+      <data key="d7">Emily Brontë</data>
+    </node>
+    <node id="Alice's Adventures in Wonderland / Through the Looking-Glass">
+      <data key="d0">book</data>
+      <data key="d1">['Lewis Carroll']</data>
+      <data key="d2">Lewis Carroll</data>
+      <data key="d3">[12, 27, 1871]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">4.06</data>
+      <data key="d6">['Fantasy', 'Fiction', 'Classics', 'Childrens', 'Young Adult', 'Literature', 'Adventure']</data>
+    </node>
+    <node id="Lewis Carroll">
+      <data key="d0">author</data>
+      <data key="d1">["Alice's Adventures in Wonderland / Through the Looking-Glass"]</data>
+      <data key="d7">Lewis Carroll</data>
+    </node>
+    <node id="The Picture of Dorian Gray">
+      <data key="d0">book</data>
+      <data key="d1">['Oscar Wilde']</data>
+      <data key="d2">Oscar Wilde</data>
+      <data key="d3">[6, 1, 1890]</data>
+      <data key="d8">1.99</data>
+      <data key="d5">4.12</data>
+      <data key="d6">['Classics', 'Fiction', 'Horror', 'Fantasy', 'Gothic', 'Literature', 'Novels']</data>
+    </node>
+    <node id="Oscar Wilde">
+      <data key="d0">author</data>
+      <data key="d1">['The Picture of Dorian Gray']</data>
+      <data key="d7">Oscar Wilde</data>
+    </node>
+    <node id="Night">
+      <data key="d0">book</data>
+      <data key="d1">['Elie Wiesel']</data>
+      <data key="d2">Elie Wiesel</data>
+      <data key="d3">[1, 1, 1956]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.37</data>
+      <data key="d6">['Nonfiction', 'Classics', 'History', 'Memoir', 'Holocaust', 'Biography', 'School']</data>
+    </node>
+    <node id="Elie Wiesel">
+      <data key="d0">author</data>
+      <data key="d1">['Night']</data>
+      <data key="d7">Elie Wiesel</data>
+    </node>
+    <node id="Gone with the Wind">
+      <data key="d0">book</data>
+      <data key="d1">['Margaret Mitchell']</data>
+      <data key="d2">Margaret Mitchell</data>
+      <data key="d3">[6, 30, 1936]</data>
+      <data key="d8">6.99</data>
+      <data key="d5">4.31</data>
+      <data key="d6">['Classics', 'Historical Fiction', 'Fiction', 'Romance', 'Historical', 'Literature', 'War']</data>
+    </node>
+    <node id="Margaret Mitchell">
+      <data key="d0">author</data>
+      <data key="d1">['Gone with the Wind']</data>
+      <data key="d7">Margaret Mitchell</data>
+    </node>
+    <node id="The Holy Bible: King James Version">
+      <data key="d0">book</data>
+      <data key="d1">['Anonymous']</data>
+      <data key="d2">Anonymous</data>
+      <data key="d3">[1, 1, 1569]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.43</data>
+      <data key="d6">['Religion', 'Nonfiction', 'Christian', 'Philosophy', 'Christianity', 'History', 'Reference']</data>
+    </node>
+    <node id="Anonymous">
+      <data key="d0">author</data>
+      <data key="d1">['The Holy Bible: King James Version', 'القرآن الكريم']</data>
+      <data key="d7">Anonymous</data>
+    </node>
+    <node id="القرآن الكريم">
+      <data key="d0">book</data>
+      <data key="d1">['Anonymous']</data>
+      <data key="d2">Anonymous</data>
+      <data key="d3">[3, 18, 632]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.38</data>
+      <data key="d6">['Religion', 'Islam', 'Nonfiction', 'Classics', 'Philosophy', 'Spirituality', 'Reference']</data>
+    </node>
+    <node id="The Hitchhiker's Guide to the Galaxy">
+      <data key="d0">book</data>
+      <data key="d1">['Douglas Adams']</data>
+      <data key="d2">Douglas Adams</data>
+      <data key="d3">[10, 12, 1979]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.23</data>
+      <data key="d6">['Science Fiction', 'Fiction', 'Humor', 'Fantasy', 'Comedy', 'Science Fiction Fantasy', 'Audiobook']</data>
+    </node>
+    <node id="Douglas Adams">
+      <data key="d0">author</data>
+      <data key="d1">["The Hitchhiker's Guide to the Galaxy", "The Ultimate Hitchhiker's Guide to the Galaxy"]</data>
+      <data key="d7">Douglas Adams</data>
+    </node>
+    <node id="The Ultimate Hitchhiker's Guide to the Galaxy">
+      <data key="d0">book</data>
+      <data key="d1">['Douglas Adams']</data>
+      <data key="d2">Douglas Adams</data>
+      <data key="d3">[1, 17, 1996]</data>
+      <data key="d8">13.99</data>
+      <data key="d5">4.38</data>
+      <data key="d6">['Science Fiction', 'Fiction', 'Humor', 'Fantasy', 'Classics', 'Comedy', 'Science Fiction Fantasy']</data>
+    </node>
+    <node id="The Adventures of Huckleberry Finn">
+      <data key="d0">book</data>
+      <data key="d1">['Mark Twain']</data>
+      <data key="d2">Mark Twain</data>
+      <data key="d3">[2, 18, 1884]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.83</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'Literature', 'Young Adult', 'Adventure', 'School']</data>
+    </node>
+    <node id="Mark Twain">
+      <data key="d0">author</data>
+      <data key="d1">['The Adventures of Huckleberry Finn', 'The Adventures of Tom Sawyer']</data>
+      <data key="d7">Mark Twain</data>
+    </node>
+    <node id="The Adventures of Tom Sawyer">
+      <data key="d0">book</data>
+      <data key="d1">['Mark Twain']</data>
+      <data key="d2">Mark Twain</data>
+      <data key="d3">[6, 1, 1876]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">3.92</data>
+      <data key="d6">['Classics', 'Fiction', 'Adventure', 'Historical Fiction', 'Young Adult', 'Literature', 'Childrens']</data>
+    </node>
+    <node id="Les Misérables">
+      <data key="d0">book</data>
+      <data key="d1">['Victor Hugo']</data>
+      <data key="d2">Victor Hugo</data>
+      <data key="d3">[1, 1, 1862]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.2</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'Literature', 'France', 'Historical', 'Novels']</data>
+    </node>
+    <node id="Victor Hugo">
+      <data key="d0">author</data>
+      <data key="d1">['Les Misérables']</data>
+      <data key="d7">Victor Hugo</data>
+    </node>
+    <node id="The Alchemist">
+      <data key="d0">book</data>
+      <data key="d1">['Paulo Coelho']</data>
+      <data key="d2">Paulo Coelho</data>
+      <data key="d3">[1, 1, 1988]</data>
+      <data key="d8">14.99</data>
+      <data key="d5">3.9</data>
+      <data key="d6">['Fiction', 'Classics', 'Fantasy', 'Philosophy', 'Novels', 'Spirituality', 'Self Help']</data>
+    </node>
+    <node id="Paulo Coelho">
+      <data key="d0">author</data>
+      <data key="d1">['The Alchemist']</data>
+      <data key="d7">Paulo Coelho</data>
+    </node>
+    <node id="Brave New World / Brave New World Revisited">
+      <data key="d0">book</data>
+      <data key="d1">['Aldous Huxley']</data>
+      <data key="d2">Aldous Huxley</data>
+      <data key="d3">[1, 1, 1958]</data>
+      <data key="d8">14.24</data>
+      <data key="d5">4.16</data>
+      <data key="d6">['Classics', 'Fiction', 'Science Fiction', 'Dystopia', 'Literature', 'Novels', 'Fantasy']</data>
+    </node>
+    <node id="Aldous Huxley">
+      <data key="d0">author</data>
+      <data key="d1">['Brave New World / Brave New World Revisited', 'Brave New World']</data>
+      <data key="d7">Aldous Huxley</data>
+    </node>
+    <node id="Brave New World">
+      <data key="d0">book</data>
+      <data key="d1">['Aldous Huxley']</data>
+      <data key="d2">Aldous Huxley</data>
+      <data key="d3">[1, 1, 1932]</data>
+      <data key="d8">4.99</data>
+      <data key="d5">3.99</data>
+      <data key="d6">['Classics', 'Fiction', 'Science Fiction', 'Dystopia', 'Literature', 'Novels', 'School']</data>
+    </node>
+    <node id="Crime and Punishment">
+      <data key="d0">book</data>
+      <data key="d1">['Fyodor Dostoevsky']</data>
+      <data key="d2">Fyodor Dostoevsky</data>
+      <data key="d3">[1, 1, 1866]</data>
+      <data key="d8">14.99</data>
+      <data key="d5">4.26</data>
+      <data key="d6">['Classics', 'Fiction', 'Russia', 'Literature', 'Russian Literature', 'Philosophy', 'Novels']</data>
+    </node>
+    <node id="Fyodor Dostoevsky">
+      <data key="d0">author</data>
+      <data key="d1">['Crime and Punishment', 'The Brothers Karamazov']</data>
+      <data key="d7">Fyodor Dostoevsky</data>
+    </node>
+    <node id="The Brothers Karamazov">
+      <data key="d0">book</data>
+      <data key="d1">['Fyodor Dostoevsky']</data>
+      <data key="d2">Fyodor Dostoevsky</data>
+      <data key="d3">[1, 1, 1880]</data>
+      <data key="d8">3.99</data>
+      <data key="d5">4.36</data>
+      <data key="d6">['Classics', 'Fiction', 'Russia', 'Russian Literature', 'Literature', 'Philosophy', 'Novels']</data>
+    </node>
+    <node id="The Help">
+      <data key="d0">book</data>
+      <data key="d1">['Kathryn Stockett']</data>
+      <data key="d2">Kathryn Stockett</data>
+      <data key="d3">[2, 10, 2009]</data>
+      <data key="d8">14.99</data>
+      <data key="d5">4.47</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Historical', 'Adult', 'Classics', 'Adult Fiction', 'Contemporary']</data>
+    </node>
+    <node id="Kathryn Stockett">
+      <data key="d0">author</data>
+      <data key="d1">['The Help']</data>
+      <data key="d7">Kathryn Stockett</data>
+    </node>
+    <node id="The Secret Garden">
+      <data key="d0">book</data>
+      <data key="d1">['Frances Hodgson Burnett']</data>
+      <data key="d2">Frances Hodgson Burnett</data>
+      <data key="d3">[8, 1, 1911]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.15</data>
+      <data key="d6">['Classics', 'Fiction', 'Childrens', 'Young Adult', 'Historical Fiction', 'Middle Grade', 'Fantasy']</data>
+    </node>
+    <node id="Frances Hodgson Burnett">
+      <data key="d0">author</data>
+      <data key="d1">['The Secret Garden', 'A Little Princess']</data>
+      <data key="d7">Frances Hodgson Burnett</data>
+    </node>
+    <node id="A Little Princess">
+      <data key="d0">book</data>
+      <data key="d1">['Frances Hodgson Burnett']</data>
+      <data key="d2">Frances Hodgson Burnett</data>
+      <data key="d3">[1, 1, 1905]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.22</data>
+      <data key="d6">['Classics', 'Fiction', 'Childrens', 'Young Adult', 'Historical Fiction', 'Middle Grade', 'Historical']</data>
+    </node>
+    <node id="Memoirs of a Geisha">
+      <data key="d0">book</data>
+      <data key="d1">['Arthur Golden']</data>
+      <data key="d2">Arthur Golden</data>
+      <data key="d3">[1, 1, 1997]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">4.15</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Romance', 'Historical', 'Classics', 'Japan', 'Adult']</data>
+    </node>
+    <node id="Arthur Golden">
+      <data key="d0">author</data>
+      <data key="d1">['Memoirs of a Geisha']</data>
+      <data key="d7">Arthur Golden</data>
+    </node>
+    <node id="The Odyssey">
+      <data key="d0">book</data>
+      <data key="d1">['Homer']</data>
+      <data key="d2">Homer</data>
+      <data key="d3">[1, 1, 701]</data>
+      <data key="d8">5.99</data>
+      <data key="d5">3.8</data>
+      <data key="d6">['Classics', 'Fiction', 'Poetry', 'Mythology', 'Fantasy', 'School', 'Literature']</data>
+    </node>
+    <node id="Homer">
+      <data key="d0">author</data>
+      <data key="d1">['The Odyssey', 'The Iliad', 'The Iliad / The Odyssey']</data>
+      <data key="d7">Homer</data>
+    </node>
+    <node id="The Iliad">
+      <data key="d0">book</data>
+      <data key="d1">['Homer']</data>
+      <data key="d2">Homer</data>
+      <data key="d3">[1, 1, 701]</data>
+      <data key="d8">3.99</data>
+      <data key="d5">3.9</data>
+      <data key="d6">['Classics', 'Poetry', 'Fiction', 'Mythology', 'Literature', 'Fantasy', 'Historical Fiction']</data>
+    </node>
+    <node id="The Iliad / The Odyssey">
+      <data key="d0">book</data>
+      <data key="d1">['Homer']</data>
+      <data key="d2">Homer</data>
+      <data key="d3">[1, 1, 801]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">4.06</data>
+      <data key="d6">['Classics', 'Fiction', 'Poetry', 'Mythology', 'Fantasy', 'Literature', 'Historical Fiction']</data>
+    </node>
+    <node id="A Christmas Carol">
+      <data key="d0">book</data>
+      <data key="d1">['Charles Dickens']</data>
+      <data key="d2">Charles Dickens</data>
+      <data key="d3">[12, 17, 1843]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.07</data>
+      <data key="d6">['Fiction', 'Classics', 'Christmas', 'Fantasy', 'Literature', 'Audiobook', 'Historical Fiction']</data>
+    </node>
+    <node id="Charles Dickens">
+      <data key="d0">author</data>
+      <data key="d1">['A Christmas Carol', 'A Tale of Two Cities', 'Great Expectations', 'Oliver Twist']</data>
+      <data key="d7">Charles Dickens</data>
+    </node>
+    <node id="A Tale of Two Cities">
+      <data key="d0">book</data>
+      <data key="d1">['Charles Dickens']</data>
+      <data key="d2">Charles Dickens</data>
+      <data key="d3">[11, 26, 1859]</data>
+      <data key="d8">3.0</data>
+      <data key="d5">3.87</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'Literature', 'Historical', 'Novels', 'School']</data>
+    </node>
+    <node id="Great Expectations">
+      <data key="d0">book</data>
+      <data key="d1">['Charles Dickens']</data>
+      <data key="d2">Charles Dickens</data>
+      <data key="d3">[12, 1, 1860]</data>
+      <data key="d8">4.99</data>
+      <data key="d5">3.79</data>
+      <data key="d6">['Classics', 'Fiction', 'Literature', 'Historical Fiction', 'School', 'Novels', '19th Century']</data>
+    </node>
+    <node id="Oliver Twist">
+      <data key="d0">book</data>
+      <data key="d1">['Charles Dickens']</data>
+      <data key="d2">Charles Dickens</data>
+      <data key="d3">[1, 1, 1838]</data>
+      <data key="d8">3.61</data>
+      <data key="d5">3.88</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'Literature', 'Novels', '19th Century', 'Classic Literature']</data>
+    </node>
+    <node id="The Outsiders">
+      <data key="d0">book</data>
+      <data key="d1">['S.E. Hinton']</data>
+      <data key="d2">S.E. Hinton</data>
+      <data key="d3">[4, 24, 1967]</data>
+      <data key="d8">8.99</data>
+      <data key="d5">4.12</data>
+      <data key="d6">['Classics', 'Young Adult', 'Fiction', 'School', 'Read For School', 'Realistic Fiction', 'Coming Of Age']</data>
+    </node>
+    <node id="S.E. Hinton">
+      <data key="d0">author</data>
+      <data key="d1">['The Outsiders']</data>
+      <data key="d7">S.E. Hinton</data>
+    </node>
+    <node id="One Hundred Years of Solitude">
+      <data key="d0">book</data>
+      <data key="d1">['Gabriel García Márquez']</data>
+      <data key="d2">Gabriel García Márquez</data>
+      <data key="d3">[5, 1, 1967]</data>
+      <data key="d8">30.0</data>
+      <data key="d5">4.11</data>
+      <data key="d6">['Fiction', 'Magical Realism', 'Literature', 'Fantasy', 'Novels', 'Historical Fiction', 'Spanish Literature']</data>
+    </node>
+    <node id="Gabriel García Márquez">
+      <data key="d0">author</data>
+      <data key="d1">['One Hundred Years of Solitude', 'Love in the Time of Cholera']</data>
+      <data key="d7">Gabriel García Márquez</data>
+    </node>
+    <node id="Love in the Time of Cholera">
+      <data key="d0">book</data>
+      <data key="d1">['Gabriel García Márquez']</data>
+      <data key="d2">Gabriel García Márquez</data>
+      <data key="d3">[11, 1, 1985]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.93</data>
+      <data key="d6">['Fiction', 'Classics', 'Historical Fiction', 'Magical Realism', 'Literature', 'Novels', 'Spanish Literature']</data>
+    </node>
+    <node id="Anne of Green Gables">
+      <data key="d0">book</data>
+      <data key="d1">['L.M. Montgomery']</data>
+      <data key="d2">L.M. Montgomery</data>
+      <data key="d3">[1, 1, 1908]</data>
+      <data key="d8">1.99</data>
+      <data key="d5">4.3</data>
+      <data key="d6">['Classics', 'Fiction', 'Young Adult', 'Historical Fiction', 'Childrens', 'Middle Grade', 'Audiobook']</data>
+    </node>
+    <node id="L.M. Montgomery">
+      <data key="d0">author</data>
+      <data key="d1">['Anne of Green Gables']</data>
+      <data key="d7">L.M. Montgomery</data>
+    </node>
+    <node id="The Count of Monte Cristo">
+      <data key="d0">book</data>
+      <data key="d1">['Alexandre Dumas']</data>
+      <data key="d2">Alexandre Dumas</data>
+      <data key="d3">[8, 28, 1844]</data>
+      <data key="d8">1.99</data>
+      <data key="d5">4.29</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'Adventure', 'Literature', 'France', 'Historical']</data>
+    </node>
+    <node id="Alexandre Dumas">
+      <data key="d0">author</data>
+      <data key="d1">['The Count of Monte Cristo', 'The Three Musketeers']</data>
+      <data key="d7">Alexandre Dumas</data>
+    </node>
+    <node id="The Three Musketeers">
+      <data key="d0">book</data>
+      <data key="d1">['Alexandre Dumas']</data>
+      <data key="d2">Alexandre Dumas</data>
+      <data key="d3">[1, 1, 1844]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">4.09</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'Adventure', 'France', 'Literature', 'Historical']</data>
+    </node>
+    <node id="Ender’s Game">
+      <data key="d0">book</data>
+      <data key="d1">['Orson Scott Card']</data>
+      <data key="d2">Orson Scott Card</data>
+      <data key="d3">[1, 15, 1985]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.31</data>
+      <data key="d6">['Science Fiction', 'Fiction', 'Young Adult', 'Fantasy', 'Classics', 'Science Fiction Fantasy', 'Dystopia']</data>
+    </node>
+    <node id="Orson Scott Card">
+      <data key="d0">author</data>
+      <data key="d1">['Ender’s Game']</data>
+      <data key="d7">Orson Scott Card</data>
+    </node>
+    <node id="Where the Wild Things Are">
+      <data key="d0">book</data>
+      <data key="d1">['Maurice Sendak']</data>
+      <data key="d2">Maurice Sendak</data>
+      <data key="d3">[4, 9, 1963]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.24</data>
+      <data key="d6">['Childrens', 'Picture Books', 'Fiction', 'Classics', 'Fantasy', 'Adventure', 'Young Adult']</data>
+    </node>
+    <node id="Maurice Sendak">
+      <data key="d0">author</data>
+      <data key="d1">['Where the Wild Things Are']</data>
+      <data key="d7">Maurice Sendak</data>
+    </node>
+    <node id="The Color Purple">
+      <data key="d0">book</data>
+      <data key="d1">['Alice Walker', 'Alice Walker']</data>
+      <data key="d2">Alice Walker</data>
+      <data key="d3">[6, 1, 1982]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.26</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Feminism', 'Classics', 'LGBT', 'Historical', 'Queer']</data>
+    </node>
+    <node id="Alice Walker">
+      <data key="d0">author</data>
+      <data key="d1">['The Color Purple', 'The Color Purple']</data>
+      <data key="d7">Alice Walker</data>
+    </node>
+    <node id="Life of Pi">
+      <data key="d0">book</data>
+      <data key="d1">['Yann Martel']</data>
+      <data key="d2">Yann Martel</data>
+      <data key="d3">[9, 11, 2001]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">3.93</data>
+      <data key="d6">['Fiction', 'Fantasy', 'Classics', 'Adventure', 'Magical Realism', 'Novels', 'Literature']</data>
+    </node>
+    <node id="Yann Martel">
+      <data key="d0">author</data>
+      <data key="d1">['Life of Pi']</data>
+      <data key="d7">Yann Martel</data>
+    </node>
+    <node id="The Handmaid’s Tale">
+      <data key="d0">book</data>
+      <data key="d1">['Margaret Atwood']</data>
+      <data key="d2">Margaret Atwood</data>
+      <data key="d3">[1, 1, 1985]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.13</data>
+      <data key="d6">['Fiction', 'Classics', 'Dystopia', 'Science Fiction', 'Feminism', 'Fantasy', 'Adult']</data>
+    </node>
+    <node id="Margaret Atwood">
+      <data key="d0">author</data>
+      <data key="d1">['The Handmaid’s Tale']</data>
+      <data key="d7">Margaret Atwood</data>
+    </node>
+    <node id="One Flew Over the Cuckoo's Nest">
+      <data key="d0">book</data>
+      <data key="d1">['Ken Kesey']</data>
+      <data key="d2">Ken Kesey</data>
+      <data key="d3">[1, 1, 1962]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.2</data>
+      <data key="d6">['Classics', 'Fiction', 'Psychology', 'Literature', 'Novels', 'Mental Health', 'School']</data>
+    </node>
+    <node id="Ken Kesey">
+      <data key="d0">author</data>
+      <data key="d1">["One Flew Over the Cuckoo's Nest"]</data>
+      <data key="d7">Ken Kesey</data>
+    </node>
+    <node id="Frankenstein: The 1818 Text">
+      <data key="d0">book</data>
+      <data key="d1">['Mary Wollstonecraft Shelley']</data>
+      <data key="d2">Mary Wollstonecraft Shelley</data>
+      <data key="d3">[1, 1, 1818]</data>
+      <data key="d8">3.6</data>
+      <data key="d5">3.86</data>
+      <data key="d6">['Classics', 'Horror', 'Fiction', 'Science Fiction', 'Gothic', 'Fantasy', 'School']</data>
+    </node>
+    <node id="Mary Wollstonecraft Shelley">
+      <data key="d0">author</data>
+      <data key="d1">['Frankenstein: The 1818 Text']</data>
+      <data key="d7">Mary Wollstonecraft Shelley</data>
+    </node>
+    <node id="Anna Karenina">
+      <data key="d0">book</data>
+      <data key="d1">['Leo Tolstoy']</data>
+      <data key="d2">Leo Tolstoy</data>
+      <data key="d3">[1, 1, 1878]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">4.09</data>
+      <data key="d6">['Classics', 'Fiction', 'Romance', 'Russia', 'Historical Fiction', 'Russian Literature', 'Literature']</data>
+    </node>
+    <node id="Leo Tolstoy">
+      <data key="d0">author</data>
+      <data key="d1">['Anna Karenina', 'War and Peace']</data>
+      <data key="d7">Leo Tolstoy</data>
+    </node>
+    <node id="War and Peace">
+      <data key="d0">book</data>
+      <data key="d1">['Leo Tolstoy']</data>
+      <data key="d2">Leo Tolstoy</data>
+      <data key="d3">[1, 1, 1867]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.16</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'Russia', 'Russian Literature', 'Literature', 'War']</data>
+    </node>
+    <node id="Tuesdays with Morrie">
+      <data key="d0">book</data>
+      <data key="d1">['Mitch Albom']</data>
+      <data key="d2">Mitch Albom</data>
+      <data key="d3">[8, 18, 1997]</data>
+      <data key="d8">11.99</data>
+      <data key="d5">4.16</data>
+      <data key="d6">['Nonfiction', 'Memoir', 'Biography', 'Classics', 'Inspirational', 'Philosophy', 'Self Help']</data>
+    </node>
+    <node id="Mitch Albom">
+      <data key="d0">author</data>
+      <data key="d1">['Tuesdays with Morrie', 'The Five People You Meet in Heaven']</data>
+      <data key="d7">Mitch Albom</data>
+    </node>
+    <node id="The Five People You Meet in Heaven">
+      <data key="d0">book</data>
+      <data key="d1">['Mitch Albom']</data>
+      <data key="d2">Mitch Albom</data>
+      <data key="d3">[9, 1, 2003]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.98</data>
+      <data key="d6">['Fiction', 'Contemporary', 'Inspirational', 'Fantasy', 'Classics', 'Spirituality', 'Adult']</data>
+    </node>
+    <node id="Winnie-the-Pooh">
+      <data key="d0">book</data>
+      <data key="d1">['A.A. Milne']</data>
+      <data key="d2">A.A. Milne</data>
+      <data key="d3">[10, 14, 1926]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.35</data>
+      <data key="d6">['Childrens', 'Fiction', 'Classics', 'Fantasy', 'Animals', 'Middle Grade', 'Audiobook']</data>
+    </node>
+    <node id="A.A. Milne">
+      <data key="d0">author</data>
+      <data key="d1">['Winnie-the-Pooh']</data>
+      <data key="d7">A.A. Milne</data>
+    </node>
+    <node id="Slaughterhouse-Five">
+      <data key="d0">book</data>
+      <data key="d1">['Kurt Vonnegut Jr.']</data>
+      <data key="d2">Kurt Vonnegut Jr.</data>
+      <data key="d3">[3, 31, 1969]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.09</data>
+      <data key="d6">['Classics', 'Fiction', 'Science Fiction', 'Historical Fiction', 'War', 'Literature', 'Novels']</data>
+    </node>
+    <node id="Kurt Vonnegut Jr.">
+      <data key="d0">author</data>
+      <data key="d1">['Slaughterhouse-Five', "Cat's Cradle"]</data>
+      <data key="d7">Kurt Vonnegut Jr.</data>
+    </node>
+    <node id="Cat's Cradle">
+      <data key="d0">book</data>
+      <data key="d1">['Kurt Vonnegut Jr.']</data>
+      <data key="d2">Kurt Vonnegut Jr.</data>
+      <data key="d3">[1, 1, 1963]</data>
+      <data key="d8">10.99</data>
+      <data key="d5">4.16</data>
+      <data key="d6">['Fiction', 'Classics', 'Science Fiction', 'Humor', 'Literature', 'Novels', 'Dystopia']</data>
+    </node>
+    <node id="The Old Man and the Sea">
+      <data key="d0">book</data>
+      <data key="d1">['Ernest Hemingway']</data>
+      <data key="d2">Ernest Hemingway</data>
+      <data key="d3">[1, 1, 1952]</data>
+      <data key="d8">10.99</data>
+      <data key="d5">3.8</data>
+      <data key="d6">['Classics', 'Fiction', 'Literature', 'Novels', 'American', 'School', 'Adventure']</data>
+    </node>
+    <node id="Ernest Hemingway">
+      <data key="d0">author</data>
+      <data key="d1">['The Old Man and the Sea', 'The Sun Also Rises', 'A Farewell to Arms']</data>
+      <data key="d7">Ernest Hemingway</data>
+    </node>
+    <node id="The Sun Also Rises">
+      <data key="d0">book</data>
+      <data key="d1">['Ernest Hemingway']</data>
+      <data key="d2">Ernest Hemingway</data>
+      <data key="d3">[10, 22, 1926]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.8</data>
+      <data key="d6">['Classics', 'Fiction', 'Literature', 'Novels', 'Historical Fiction', 'American', 'Spain']</data>
+    </node>
+    <node id="A Farewell to Arms">
+      <data key="d0">book</data>
+      <data key="d1">['Ernest Hemingway']</data>
+      <data key="d2">Ernest Hemingway</data>
+      <data key="d3">[9, 1, 1929]</data>
+      <data key="d8">11.99</data>
+      <data key="d5">3.82</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'War', 'Literature', 'Novels', 'American']</data>
+    </node>
+    <node id="Catch-22">
+      <data key="d0">book</data>
+      <data key="d1">['Joseph Heller']</data>
+      <data key="d2">Joseph Heller</data>
+      <data key="d3">[11, 10, 1961]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.99</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'War', 'Humor', 'Literature', 'Novels']</data>
+    </node>
+    <node id="Joseph Heller">
+      <data key="d0">author</data>
+      <data key="d1">['Catch-22']</data>
+      <data key="d7">Joseph Heller</data>
+    </node>
+    <node id="The Scarlet Letter">
+      <data key="d0">book</data>
+      <data key="d1">['Nathaniel Hawthorne']</data>
+      <data key="d2">Nathaniel Hawthorne</data>
+      <data key="d3">[3, 16, 1850]</data>
+      <data key="d8">3.65</data>
+      <data key="d5">3.43</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'School', 'Literature', 'High School', 'Historical']</data>
+    </node>
+    <node id="Nathaniel Hawthorne">
+      <data key="d0">author</data>
+      <data key="d1">['The Scarlet Letter']</data>
+      <data key="d7">Nathaniel Hawthorne</data>
+    </node>
+    <node id="Twilight">
+      <data key="d0">book</data>
+      <data key="d1">['Stephenie Meyer']</data>
+      <data key="d2">Stephenie Meyer</data>
+      <data key="d3">[10, 5, 2005]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.64</data>
+      <data key="d6">['Fantasy', 'Young Adult', 'Romance', 'Fiction', 'Vampires', 'Paranormal', 'Paranormal Romance']</data>
+    </node>
+    <node id="Stephenie Meyer">
+      <data key="d0">author</data>
+      <data key="d1">['Twilight', 'Eclipse', 'Breaking Dawn', 'New Moon']</data>
+      <data key="d7">Stephenie Meyer</data>
+    </node>
+    <node id="Eclipse">
+      <data key="d0">book</data>
+      <data key="d1">['Stephenie Meyer']</data>
+      <data key="d2">Stephenie Meyer</data>
+      <data key="d3">[8, 7, 2007]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.72</data>
+      <data key="d6">['Fantasy', 'Young Adult', 'Romance', 'Vampires', 'Fiction', 'Paranormal', 'Paranormal Romance']</data>
+    </node>
+    <node id="Breaking Dawn">
+      <data key="d0">book</data>
+      <data key="d1">['Stephenie Meyer']</data>
+      <data key="d2">Stephenie Meyer</data>
+      <data key="d3">[8, 2, 2008]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.73</data>
+      <data key="d6">['Fantasy', 'Young Adult', 'Romance', 'Vampires', 'Fiction', 'Paranormal', 'Paranormal Romance']</data>
+    </node>
+    <node id="New Moon">
+      <data key="d0">book</data>
+      <data key="d1">['Stephenie Meyer']</data>
+      <data key="d2">Stephenie Meyer</data>
+      <data key="d3">[9, 6, 2006]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.59</data>
+      <data key="d6">['Fantasy', 'Young Adult', 'Romance', 'Vampires', 'Fiction', 'Paranormal', 'Paranormal Romance']</data>
+    </node>
+    <node id="Lolita">
+      <data key="d0">book</data>
+      <data key="d1">['Vladimir Nabokov']</data>
+      <data key="d2">Vladimir Nabokov</data>
+      <data key="d3">[9, 1, 1955]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">3.88</data>
+      <data key="d6">['Classics', 'Fiction', 'Literature', 'Russia', 'Novels', 'Romance', 'Russian Literature']</data>
+    </node>
+    <node id="Vladimir Nabokov">
+      <data key="d0">author</data>
+      <data key="d1">['Lolita']</data>
+      <data key="d7">Vladimir Nabokov</data>
+    </node>
+    <node id="The Metamorphosis">
+      <data key="d0">book</data>
+      <data key="d1">['Franz Kafka']</data>
+      <data key="d2">Franz Kafka</data>
+      <data key="d3">[1, 1, 1915]</data>
+      <data key="d8">1.99</data>
+      <data key="d5">3.85</data>
+      <data key="d6">['Classics', 'Fiction', 'Fantasy', 'Philosophy', 'Literature', 'Short Stories', 'School']</data>
+    </node>
+    <node id="Franz Kafka">
+      <data key="d0">author</data>
+      <data key="d1">['The Metamorphosis', 'The Trial']</data>
+      <data key="d7">Franz Kafka</data>
+    </node>
+    <node id="The Trial">
+      <data key="d0">book</data>
+      <data key="d1">['Franz Kafka']</data>
+      <data key="d2">Franz Kafka</data>
+      <data key="d3">[4, 26, 1925]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">3.96</data>
+      <data key="d6">['Classics', 'Fiction', 'Philosophy', 'Literature', 'German Literature', 'Novels', 'Dystopia']</data>
+    </node>
+    <node id="The Stranger">
+      <data key="d0">book</data>
+      <data key="d1">['Albert Camus']</data>
+      <data key="d2">Albert Camus</data>
+      <data key="d3">[5, 19, 1942]</data>
+      <data key="d8">8.99</data>
+      <data key="d5">4.02</data>
+      <data key="d6">['Classics', 'Fiction', 'Philosophy', 'France', 'Literature', 'Novels', 'French Literature']</data>
+    </node>
+    <node id="Albert Camus">
+      <data key="d0">author</data>
+      <data key="d1">['The Stranger']</data>
+      <data key="d7">Albert Camus</data>
+    </node>
+    <node id="Siddhartha">
+      <data key="d0">book</data>
+      <data key="d1">['Hermann Hesse']</data>
+      <data key="d2">Hermann Hesse</data>
+      <data key="d3">[1, 1, 1922]</data>
+      <data key="d8">3.99</data>
+      <data key="d5">4.06</data>
+      <data key="d6">['Classics', 'Fiction', 'Philosophy', 'Spirituality', 'Religion', 'Literature', 'Buddhism']</data>
+    </node>
+    <node id="Hermann Hesse">
+      <data key="d0">author</data>
+      <data key="d1">['Siddhartha']</data>
+      <data key="d7">Hermann Hesse</data>
+    </node>
+    <node id="The Time Traveler's Wife">
+      <data key="d0">book</data>
+      <data key="d1">['Audrey Niffenegger']</data>
+      <data key="d2">Audrey Niffenegger</data>
+      <data key="d3">[1, 1, 2003]</data>
+      <data key="d8">8.99</data>
+      <data key="d5">3.99</data>
+      <data key="d6">['Fiction', 'Romance', 'Fantasy', 'Time Travel', 'Science Fiction', 'Contemporary', 'Adult']</data>
+    </node>
+    <node id="Audrey Niffenegger">
+      <data key="d0">author</data>
+      <data key="d1">["The Time Traveler's Wife"]</data>
+      <data key="d7">Audrey Niffenegger</data>
+    </node>
+    <node id="Goodnight Moon">
+      <data key="d0">book</data>
+      <data key="d1">['Margaret Wise Brown']</data>
+      <data key="d2">Margaret Wise Brown</data>
+      <data key="d3">[9, 3, 1947]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.3</data>
+      <data key="d6">['Childrens', 'Picture Books', 'Classics', 'Fiction', 'Poetry', 'Kids', 'Animals']</data>
+    </node>
+    <node id="Margaret Wise Brown">
+      <data key="d0">author</data>
+      <data key="d1">['Goodnight Moon']</data>
+      <data key="d7">Margaret Wise Brown</data>
+    </node>
+    <node id="A Tree Grows in Brooklyn">
+      <data key="d0">book</data>
+      <data key="d1">['Betty  Smith']</data>
+      <data key="d2">Betty  Smith</data>
+      <data key="d3">[8, 18, 1943]</data>
+      <data key="d8">14.99</data>
+      <data key="d5">4.29</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'Young Adult', 'Coming Of Age', 'Historical', 'New York']</data>
+    </node>
+    <node id="Betty  Smith">
+      <data key="d0">author</data>
+      <data key="d1">['A Tree Grows in Brooklyn']</data>
+      <data key="d7">Betty  Smith</data>
+    </node>
+    <node id="The Little House Collection">
+      <data key="d0">book</data>
+      <data key="d1">['Laura Ingalls Wilder']</data>
+      <data key="d2">Laura Ingalls Wilder</data>
+      <data key="d3">[1, 1, 1971]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.35</data>
+      <data key="d6">['Classics', 'Historical Fiction', 'Childrens', 'Fiction', 'Young Adult', 'Historical', 'Middle Grade']</data>
+    </node>
+    <node id="Laura Ingalls Wilder">
+      <data key="d0">author</data>
+      <data key="d1">['The Little House Collection']</data>
+      <data key="d7">Laura Ingalls Wilder</data>
+    </node>
+    <node id="A Clockwork Orange">
+      <data key="d0">book</data>
+      <data key="d1">['Anthony Burgess']</data>
+      <data key="d2">Anthony Burgess</data>
+      <data key="d3">[1, 1, 1962]</data>
+      <data key="d8">6.99</data>
+      <data key="d5">4.0</data>
+      <data key="d6">['Classics', 'Fiction', 'Science Fiction', 'Dystopia', 'Literature', 'Horror', 'Novels']</data>
+    </node>
+    <node id="Anthony Burgess">
+      <data key="d0">author</data>
+      <data key="d1">['A Clockwork Orange']</data>
+      <data key="d7">Anthony Burgess</data>
+    </node>
+    <node id="All Quiet on the Western Front">
+      <data key="d0">book</data>
+      <data key="d1">['Erich Maria Remarque']</data>
+      <data key="d2">Erich Maria Remarque</data>
+      <data key="d3">[1, 1, 1928]</data>
+      <data key="d8">10.99</data>
+      <data key="d5">4.06</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'War', 'Historical', 'Literature', 'School']</data>
+    </node>
+    <node id="Erich Maria Remarque">
+      <data key="d0">author</data>
+      <data key="d1">['All Quiet on the Western Front']</data>
+      <data key="d7">Erich Maria Remarque</data>
+    </node>
+    <node id="The Stand">
+      <data key="d0">book</data>
+      <data key="d1">['Stephen King']</data>
+      <data key="d2">Stephen King</data>
+      <data key="d3">[1, 1, 1978]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.35</data>
+      <data key="d6">['Horror', 'Fiction', 'Fantasy', 'Science Fiction', 'Post Apocalyptic', 'Thriller', 'Dystopia']</data>
+    </node>
+    <node id="Stephen King">
+      <data key="d0">author</data>
+      <data key="d1">['The Stand', 'The Green Mile', 'The Shining']</data>
+      <data key="d7">Stephen King</data>
+    </node>
+    <node id="The Green Mile">
+      <data key="d0">book</data>
+      <data key="d1">['Stephen King']</data>
+      <data key="d2">Stephen King</data>
+      <data key="d3">[1, 1, 1996]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.47</data>
+      <data key="d6">['Horror', 'Fiction', 'Fantasy', 'Thriller', 'Mystery', 'Classics', 'Crime']</data>
+    </node>
+    <node id="The Shining">
+      <data key="d0">book</data>
+      <data key="d1">['Stephen King']</data>
+      <data key="d2">Stephen King</data>
+      <data key="d3">[1, 28, 1977]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.26</data>
+      <data key="d6">['Horror', 'Fiction', 'Thriller', 'Classics', 'Fantasy', 'Paranormal', 'Mystery']</data>
+    </node>
+    <node id="Don Quixote">
+      <data key="d0">book</data>
+      <data key="d1">['Miguel de Cervantes Saavedra']</data>
+      <data key="d2">Miguel de Cervantes Saavedra</data>
+      <data key="d3">[1, 1, 1605]</data>
+      <data key="d8">2.99</data>
+      <data key="d5">3.89</data>
+      <data key="d6">['Classics', 'Fiction', 'Literature', 'Spanish Literature', 'Adventure', 'Historical Fiction', 'Novels']</data>
+    </node>
+    <node id="Miguel de Cervantes Saavedra">
+      <data key="d0">author</data>
+      <data key="d1">['Don Quixote']</data>
+      <data key="d7">Miguel de Cervantes Saavedra</data>
+    </node>
+    <node id="Uncle Tom's Cabin">
+      <data key="d0">book</data>
+      <data key="d1">['Harriet Beecher Stowe']</data>
+      <data key="d2">Harriet Beecher Stowe</data>
+      <data key="d3">[1, 1, 1852]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">3.9</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'Literature', 'Historical', 'Novels', 'American']</data>
+    </node>
+    <node id="Harriet Beecher Stowe">
+      <data key="d0">author</data>
+      <data key="d1">["Uncle Tom's Cabin"]</data>
+      <data key="d7">Harriet Beecher Stowe</data>
+    </node>
+    <node id="Atlas Shrugged">
+      <data key="d0">book</data>
+      <data key="d1">['Ayn Rand']</data>
+      <data key="d2">Ayn Rand</data>
+      <data key="d3">[10, 10, 1957]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">3.69</data>
+      <data key="d6">['Fiction', 'Classics', 'Philosophy', 'Politics', 'Literature', 'Science Fiction', 'Novels']</data>
+    </node>
+    <node id="Ayn Rand">
+      <data key="d0">author</data>
+      <data key="d1">['Atlas Shrugged', 'The Fountainhead']</data>
+      <data key="d7">Ayn Rand</data>
+    </node>
+    <node id="The Fountainhead">
+      <data key="d0">book</data>
+      <data key="d1">['Ayn Rand']</data>
+      <data key="d2">Ayn Rand</data>
+      <data key="d3">[4, 15, 1943]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">3.88</data>
+      <data key="d6">['Fiction', 'Classics', 'Philosophy', 'Literature', 'Novels', 'Politics', 'Architecture']</data>
+    </node>
+    <node id="The Poisonwood Bible">
+      <data key="d0">book</data>
+      <data key="d1">['Barbara Kingsolver']</data>
+      <data key="d2">Barbara Kingsolver</data>
+      <data key="d3">[9, 24, 1998]</data>
+      <data key="d8">14.49</data>
+      <data key="d5">4.09</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Africa', 'Classics', 'Historical', 'Literary Fiction', 'Literature']</data>
+    </node>
+    <node id="Barbara Kingsolver">
+      <data key="d0">author</data>
+      <data key="d1">['The Poisonwood Bible']</data>
+      <data key="d7">Barbara Kingsolver</data>
+    </node>
+    <node id="I Know Why the Caged Bird Sings">
+      <data key="d0">book</data>
+      <data key="d1">['Maya Angelou']</data>
+      <data key="d2">Maya Angelou</data>
+      <data key="d3">[1, 1, 1969]</data>
+      <data key="d8">4.99</data>
+      <data key="d5">4.29</data>
+      <data key="d6">['Nonfiction', 'Classics', 'Memoir', 'Biography', 'Autobiography', 'Poetry', 'Feminism']</data>
+    </node>
+    <node id="Maya Angelou">
+      <data key="d0">author</data>
+      <data key="d1">['I Know Why the Caged Bird Sings']</data>
+      <data key="d7">Maya Angelou</data>
+    </node>
+    <node id="Moby-Dick or, The Whale">
+      <data key="d0">book</data>
+      <data key="d1">['Herman Melville']</data>
+      <data key="d2">Herman Melville</data>
+      <data key="d3">[10, 18, 1851]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">3.54</data>
+      <data key="d6">['Classics', 'Fiction', 'Literature', 'Adventure', 'Historical Fiction', 'Novels', 'American']</data>
+    </node>
+    <node id="Herman Melville">
+      <data key="d0">author</data>
+      <data key="d1">['Moby-Dick or, The Whale']</data>
+      <data key="d7">Herman Melville</data>
+    </node>
+    <node id="The Book of Mormon: Another Testament of Jesus Christ">
+      <data key="d0">book</data>
+      <data key="d1">['Joseph Smith Jr.']</data>
+      <data key="d2">Joseph Smith Jr.</data>
+      <data key="d3">[12, 31, 2009]</data>
+      <data key="d8">3.0</data>
+      <data key="d5">4.25</data>
+      <data key="d6">['Religion', 'Nonfiction', 'Lds', 'Church', 'Spirituality', 'Classics', 'History']</data>
+    </node>
+    <node id="Joseph Smith Jr.">
+      <data key="d0">author</data>
+      <data key="d1">['The Book of Mormon: Another Testament of Jesus Christ']</data>
+      <data key="d7">Joseph Smith Jr.</data>
+    </node>
+    <node id="The Da Vinci Code">
+      <data key="d0">book</data>
+      <data key="d1">['Dan Brown']</data>
+      <data key="d2">Dan Brown</data>
+      <data key="d3">[3, 18, 2003]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.91</data>
+      <data key="d6">['Fiction', 'Mystery', 'Thriller', 'Mystery Thriller', 'Historical Fiction', 'Suspense', 'Adventure']</data>
+    </node>
+    <node id="Dan Brown">
+      <data key="d0">author</data>
+      <data key="d1">['The Da Vinci Code', 'Angels &amp; Demons']</data>
+      <data key="d7">Dan Brown</data>
+    </node>
+    <node id="Angels &amp; Demons">
+      <data key="d0">book</data>
+      <data key="d1">['Dan Brown']</data>
+      <data key="d2">Dan Brown</data>
+      <data key="d3">[5, 1, 2000]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.94</data>
+      <data key="d6">['Fiction', 'Mystery', 'Thriller', 'Mystery Thriller', 'Suspense', 'Adventure', 'Crime']</data>
+    </node>
+    <node id="The Good Earth">
+      <data key="d0">book</data>
+      <data key="d1">['Pearl S. Buck']</data>
+      <data key="d2">Pearl S. Buck</data>
+      <data key="d3">[3, 2, 1931]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.0</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'China', 'Literature', 'Historical', 'Asia']</data>
+    </node>
+    <node id="Pearl S. Buck">
+      <data key="d0">author</data>
+      <data key="d1">['The Good Earth']</data>
+      <data key="d7">Pearl S. Buck</data>
+    </node>
+    <node id="The Hiding Place: The Triumphant True Story of Corrie Ten Boom">
+      <data key="d0">book</data>
+      <data key="d1">['Corrie ten Boom']</data>
+      <data key="d2">Corrie ten Boom</data>
+      <data key="d3">[1, 1, 1971]</data>
+      <data key="d8">7.26</data>
+      <data key="d5">4.45</data>
+      <data key="d6">['Nonfiction', 'Biography', 'History', 'Christian', 'Memoir', 'Classics', 'Holocaust']</data>
+    </node>
+    <node id="Corrie ten Boom">
+      <data key="d0">author</data>
+      <data key="d1">['The Hiding Place: The Triumphant True Story of Corrie Ten Boom']</data>
+      <data key="d7">Corrie ten Boom</data>
+    </node>
+    <node id="Dracula">
+      <data key="d0">book</data>
+      <data key="d1">['Bram Stoker']</data>
+      <data key="d2">Bram Stoker</data>
+      <data key="d3">[5, 26, 1897]</data>
+      <data key="d8">2.99</data>
+      <data key="d5">4.01</data>
+      <data key="d6">['Classics', 'Horror', 'Fiction', 'Fantasy', 'Vampires', 'Gothic', 'Paranormal']</data>
+    </node>
+    <node id="Bram Stoker">
+      <data key="d0">author</data>
+      <data key="d1">['Dracula']</data>
+      <data key="d7">Bram Stoker</data>
+    </node>
+    <node id="A Wrinkle in Time">
+      <data key="d0">book</data>
+      <data key="d1">["Madeleine L'Engle"]</data>
+      <data key="d2">Madeleine L'Engle</data>
+      <data key="d3">[1, 1, 1962]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.98</data>
+      <data key="d6">['Fantasy', 'Fiction', 'Classics', 'Young Adult', 'Science Fiction', 'Childrens', 'Middle Grade']</data>
+    </node>
+    <node id="Madeleine L'Engle">
+      <data key="d0">author</data>
+      <data key="d1">['A Wrinkle in Time']</data>
+      <data key="d7">Madeleine L'Engle</data>
+    </node>
+    <node id="The Fault in Our Stars">
+      <data key="d0">book</data>
+      <data key="d1">['John Green']</data>
+      <data key="d2">John Green</data>
+      <data key="d3">[1, 10, 2012]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.14</data>
+      <data key="d6">['Young Adult', 'Fiction', 'Contemporary', 'Realistic Fiction', 'Teen', 'Coming Of Age', 'Novels']</data>
+    </node>
+    <node id="John Green">
+      <data key="d0">author</data>
+      <data key="d1">['The Fault in Our Stars', 'Looking for Alaska']</data>
+      <data key="d7">John Green</data>
+    </node>
+    <node id="Looking for Alaska">
+      <data key="d0">book</data>
+      <data key="d1">['John Green']</data>
+      <data key="d2">John Green</data>
+      <data key="d3">[3, 3, 2005]</data>
+      <data key="d8">8.99</data>
+      <data key="d5">3.97</data>
+      <data key="d6">['Young Adult', 'Fiction', 'Contemporary', 'Romance', 'Realistic Fiction', 'Coming Of Age', 'Teen']</data>
+    </node>
+    <node id="Matilda">
+      <data key="d0">book</data>
+      <data key="d1">['Roald Dahl']</data>
+      <data key="d2">Roald Dahl</data>
+      <data key="d3">[10, 1, 1988]</data>
+      <data key="d8">7.99</data>
+      <data key="d5">4.33</data>
+      <data key="d6">['Childrens', 'Fiction', 'Classics', 'Fantasy', 'Middle Grade', 'Young Adult', 'Humor']</data>
+    </node>
+    <node id="Roald Dahl">
+      <data key="d0">author</data>
+      <data key="d1">['Matilda', 'Charlie and the Chocolate Factory', 'James and the Giant Peach']</data>
+      <data key="d7">Roald Dahl</data>
+    </node>
+    <node id="Charlie and the Chocolate Factory">
+      <data key="d0">book</data>
+      <data key="d1">['Roald Dahl']</data>
+      <data key="d2">Roald Dahl</data>
+      <data key="d3">[1, 17, 1964]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.16</data>
+      <data key="d6">['Fiction', 'Fantasy', 'Childrens', 'Classics', 'Young Adult', 'Middle Grade', 'Humor']</data>
+    </node>
+    <node id="James and the Giant Peach">
+      <data key="d0">book</data>
+      <data key="d1">['Roald Dahl']</data>
+      <data key="d2">Roald Dahl</data>
+      <data key="d3">[11, 1, 1961]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.03</data>
+      <data key="d6">['Childrens', 'Fantasy', 'Fiction', 'Classics', 'Young Adult', 'Middle Grade', 'Adventure']</data>
+    </node>
+    <node id="The Perks of Being a Wallflower">
+      <data key="d0">book</data>
+      <data key="d1">['Stephen Chbosky']</data>
+      <data key="d2">Stephen Chbosky</data>
+      <data key="d3">[2, 1, 1999]</data>
+      <data key="d8">11.99</data>
+      <data key="d5">4.23</data>
+      <data key="d6">['Young Adult', 'Fiction', 'Coming Of Age', 'Classics', 'Romance', 'Mental Health', 'Realistic Fiction']</data>
+    </node>
+    <node id="Stephen Chbosky">
+      <data key="d0">author</data>
+      <data key="d1">['The Perks of Being a Wallflower']</data>
+      <data key="d7">Stephen Chbosky</data>
+    </node>
+    <node id="The Princess Bride">
+      <data key="d0">book</data>
+      <data key="d1">['William Goldman']</data>
+      <data key="d2">William Goldman</data>
+      <data key="d3">[9, 1, 1973]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.27</data>
+      <data key="d6">['Fantasy', 'Classics', 'Fiction', 'Romance', 'Humor', 'Young Adult', 'Adventure']</data>
+    </node>
+    <node id="William Goldman">
+      <data key="d0">author</data>
+      <data key="d1">['The Princess Bride']</data>
+      <data key="d7">William Goldman</data>
+    </node>
+    <node id="Where the Red Fern Grows">
+      <data key="d0">book</data>
+      <data key="d1">['Wilson Rawls']</data>
+      <data key="d2">Wilson Rawls</data>
+      <data key="d3">[1, 1, 1961]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.11</data>
+      <data key="d6">['Classics', 'Fiction', 'Young Adult', 'Childrens', 'Middle Grade', 'Historical Fiction', 'Animals']</data>
+    </node>
+    <node id="Wilson Rawls">
+      <data key="d0">author</data>
+      <data key="d1">['Where the Red Fern Grows']</data>
+      <data key="d7">Wilson Rawls</data>
+    </node>
+    <node id="The Tell-Tale Heart and Other Writings">
+      <data key="d0">book</data>
+      <data key="d1">['Edgar Allan Poe']</data>
+      <data key="d2">Edgar Allan Poe</data>
+      <data key="d3">[1, 1, 1843]</data>
+      <data key="d8">1.99</data>
+      <data key="d5">4.19</data>
+      <data key="d6">['Classics', 'Horror', 'Fiction', 'Short Stories', 'Poetry', 'Mystery', 'Gothic']</data>
+    </node>
+    <node id="Edgar Allan Poe">
+      <data key="d0">author</data>
+      <data key="d1">['The Tell-Tale Heart and Other Writings', 'The Raven']</data>
+      <data key="d7">Edgar Allan Poe</data>
+    </node>
+    <node id="The Raven">
+      <data key="d0">book</data>
+      <data key="d1">['Edgar Allan Poe']</data>
+      <data key="d2">Edgar Allan Poe</data>
+      <data key="d3">[1, 29, 1845]</data>
+      <data key="d8">8.0</data>
+      <data key="d5">4.29</data>
+      <data key="d6">['Poetry', 'Classics', 'Horror', 'Fiction', 'Short Stories', 'Gothic', 'School']</data>
+    </node>
+    <node id="Man's Search for Meaning">
+      <data key="d0">book</data>
+      <data key="d1">['Viktor E. Frankl']</data>
+      <data key="d2">Viktor E. Frankl</data>
+      <data key="d3">[1, 1, 1959]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.37</data>
+      <data key="d6">['Nonfiction', 'Psychology', 'Philosophy', 'History', 'Self Help', 'Memoir', 'Biography']</data>
+    </node>
+    <node id="Viktor E. Frankl">
+      <data key="d0">author</data>
+      <data key="d1">["Man's Search for Meaning"]</data>
+      <data key="d7">Viktor E. Frankl</data>
+    </node>
+    <node id="A Game of Thrones">
+      <data key="d0">book</data>
+      <data key="d1">['George R.R. Martin']</data>
+      <data key="d2">George R.R. Martin</data>
+      <data key="d3">[8, 6, 1996]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.44</data>
+      <data key="d6">['Fantasy', 'Fiction', 'Epic Fantasy', 'Adult', 'High Fantasy', 'Science Fiction Fantasy', 'Adventure']</data>
+    </node>
+    <node id="George R.R. Martin">
+      <data key="d0">author</data>
+      <data key="d1">['A Game of Thrones']</data>
+      <data key="d7">George R.R. Martin</data>
+    </node>
+    <node id="The Curious Incident of the Dog in the Night-Time">
+      <data key="d0">book</data>
+      <data key="d1">['Mark Haddon']</data>
+      <data key="d2">Mark Haddon</data>
+      <data key="d3">[7, 31, 2003]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">3.89</data>
+      <data key="d6">['Fiction', 'Mystery', 'Young Adult', 'Contemporary', 'Classics', 'Autistic Spectrum Disorder', 'Novels']</data>
+    </node>
+    <node id="Mark Haddon">
+      <data key="d0">author</data>
+      <data key="d1">['The Curious Incident of the Dog in the Night-Time']</data>
+      <data key="d7">Mark Haddon</data>
+    </node>
+    <node id="The Declaration of Independence / The Constitution of the United States">
+      <data key="d0">book</data>
+      <data key="d1">['Founding Fathers']</data>
+      <data key="d2">Founding Fathers</data>
+      <data key="d3">[1, 1, 1776]</data>
+      <data key="d8">1.99</data>
+      <data key="d5">4.44</data>
+      <data key="d6">['History', 'Nonfiction', 'Politics', 'Classics', 'Philosophy', 'Reference', 'American History']</data>
+    </node>
+    <node id="Founding Fathers">
+      <data key="d0">author</data>
+      <data key="d1">['The Declaration of Independence / The Constitution of the United States']</data>
+      <data key="d7">Founding Fathers</data>
+    </node>
+    <node id="Watership Down">
+      <data key="d0">book</data>
+      <data key="d1">['Richard  Adams']</data>
+      <data key="d2">Richard  Adams</data>
+      <data key="d3">[11, 1, 1972]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.08</data>
+      <data key="d6">['Classics', 'Fiction', 'Fantasy', 'Young Adult', 'Animals', 'Childrens', 'Adventure']</data>
+    </node>
+    <node id="Richard  Adams">
+      <data key="d0">author</data>
+      <data key="d1">['Watership Down']</data>
+      <data key="d7">Richard  Adams</data>
+    </node>
+    <node id="The Bell Jar">
+      <data key="d0">book</data>
+      <data key="d1">['Sylvia Plath']</data>
+      <data key="d2">Sylvia Plath</data>
+      <data key="d3">[1, 1, 1963]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.05</data>
+      <data key="d6">['Fiction', 'Feminism', 'Classics', 'Mental Health', 'Psychology', 'Literature', 'Mental Illness']</data>
+    </node>
+    <node id="Sylvia Plath">
+      <data key="d0">author</data>
+      <data key="d1">['The Bell Jar']</data>
+      <data key="d7">Sylvia Plath</data>
+    </node>
+    <node id="Rebecca">
+      <data key="d0">book</data>
+      <data key="d1">['Daphne du Maurier']</data>
+      <data key="d2">Daphne du Maurier</data>
+      <data key="d3">[8, 1, 1938]</data>
+      <data key="d8">10.99</data>
+      <data key="d5">4.24</data>
+      <data key="d6">['Classics', 'Fiction', 'Mystery', 'Gothic', 'Romance', 'Historical Fiction', 'Thriller']</data>
+    </node>
+    <node id="Daphne du Maurier">
+      <data key="d0">author</data>
+      <data key="d1">['Rebecca']</data>
+      <data key="d7">Daphne du Maurier</data>
+    </node>
+    <node id="The Last Lecture">
+      <data key="d0">book</data>
+      <data key="d1">['Randy Pausch']</data>
+      <data key="d2">Randy Pausch</data>
+      <data key="d3">[4, 8, 2008]</data>
+      <data key="d8">11.99</data>
+      <data key="d5">4.26</data>
+      <data key="d6">['Nonfiction', 'Memoir', 'Biography', 'Self Help', 'Inspirational', 'Philosophy', 'Autobiography']</data>
+    </node>
+    <node id="Randy Pausch">
+      <data key="d0">author</data>
+      <data key="d1">['The Last Lecture']</data>
+      <data key="d7">Randy Pausch</data>
+    </node>
+    <node id="Dune">
+      <data key="d0">book</data>
+      <data key="d1">['Frank Herbert']</data>
+      <data key="d2">Frank Herbert</data>
+      <data key="d3">[6, 1, 1965]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.26</data>
+      <data key="d6">['Science Fiction', 'Fiction', 'Fantasy', 'Classics', 'Science Fiction Fantasy', 'Audiobook', 'Space Opera']</data>
+    </node>
+    <node id="Frank Herbert">
+      <data key="d0">author</data>
+      <data key="d1">['Dune']</data>
+      <data key="d7">Frank Herbert</data>
+    </node>
+    <node id="And Then There Were None">
+      <data key="d0">book</data>
+      <data key="d1">['Agatha Christie']</data>
+      <data key="d2">Agatha Christie</data>
+      <data key="d3">[11, 6, 1939]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.28</data>
+      <data key="d6">['Mystery', 'Fiction', 'Thriller', 'Crime', 'Mystery Thriller', 'Classics', 'Audiobook']</data>
+    </node>
+    <node id="Agatha Christie">
+      <data key="d0">author</data>
+      <data key="d1">['And Then There Were None', 'Murder on the Orient Express']</data>
+      <data key="d7">Agatha Christie</data>
+    </node>
+    <node id="Murder on the Orient Express">
+      <data key="d0">book</data>
+      <data key="d1">['Agatha Christie']</data>
+      <data key="d2">Agatha Christie</data>
+      <data key="d3">[1, 1, 1934]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.2</data>
+      <data key="d6">['Mystery', 'Classics', 'Fiction', 'Crime', 'Mystery Thriller', 'Thriller', 'Audiobook']</data>
+    </node>
+    <node id="The Velveteen Rabbit">
+      <data key="d0">book</data>
+      <data key="d1">['Margery Williams Bianco']</data>
+      <data key="d2">Margery Williams Bianco</data>
+      <data key="d3">[1, 1, 1922]</data>
+      <data key="d8">2.99</data>
+      <data key="d5">4.3</data>
+      <data key="d6">['Classics', 'Childrens', 'Fiction', 'Picture Books', 'Fantasy', 'Animals', 'Young Adult']</data>
+    </node>
+    <node id="Margery Williams Bianco">
+      <data key="d0">author</data>
+      <data key="d1">['The Velveteen Rabbit']</data>
+      <data key="d7">Margery Williams Bianco</data>
+    </node>
+    <node id="The Lovely Bones">
+      <data key="d0">book</data>
+      <data key="d1">['Alice Sebold']</data>
+      <data key="d2">Alice Sebold</data>
+      <data key="d3">[7, 3, 2002]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">3.85</data>
+      <data key="d6">['Fiction', 'Mystery', 'Young Adult', 'Contemporary', 'Fantasy', 'Crime', 'Thriller']</data>
+    </node>
+    <node id="Alice Sebold">
+      <data key="d0">author</data>
+      <data key="d1">['The Lovely Bones']</data>
+      <data key="d7">Alice Sebold</data>
+    </node>
+    <node id="Alice in Wonderland">
+      <data key="d0">book</data>
+      <data key="d1">['Jane Carruth']</data>
+      <data key="d2">Jane Carruth</data>
+      <data key="d3">[1, 1, 1865]</data>
+      <data key="d8">1.0</data>
+      <data key="d5">4.03</data>
+      <data key="d6">['Classics', 'Fantasy', 'Fiction', 'Childrens', 'Young Adult', 'Adventure', 'Literature']</data>
+    </node>
+    <node id="Jane Carruth">
+      <data key="d0">author</data>
+      <data key="d1">['Alice in Wonderland']</data>
+      <data key="d7">Jane Carruth</data>
+    </node>
+    <node id="The Call of the Wild">
+      <data key="d0">book</data>
+      <data key="d1">['Jack London']</data>
+      <data key="d2">Jack London</data>
+      <data key="d3">[1, 1, 1903]</data>
+      <data key="d8">1.69</data>
+      <data key="d5">3.9</data>
+      <data key="d6">['Classics', 'Fiction', 'Adventure', 'Young Adult', 'Animals', 'Historical Fiction', 'Literature']</data>
+    </node>
+    <node id="Jack London">
+      <data key="d0">author</data>
+      <data key="d1">['The Call of the Wild']</data>
+      <data key="d7">Jack London</data>
+    </node>
+    <node id="The Girl with the Dragon Tattoo">
+      <data key="d0">book</data>
+      <data key="d1">['Stieg Larsson']</data>
+      <data key="d2">Stieg Larsson</data>
+      <data key="d3">[8, 1, 2005]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.16</data>
+      <data key="d6">['Fiction', 'Mystery', 'Thriller', 'Crime', 'Mystery Thriller', 'Suspense', 'Contemporary']</data>
+    </node>
+    <node id="Stieg Larsson">
+      <data key="d0">author</data>
+      <data key="d1">['The Girl with the Dragon Tattoo']</data>
+      <data key="d7">Stieg Larsson</data>
+    </node>
+    <node id="Perfume: The Story of a Murderer">
+      <data key="d0">book</data>
+      <data key="d1">['Patrick Süskind']</data>
+      <data key="d2">Patrick Süskind</data>
+      <data key="d3">[1, 1, 1985]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.03</data>
+      <data key="d6">['Fiction', 'Classics', 'Historical Fiction', 'Horror', 'Mystery', 'Thriller', 'Crime']</data>
+    </node>
+    <node id="Patrick Süskind">
+      <data key="d0">author</data>
+      <data key="d1">['Perfume: The Story of a Murderer']</data>
+      <data key="d7">Patrick Süskind</data>
+    </node>
+    <node id="A Story of Yesterday">
+      <data key="d0">book</data>
+      <data key="d1">['Sergio Cobo']</data>
+      <data key="d2">Sergio Cobo</data>
+      <data key="d3">[3, 6, 2014]</data>
+      <data key="d8">3.99</data>
+      <data key="d5">4.59</data>
+      <data key="d6">['Spanish Literature', 'Thriller', 'European Literature', 'Mystery', 'Fiction', 'Magical Realism', 'Drama']</data>
+    </node>
+    <node id="Sergio Cobo">
+      <data key="d0">author</data>
+      <data key="d1">['A Story of Yesterday']</data>
+      <data key="d7">Sergio Cobo</data>
+    </node>
+    <node id="Angela's Ashes">
+      <data key="d0">book</data>
+      <data key="d1">['Frank McCourt']</data>
+      <data key="d2">Frank McCourt</data>
+      <data key="d3">[9, 5, 1996]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.14</data>
+      <data key="d6">['Nonfiction', 'Memoir', 'Biography', 'Classics', 'Ireland', 'Autobiography', 'Biography Memoir']</data>
+    </node>
+    <node id="Frank McCourt">
+      <data key="d0">author</data>
+      <data key="d1">["Angela's Ashes"]</data>
+      <data key="d7">Frank McCourt</data>
+    </node>
+    <node id="The Wonderful Wizard of Oz">
+      <data key="d0">book</data>
+      <data key="d1">['L. Frank Baum']</data>
+      <data key="d2">L. Frank Baum</data>
+      <data key="d3">[5, 17, 1900]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.0</data>
+      <data key="d6">['Classics', 'Fantasy', 'Fiction', 'Childrens', 'Young Adult', 'Adventure', 'Middle Grade']</data>
+    </node>
+    <node id="L. Frank Baum">
+      <data key="d0">author</data>
+      <data key="d1">['The Wonderful Wizard of Oz']</data>
+      <data key="d7">L. Frank Baum</data>
+    </node>
+    <node id="Love You Forever">
+      <data key="d0">book</data>
+      <data key="d1">['Robert Munsch']</data>
+      <data key="d2">Robert Munsch</data>
+      <data key="d3">[1, 1, 1986]</data>
+      <data key="d8">4.73</data>
+      <data key="d5">4.37</data>
+      <data key="d6">['Picture Books', 'Childrens', 'Fiction', 'Classics', 'Family', 'Love', 'Realistic Fiction']</data>
+    </node>
+    <node id="Robert Munsch">
+      <data key="d0">author</data>
+      <data key="d1">['Love You Forever']</data>
+      <data key="d7">Robert Munsch</data>
+    </node>
+    <node id="Bridge to Terabithia">
+      <data key="d0">book</data>
+      <data key="d1">['Katherine Paterson']</data>
+      <data key="d2">Katherine Paterson</data>
+      <data key="d3">[10, 21, 1977]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.04</data>
+      <data key="d6">['Fiction', 'Young Adult', 'Classics', 'Fantasy', 'Childrens', 'Middle Grade', 'Realistic Fiction']</data>
+    </node>
+    <node id="Katherine Paterson">
+      <data key="d0">author</data>
+      <data key="d1">['Bridge to Terabithia']</data>
+      <data key="d7">Katherine Paterson</data>
+    </node>
+    <node id="The Divine Comedy">
+      <data key="d0">book</data>
+      <data key="d1">['Dante Alighieri']</data>
+      <data key="d2">Dante Alighieri</data>
+      <data key="d3">[1, 1, 1320]</data>
+      <data key="d8">6.99</data>
+      <data key="d5">4.07</data>
+      <data key="d6">['Classics', 'Poetry', 'Fiction', 'Literature', 'Philosophy', 'Religion', 'Fantasy']</data>
+    </node>
+    <node id="Dante Alighieri">
+      <data key="d0">author</data>
+      <data key="d1">['The Divine Comedy']</data>
+      <data key="d7">Dante Alighieri</data>
+    </node>
+    <node id="The Road">
+      <data key="d0">book</data>
+      <data key="d1">['Cormac McCarthy']</data>
+      <data key="d2">Cormac McCarthy</data>
+      <data key="d3">[9, 26, 2006]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">3.99</data>
+      <data key="d6">['Fiction', 'Science Fiction', 'Dystopia', 'Post Apocalyptic', 'Classics', 'Horror', 'Literature']</data>
+    </node>
+    <node id="Cormac McCarthy">
+      <data key="d0">author</data>
+      <data key="d1">['The Road']</data>
+      <data key="d7">Cormac McCarthy</data>
+    </node>
+    <node id="A Prayer for Owen Meany">
+      <data key="d0">book</data>
+      <data key="d1">['John Irving']</data>
+      <data key="d2">John Irving</data>
+      <data key="d3">[3, 28, 1989]</data>
+      <data key="d8">8.99</data>
+      <data key="d5">4.24</data>
+      <data key="d6">['Fiction', 'Classics', 'Contemporary', 'Literature', 'Literary Fiction', 'Novels', 'Historical Fiction']</data>
+    </node>
+    <node id="John Irving">
+      <data key="d0">author</data>
+      <data key="d1">['A Prayer for Owen Meany', 'The World According to Garp']</data>
+      <data key="d7">John Irving</data>
+    </node>
+    <node id="The World According to Garp">
+      <data key="d0">book</data>
+      <data key="d1">['John Irving']</data>
+      <data key="d2">John Irving</data>
+      <data key="d3">[4, 24, 1978]</data>
+      <data key="d8">14.99</data>
+      <data key="d5">4.1</data>
+      <data key="d6">['Fiction', 'Classics', 'Literature', 'Contemporary', 'Novels', 'Literary Fiction', 'Humor']</data>
+    </node>
+    <node id="The Name of the Rose">
+      <data key="d0">book</data>
+      <data key="d1">['Umberto Eco']</data>
+      <data key="d2">Umberto Eco</data>
+      <data key="d3">[1, 1, 1980]</data>
+      <data key="d8">7.99</data>
+      <data key="d5">4.14</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Mystery', 'Classics', 'Historical', 'Literature', 'Italian Literature']</data>
+    </node>
+    <node id="Umberto Eco">
+      <data key="d0">author</data>
+      <data key="d1">['The Name of the Rose']</data>
+      <data key="d7">Umberto Eco</data>
+    </node>
+    <node id="The Prophet">
+      <data key="d0">book</data>
+      <data key="d1">['Kahlil Gibran']</data>
+      <data key="d2">Kahlil Gibran</data>
+      <data key="d3">[1, 1, 1923]</data>
+      <data key="d8">3.99</data>
+      <data key="d5">4.23</data>
+      <data key="d6">['Poetry', 'Classics', 'Philosophy', 'Fiction', 'Spirituality', 'Religion', 'Literature']</data>
+    </node>
+    <node id="Kahlil Gibran">
+      <data key="d0">author</data>
+      <data key="d1">['The Prophet']</data>
+      <data key="d7">Kahlil Gibran</data>
+    </node>
+    <node id="The Golden Compass">
+      <data key="d0">book</data>
+      <data key="d1">['Philip Pullman']</data>
+      <data key="d2">Philip Pullman</data>
+      <data key="d3">[7, 1, 1995]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.02</data>
+      <data key="d6">['Fantasy', 'Young Adult', 'Fiction', 'Childrens', 'Adventure', 'Middle Grade', 'Science Fiction']</data>
+    </node>
+    <node id="Philip Pullman">
+      <data key="d0">author</data>
+      <data key="d1">['The Golden Compass']</data>
+      <data key="d7">Philip Pullman</data>
+    </node>
+    <node id="Water for Elephants">
+      <data key="d0">book</data>
+      <data key="d1">['Sara Gruen']</data>
+      <data key="d2">Sara Gruen</data>
+      <data key="d3">[5, 22, 2006]</data>
+      <data key="d8">11.99</data>
+      <data key="d5">4.11</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Romance', 'Historical', 'Adult', 'Adult Fiction', 'Contemporary']</data>
+    </node>
+    <node id="Sara Gruen">
+      <data key="d0">author</data>
+      <data key="d1">['Water for Elephants']</data>
+      <data key="d7">Sara Gruen</data>
+    </node>
+    <node id="The Boy in the Striped Pajamas">
+      <data key="d0">book</data>
+      <data key="d1">['John Boyne']</data>
+      <data key="d2">John Boyne</data>
+      <data key="d3">[1, 1, 2006]</data>
+      <data key="d8">6.99</data>
+      <data key="d5">4.15</data>
+      <data key="d6">['Historical Fiction', 'Fiction', 'Young Adult', 'Historical', 'Classics', 'Holocaust', 'War']</data>
+    </node>
+    <node id="John Boyne">
+      <data key="d0">author</data>
+      <data key="d1">['The Boy in the Striped Pajamas']</data>
+      <data key="d7">John Boyne</data>
+    </node>
+    <node id="The Pillars of the Earth">
+      <data key="d0">book</data>
+      <data key="d1">['Ken Follett']</data>
+      <data key="d2">Ken Follett</data>
+      <data key="d3">[10, 1, 1989]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.33</data>
+      <data key="d6">['Historical Fiction', 'Fiction', 'Historical', 'Fantasy', 'Classics', 'Medieval', 'Audiobook']</data>
+    </node>
+    <node id="Ken Follett">
+      <data key="d0">author</data>
+      <data key="d1">['The Pillars of the Earth']</data>
+      <data key="d7">Ken Follett</data>
+    </node>
+    <node id="Jonathan Livingston Seagull">
+      <data key="d0">book</data>
+      <data key="d1">['Richard Bach']</data>
+      <data key="d2">Richard Bach</data>
+      <data key="d3">[1, 1, 1970]</data>
+      <data key="d8">10.99</data>
+      <data key="d5">3.85</data>
+      <data key="d6">['Fiction', 'Classics', 'Philosophy', 'Fantasy', 'Spirituality', 'Inspirational', 'Self Help']</data>
+    </node>
+    <node id="Richard Bach">
+      <data key="d0">author</data>
+      <data key="d1">['Jonathan Livingston Seagull']</data>
+      <data key="d7">Richard Bach</data>
+    </node>
+    <node id="The Secret Life of Bees">
+      <data key="d0">book</data>
+      <data key="d1">['Sue Monk Kidd']</data>
+      <data key="d2">Sue Monk Kidd</data>
+      <data key="d3">[11, 8, 2001]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">4.09</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Classics', 'Young Adult', 'Historical', 'Contemporary', 'Adult Fiction']</data>
+    </node>
+    <node id="Sue Monk Kidd">
+      <data key="d0">author</data>
+      <data key="d1">['The Secret Life of Bees']</data>
+      <data key="d7">Sue Monk Kidd</data>
+    </node>
+    <node id="The Notebook">
+      <data key="d0">book</data>
+      <data key="d1">['Nicholas Sparks']</data>
+      <data key="d2">Nicholas Sparks</data>
+      <data key="d3">[10, 1, 1996]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.14</data>
+      <data key="d6">['Romance', 'Fiction', 'Chick Lit', 'Contemporary', 'Adult', 'Classics', 'Adult Fiction']</data>
+    </node>
+    <node id="Nicholas Sparks">
+      <data key="d0">author</data>
+      <data key="d1">['The Notebook']</data>
+      <data key="d7">Nicholas Sparks</data>
+    </node>
+    <node id="The Master and Margarita">
+      <data key="d0">book</data>
+      <data key="d1">['Mikhail Bulgakov']</data>
+      <data key="d2">Mikhail Bulgakov</data>
+      <data key="d3">[1, 1, 1967]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.29</data>
+      <data key="d6">['Fiction', 'Russia', 'Fantasy', 'Russian Literature', 'Magical Realism', 'Literature', 'Novels']</data>
+    </node>
+    <node id="Mikhail Bulgakov">
+      <data key="d0">author</data>
+      <data key="d1">['The Master and Margarita']</data>
+      <data key="d7">Mikhail Bulgakov</data>
+    </node>
+    <node id="The Complete Sherlock Holmes">
+      <data key="d0">book</data>
+      <data key="d1">['Arthur Conan Doyle']</data>
+      <data key="d2">Arthur Conan Doyle</data>
+      <data key="d3">[4, 1, 1927]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.5</data>
+      <data key="d6">['Classics', 'Mystery', 'Fiction', 'Crime', 'Short Stories', 'Detective', 'Literature']</data>
+    </node>
+    <node id="Arthur Conan Doyle">
+      <data key="d0">author</data>
+      <data key="d1">['The Complete Sherlock Holmes', 'The Hound of the Baskervilles']</data>
+      <data key="d7">Arthur Conan Doyle</data>
+    </node>
+    <node id="The Hound of the Baskervilles">
+      <data key="d0">book</data>
+      <data key="d1">['Arthur Conan Doyle']</data>
+      <data key="d2">Arthur Conan Doyle</data>
+      <data key="d3">[3, 25, 1902]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">4.13</data>
+      <data key="d6">['Classics', 'Mystery', 'Fiction', 'Crime', 'Detective', 'Mystery Thriller', 'Thriller']</data>
+    </node>
+    <node id="In Cold Blood">
+      <data key="d0">book</data>
+      <data key="d1">['Truman Capote']</data>
+      <data key="d2">Truman Capote</data>
+      <data key="d3">[1, 1, 1959]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">4.08</data>
+      <data key="d6">['Nonfiction', 'Classics', 'True Crime', 'Crime', 'Mystery', 'History', 'Thriller']</data>
+    </node>
+    <node id="Truman Capote">
+      <data key="d0">author</data>
+      <data key="d1">['In Cold Blood']</data>
+      <data key="d7">Truman Capote</data>
+    </node>
+    <node id="The Red Tent">
+      <data key="d0">book</data>
+      <data key="d1">['Anita Diamant']</data>
+      <data key="d2">Anita Diamant</data>
+      <data key="d3">[1, 1, 1997]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.2</data>
+      <data key="d6">['Historical Fiction', 'Fiction', 'Historical', 'Religion', 'Book Club', 'Feminism', 'Adult']</data>
+    </node>
+    <node id="Anita Diamant">
+      <data key="d0">author</data>
+      <data key="d1">['The Red Tent']</data>
+      <data key="d7">Anita Diamant</data>
+    </node>
+    <node id="The Crucible: A Play in Four Acts">
+      <data key="d0">book</data>
+      <data key="d1">['Arthur  Miller']</data>
+      <data key="d2">Arthur  Miller</data>
+      <data key="d3">[5, 1, 1946]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.6</data>
+      <data key="d6">['Classics', 'Plays', 'Fiction', 'Historical Fiction', 'School', 'Read For School', 'Historical']</data>
+    </node>
+    <node id="Arthur  Miller">
+      <data key="d0">author</data>
+      <data key="d1">['The Crucible: A Play in Four Acts']</data>
+      <data key="d7">Arthur  Miller</data>
+    </node>
+    <node id="The Shadow of the Wind">
+      <data key="d0">book</data>
+      <data key="d1">['Carlos Ruiz Zafón']</data>
+      <data key="d2">Carlos Ruiz Zafón</data>
+      <data key="d3">[5, 1, 2001]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.29</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Mystery', 'Fantasy', 'Books About Books', 'Historical', 'Spain']</data>
+    </node>
+    <node id="Carlos Ruiz Zafón">
+      <data key="d0">author</data>
+      <data key="d1">['The Shadow of the Wind']</data>
+      <data key="d7">Carlos Ruiz Zafón</data>
+    </node>
+    <node id="Heart of Darkness">
+      <data key="d0">book</data>
+      <data key="d1">['Joseph Conrad']</data>
+      <data key="d2">Joseph Conrad</data>
+      <data key="d3">[1, 1, 1899]</data>
+      <data key="d8">1.99</data>
+      <data key="d5">3.43</data>
+      <data key="d6">['Classics', 'Fiction', 'Literature', 'Africa', 'Historical Fiction', 'School', 'Novels']</data>
+    </node>
+    <node id="Joseph Conrad">
+      <data key="d0">author</data>
+      <data key="d1">['Heart of Darkness']</data>
+      <data key="d7">Joseph Conrad</data>
+    </node>
+    <node id="The Glass Castle">
+      <data key="d0">book</data>
+      <data key="d1">['Jeannette Walls']</data>
+      <data key="d2">Jeannette Walls</data>
+      <data key="d3">[1, 1, 2005]</data>
+      <data key="d8">13.99</data>
+      <data key="d5">4.31</data>
+      <data key="d6">['Nonfiction', 'Memoir', 'Biography', 'Biography Memoir', 'Autobiography', 'Book Club', 'Adult']</data>
+    </node>
+    <node id="Jeannette Walls">
+      <data key="d0">author</data>
+      <data key="d1">['The Glass Castle']</data>
+      <data key="d7">Jeannette Walls</data>
+    </node>
+    <node id="The Gift of the Magi">
+      <data key="d0">book</data>
+      <data key="d1">['O. Henry']</data>
+      <data key="d2">O. Henry</data>
+      <data key="d3">[12, 10, 1905]</data>
+      <data key="d8">3.99</data>
+      <data key="d5">4.1</data>
+      <data key="d6">['Classics', 'Short Stories', 'Fiction', 'Christmas', 'Romance', 'Holiday', 'Literature']</data>
+    </node>
+    <node id="O. Henry">
+      <data key="d0">author</data>
+      <data key="d1">['The Gift of the Magi']</data>
+      <data key="d7">O. Henry</data>
+    </node>
+    <node id="Eat, Pray, Love">
+      <data key="d0">book</data>
+      <data key="d1">['Elizabeth Gilbert']</data>
+      <data key="d2">Elizabeth Gilbert</data>
+      <data key="d3">[2, 16, 2006]</data>
+      <data key="d8">14.99</data>
+      <data key="d5">3.62</data>
+      <data key="d6">['Nonfiction', 'Memoir', 'Travel', 'Biography', 'Romance', 'Chick Lit', 'Spirituality']</data>
+    </node>
+    <node id="Elizabeth Gilbert">
+      <data key="d0">author</data>
+      <data key="d1">['Eat, Pray, Love']</data>
+      <data key="d7">Elizabeth Gilbert</data>
+    </node>
+    <node id="The Unbearable Lightness of Being">
+      <data key="d0">book</data>
+      <data key="d1">['Milan Kundera']</data>
+      <data key="d2">Milan Kundera</data>
+      <data key="d3">[1, 1, 1984]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">4.11</data>
+      <data key="d6">['Fiction', 'Classics', 'Philosophy', 'Literature', 'Novels', 'Czech Literature', 'Romance']</data>
+    </node>
+    <node id="Milan Kundera">
+      <data key="d0">author</data>
+      <data key="d1">['The Unbearable Lightness of Being']</data>
+      <data key="d7">Milan Kundera</data>
+    </node>
+    <node id="Interview with the Vampire">
+      <data key="d0">book</data>
+      <data key="d1">['Anne Rice']</data>
+      <data key="d2">Anne Rice</data>
+      <data key="d3">[4, 12, 1976]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.02</data>
+      <data key="d6">['Horror', 'Fantasy', 'Fiction', 'Vampires', 'Paranormal', 'Classics', 'Gothic']</data>
+    </node>
+    <node id="Anne Rice">
+      <data key="d0">author</data>
+      <data key="d1">['Interview with the Vampire']</data>
+      <data key="d7">Anne Rice</data>
+    </node>
+    <node id="The Art of War">
+      <data key="d0">book</data>
+      <data key="d1">['Sun Tzu']</data>
+      <data key="d2">Sun Tzu</data>
+      <data key="d3">[1, 1, 401]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">3.96</data>
+      <data key="d6">['Classics', 'Nonfiction', 'Philosophy', 'History', 'War', 'Politics', 'Business']</data>
+    </node>
+    <node id="Sun Tzu">
+      <data key="d0">author</data>
+      <data key="d1">['The Art of War']</data>
+      <data key="d7">Sun Tzu</data>
+    </node>
+    <node id="The Canterbury Tales">
+      <data key="d0">book</data>
+      <data key="d1">['Geoffrey Chaucer']</data>
+      <data key="d2">Geoffrey Chaucer</data>
+      <data key="d3">[1, 1, 1400]</data>
+      <data key="d8">0.49</data>
+      <data key="d5">3.52</data>
+      <data key="d6">['Classics', 'Fiction', 'Poetry', 'Literature', 'School', 'Short Stories', 'Historical Fiction']</data>
+    </node>
+    <node id="Geoffrey Chaucer">
+      <data key="d0">author</data>
+      <data key="d1">['The Canterbury Tales']</data>
+      <data key="d7">Geoffrey Chaucer</data>
+    </node>
+    <node id="On the Road">
+      <data key="d0">book</data>
+      <data key="d1">['Jack Kerouac']</data>
+      <data key="d2">Jack Kerouac</data>
+      <data key="d3">[9, 5, 1957]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">3.61</data>
+      <data key="d6">['Fiction', 'Travel', 'Literature', 'Classics', 'Novels', 'American', 'Adventure']</data>
+    </node>
+    <node id="Jack Kerouac">
+      <data key="d0">author</data>
+      <data key="d1">['On the Road']</data>
+      <data key="d7">Jack Kerouac</data>
+    </node>
+    <node id="Aesop's Fables">
+      <data key="d0">book</data>
+      <data key="d1">['Aesop']</data>
+      <data key="d2">Aesop</data>
+      <data key="d3">[1, 1, 501]</data>
+      <data key="d8">6.49</data>
+      <data key="d5">4.05</data>
+      <data key="d6">['Classics', 'Fiction', 'Short Stories', 'Childrens', 'Fantasy', 'Literature', 'Mythology']</data>
+    </node>
+    <node id="Aesop">
+      <data key="d0">author</data>
+      <data key="d1">["Aesop's Fables"]</data>
+      <data key="d7">Aesop</data>
+    </node>
+    <node id="The Godfather">
+      <data key="d0">book</data>
+      <data key="d1">['Mario Puzo']</data>
+      <data key="d2">Mario Puzo</data>
+      <data key="d3">[3, 10, 1969]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.38</data>
+      <data key="d6">['Fiction', 'Classics', 'Crime', 'Thriller', 'Historical Fiction', 'Mystery', 'Novels']</data>
+    </node>
+    <node id="Mario Puzo">
+      <data key="d0">author</data>
+      <data key="d1">['The Godfather']</data>
+      <data key="d7">Mario Puzo</data>
+    </node>
+    <node id="Dr. Jekyll and Mr. Hyde">
+      <data key="d0">book</data>
+      <data key="d1">['Robert Louis Stevenson']</data>
+      <data key="d2">Robert Louis Stevenson</data>
+      <data key="d3">[1, 5, 1886]</data>
+      <data key="d8">3.0</data>
+      <data key="d5">3.83</data>
+      <data key="d6">['Horror', 'Classics', 'Science Fiction', 'Gothic', 'Mystery', 'Fantasy', 'Literature']</data>
+    </node>
+    <node id="Robert Louis Stevenson">
+      <data key="d0">author</data>
+      <data key="d1">['Dr. Jekyll and Mr. Hyde', 'Treasure Island']</data>
+      <data key="d7">Robert Louis Stevenson</data>
+    </node>
+    <node id="Treasure Island">
+      <data key="d0">book</data>
+      <data key="d1">['Robert Louis Stevenson']</data>
+      <data key="d2">Robert Louis Stevenson</data>
+      <data key="d3">[1, 28, 1882]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">3.84</data>
+      <data key="d6">['Classics', 'Fiction', 'Adventure', 'Historical Fiction', 'Young Adult', 'Childrens', 'Pirates']</data>
+    </node>
+    <node id="Fight Club">
+      <data key="d0">book</data>
+      <data key="d1">['Chuck Palahniuk']</data>
+      <data key="d2">Chuck Palahniuk</data>
+      <data key="d3">[8, 17, 1996]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.19</data>
+      <data key="d6">['Fiction', 'Classics', 'Thriller', 'Novels', 'Mystery', 'Adult', 'Literature']</data>
+    </node>
+    <node id="Chuck Palahniuk">
+      <data key="d0">author</data>
+      <data key="d1">['Fight Club']</data>
+      <data key="d7">Chuck Palahniuk</data>
+    </node>
+    <node id="Walden">
+      <data key="d0">book</data>
+      <data key="d1">['Henry David Thoreau']</data>
+      <data key="d2">Henry David Thoreau</data>
+      <data key="d3">[8, 9, 1854]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">3.78</data>
+      <data key="d6">['Classics', 'Philosophy', 'Nonfiction', 'Nature', 'Memoir', 'Literature', 'Biography']</data>
+    </node>
+    <node id="Henry David Thoreau">
+      <data key="d0">author</data>
+      <data key="d1">['Walden']</data>
+      <data key="d7">Henry David Thoreau</data>
+    </node>
+    <node id="Gulliver's Travels">
+      <data key="d0">book</data>
+      <data key="d1">['Jonathan Swift']</data>
+      <data key="d2">Jonathan Swift</data>
+      <data key="d3">[1, 1, 1726]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">3.58</data>
+      <data key="d6">['Fiction', 'Fantasy', 'Classics', 'Adventure', 'Literature', 'Novels', '18th Century']</data>
+    </node>
+    <node id="Jonathan Swift">
+      <data key="d0">author</data>
+      <data key="d1">["Gulliver's Travels"]</data>
+      <data key="d7">Jonathan Swift</data>
+    </node>
+    <node id="Robinson Crusoe">
+      <data key="d0">book</data>
+      <data key="d1">['Daniel Defoe']</data>
+      <data key="d2">Daniel Defoe</data>
+      <data key="d3">[4, 25, 1719]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">3.68</data>
+      <data key="d6">['Fiction', 'Classics', 'Adventure', 'Literature', 'Historical Fiction', 'Novels', '18th Century']</data>
+    </node>
+    <node id="Daniel Defoe">
+      <data key="d0">author</data>
+      <data key="d1">['Robinson Crusoe']</data>
+      <data key="d7">Daniel Defoe</data>
+    </node>
+    <node id="The Origin of Species">
+      <data key="d0">book</data>
+      <data key="d1">['Charles Darwin']</data>
+      <data key="d2">Charles Darwin</data>
+      <data key="d3">[1, 1, 1859]</data>
+      <data key="d8">2.99</data>
+      <data key="d5">4.01</data>
+      <data key="d6">['Science', 'Nonfiction', 'Classics', 'Biology', 'Evolution', 'Philosophy', 'History']</data>
+    </node>
+    <node id="Charles Darwin">
+      <data key="d0">author</data>
+      <data key="d1">['The Origin of Species']</data>
+      <data key="d7">Charles Darwin</data>
+    </node>
+    <node id="Invisible Man">
+      <data key="d0">book</data>
+      <data key="d1">['Ralph Ellison']</data>
+      <data key="d2">Ralph Ellison</data>
+      <data key="d3">[4, 14, 1952]</data>
+      <data key="d8">11.99</data>
+      <data key="d5">3.91</data>
+      <data key="d6">['Classics', 'Fiction', 'Literature', 'Historical Fiction', 'Race', 'African American', 'Novels']</data>
+    </node>
+    <node id="Ralph Ellison">
+      <data key="d0">author</data>
+      <data key="d1">['Invisible Man']</data>
+      <data key="d7">Ralph Ellison</data>
+    </node>
+    <node id="The Prince">
+      <data key="d0">book</data>
+      <data key="d1">['Niccolò Machiavelli']</data>
+      <data key="d2">Niccolò Machiavelli</data>
+      <data key="d3">[1, 1, 1513]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">3.84</data>
+      <data key="d6">['Classics', 'Philosophy', 'Nonfiction', 'Politics', 'History', 'Political Science', 'Literature']</data>
+    </node>
+    <node id="Niccolò Machiavelli">
+      <data key="d0">author</data>
+      <data key="d1">['The Prince']</data>
+      <data key="d7">Niccolò Machiavelli</data>
+    </node>
+    <node id="Sophie's World">
+      <data key="d0">book</data>
+      <data key="d1">['Jostein Gaarder']</data>
+      <data key="d2">Jostein Gaarder</data>
+      <data key="d3">[1, 1, 1991]</data>
+      <data key="d8">11.99</data>
+      <data key="d5">3.96</data>
+      <data key="d6">['Philosophy', 'Fiction', 'Classics', 'Young Adult', 'Novels', 'Fantasy', 'Literature']</data>
+    </node>
+    <node id="Jostein Gaarder">
+      <data key="d0">author</data>
+      <data key="d1">["Sophie's World"]</data>
+      <data key="d7">Jostein Gaarder</data>
+    </node>
+    <node id="The Complete Grimm's Fairy Tales">
+      <data key="d0">book</data>
+      <data key="d1">['Jacob Grimm']</data>
+      <data key="d2">Jacob Grimm</data>
+      <data key="d3">[12, 20, 1812]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">4.28</data>
+      <data key="d6">['Classics', 'Fantasy', 'Fiction', 'Fairy Tales', 'Short Stories', 'Childrens', 'Literature']</data>
+    </node>
+    <node id="Jacob Grimm">
+      <data key="d0">author</data>
+      <data key="d1">["The Complete Grimm's Fairy Tales"]</data>
+      <data key="d7">Jacob Grimm</data>
+    </node>
+    <node id="The Time Machine">
+      <data key="d0">book</data>
+      <data key="d1">['H.G. Wells']</data>
+      <data key="d2">H.G. Wells</data>
+      <data key="d3">[1, 1, 1895]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">3.9</data>
+      <data key="d6">['Classics', 'Science Fiction', 'Fiction', 'Time Travel', 'Fantasy', 'Dystopia', 'Literature']</data>
+    </node>
+    <node id="H.G. Wells">
+      <data key="d0">author</data>
+      <data key="d1">['The Time Machine']</data>
+      <data key="d7">H.G. Wells</data>
+    </node>
+    <node id="Watchmen">
+      <data key="d0">book</data>
+      <data key="d1">['Alan Moore']</data>
+      <data key="d2">Alan Moore</data>
+      <data key="d3">[1, 1, 1987]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.38</data>
+      <data key="d6">['Graphic Novels', 'Comics', 'Fiction', 'Science Fiction', 'Fantasy', 'Graphic Novels Comics', 'Classics']</data>
+    </node>
+    <node id="Alan Moore">
+      <data key="d0">author</data>
+      <data key="d1">['Watchmen', 'V for Vendetta']</data>
+      <data key="d7">Alan Moore</data>
+    </node>
+    <node id="V for Vendetta">
+      <data key="d0">book</data>
+      <data key="d1">['Alan Moore']</data>
+      <data key="d2">Alan Moore</data>
+      <data key="d3">[1, 1, 1990]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.26</data>
+      <data key="d6">['Graphic Novels', 'Comics', 'Fiction', 'Dystopia', 'Science Fiction', 'Graphic Novels Comics', 'Classics']</data>
+    </node>
+    <node id="Candide">
+      <data key="d0">book</data>
+      <data key="d1">['Voltaire']</data>
+      <data key="d2">Voltaire</data>
+      <data key="d3">[1, 1, 1759]</data>
+      <data key="d8">2.99</data>
+      <data key="d5">3.76</data>
+      <data key="d6">['Classics', 'Fiction', 'Philosophy', 'France', 'Literature', 'French Literature', 'Humor']</data>
+    </node>
+    <node id="Voltaire">
+      <data key="d0">author</data>
+      <data key="d1">['Candide']</data>
+      <data key="d7">Voltaire</data>
+    </node>
+    <node id="Roots: The Saga of an American Family">
+      <data key="d0">book</data>
+      <data key="d1">['Alex Haley']</data>
+      <data key="d2">Alex Haley</data>
+      <data key="d3">[8, 17, 1976]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">4.44</data>
+      <data key="d6">['Historical Fiction', 'Fiction', 'Classics', 'Historical', 'African American', 'Africa', 'Race']</data>
+    </node>
+    <node id="Alex Haley">
+      <data key="d0">author</data>
+      <data key="d1">['Roots: The Saga of an American Family']</data>
+      <data key="d7">Alex Haley</data>
+    </node>
+    <node id="Beloved">
+      <data key="d0">book</data>
+      <data key="d1">['Toni Morrison']</data>
+      <data key="d2">Toni Morrison</data>
+      <data key="d3">[9, 16, 1987]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">3.94</data>
+      <data key="d6">['Fiction', 'Classics', 'Historical Fiction', 'Magical Realism', 'Literature', 'Historical', 'School']</data>
+    </node>
+    <node id="Toni Morrison">
+      <data key="d0">author</data>
+      <data key="d1">['Beloved']</data>
+      <data key="d7">Toni Morrison</data>
+    </node>
+    <node id="Atonement">
+      <data key="d0">book</data>
+      <data key="d1">['Ian McEwan']</data>
+      <data key="d2">Ian McEwan</data>
+      <data key="d3">[9, 20, 2001]</data>
+      <data key="d8">13.99</data>
+      <data key="d5">3.93</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Classics', 'Romance', 'Historical', 'War', 'Literary Fiction']</data>
+    </node>
+    <node id="Ian McEwan">
+      <data key="d0">author</data>
+      <data key="d1">['Atonement']</data>
+      <data key="d7">Ian McEwan</data>
+    </node>
+    <node id="Go Ask Alice">
+      <data key="d0">book</data>
+      <data key="d1">['Beatrice Sparks']</data>
+      <data key="d2">Beatrice Sparks</data>
+      <data key="d3">[1, 1, 1971]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.74</data>
+      <data key="d6">['Young Adult', 'Fiction', 'Classics', 'Contemporary', 'Mental Health', 'Realistic Fiction', 'Banned Books']</data>
+    </node>
+    <node id="Beatrice Sparks">
+      <data key="d0">author</data>
+      <data key="d1">['Go Ask Alice']</data>
+      <data key="d7">Beatrice Sparks</data>
+    </node>
+    <node id="The Things They Carried">
+      <data key="d0">book</data>
+      <data key="d1">["Tim O'Brien"]</data>
+      <data key="d2">Tim O'Brien</data>
+      <data key="d3">[3, 28, 1990]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.14</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Classics', 'War', 'Short Stories', 'School', 'Historical']</data>
+    </node>
+    <node id="Tim O'Brien">
+      <data key="d0">author</data>
+      <data key="d1">['The Things They Carried']</data>
+      <data key="d7">Tim O'Brien</data>
+    </node>
+    <node id="Tuck Everlasting">
+      <data key="d0">book</data>
+      <data key="d1">['Natalie Babbitt']</data>
+      <data key="d2">Natalie Babbitt</data>
+      <data key="d3">[1, 1, 1975]</data>
+      <data key="d8">8.99</data>
+      <data key="d5">3.9</data>
+      <data key="d6">['Fantasy', 'Classics', 'Young Adult', 'Fiction', 'Childrens', 'Middle Grade', 'School']</data>
+    </node>
+    <node id="Natalie Babbitt">
+      <data key="d0">author</data>
+      <data key="d1">['Tuck Everlasting']</data>
+      <data key="d7">Natalie Babbitt</data>
+    </node>
+    <node id="My Sister's Keeper">
+      <data key="d0">book</data>
+      <data key="d1">['Jodi Picoult']</data>
+      <data key="d2">Jodi Picoult</data>
+      <data key="d3">[4, 6, 2004]</data>
+      <data key="d8">13.99</data>
+      <data key="d5">4.1</data>
+      <data key="d6">['Fiction', 'Contemporary', 'Chick Lit', 'Young Adult', 'Drama', 'Adult', 'Adult Fiction']</data>
+    </node>
+    <node id="Jodi Picoult">
+      <data key="d0">author</data>
+      <data key="d1">["My Sister's Keeper"]</data>
+      <data key="d7">Jodi Picoult</data>
+    </node>
+    <node id="Divergent">
+      <data key="d0">book</data>
+      <data key="d1">['Veronica Roth']</data>
+      <data key="d2">Veronica Roth</data>
+      <data key="d3">[4, 25, 2011]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.15</data>
+      <data key="d6">['Young Adult', 'Dystopia', 'Fantasy', 'Fiction', 'Science Fiction', 'Romance', 'Adventure']</data>
+    </node>
+    <node id="Veronica Roth">
+      <data key="d0">author</data>
+      <data key="d1">['Divergent']</data>
+      <data key="d7">Veronica Roth</data>
+    </node>
+    <node id="Stranger in a Strange Land">
+      <data key="d0">book</data>
+      <data key="d1">['Robert A. Heinlein']</data>
+      <data key="d2">Robert A. Heinlein</data>
+      <data key="d3">[7, 1, 1961]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">3.92</data>
+      <data key="d6">['Science Fiction', 'Fiction', 'Classics', 'Science Fiction Fantasy', 'Fantasy', 'Novels', 'Speculative Fiction']</data>
+    </node>
+    <node id="Robert A. Heinlein">
+      <data key="d0">author</data>
+      <data key="d1">['Stranger in a Strange Land']</data>
+      <data key="d7">Robert A. Heinlein</data>
+    </node>
+    <node id="The Mists of Avalon">
+      <data key="d0">book</data>
+      <data key="d1">['Marion Zimmer Bradley']</data>
+      <data key="d2">Marion Zimmer Bradley</data>
+      <data key="d3">[12, 1, 1982]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.13</data>
+      <data key="d6">['Fantasy', 'Fiction', 'Historical Fiction', 'Arthurian', 'Mythology', 'Classics', 'Historical']</data>
+    </node>
+    <node id="Marion Zimmer Bradley">
+      <data key="d0">author</data>
+      <data key="d1">['The Mists of Avalon']</data>
+      <data key="d7">Marion Zimmer Bradley</data>
+    </node>
+    <node id="The Lightning Thief">
+      <data key="d0">book</data>
+      <data key="d1">['Rick Riordan']</data>
+      <data key="d2">Rick Riordan</data>
+      <data key="d3">[7, 28, 2005]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.3</data>
+      <data key="d6">['Fantasy', 'Young Adult', 'Mythology', 'Fiction', 'Middle Grade', 'Adventure', 'Greek Mythology']</data>
+    </node>
+    <node id="Rick Riordan">
+      <data key="d0">author</data>
+      <data key="d1">['The Lightning Thief']</data>
+      <data key="d7">Rick Riordan</data>
+    </node>
+    <node id="The Phantom Tollbooth">
+      <data key="d0">book</data>
+      <data key="d1">['Norton Juster']</data>
+      <data key="d2">Norton Juster</data>
+      <data key="d3">[1, 1, 1961]</data>
+      <data key="d8">8.99</data>
+      <data key="d5">4.19</data>
+      <data key="d6">['Fantasy', 'Fiction', 'Classics', 'Childrens', 'Young Adult', 'Middle Grade', 'Adventure']</data>
+    </node>
+    <node id="Norton Juster">
+      <data key="d0">author</data>
+      <data key="d1">['The Phantom Tollbooth']</data>
+      <data key="d7">Norton Juster</data>
+    </node>
+    <node id="The Tale of Peter Rabbit">
+      <data key="d0">book</data>
+      <data key="d1">['Beatrix Potter']</data>
+      <data key="d2">Beatrix Potter</data>
+      <data key="d3">[12, 16, 1901]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.21</data>
+      <data key="d6">['Childrens', 'Classics', 'Picture Books', 'Fiction', 'Animals', 'Fantasy', 'Short Stories']</data>
+    </node>
+    <node id="Beatrix Potter">
+      <data key="d0">author</data>
+      <data key="d1">['The Tale of Peter Rabbit']</data>
+      <data key="d7">Beatrix Potter</data>
+    </node>
+    <node id="The Complete Maus">
+      <data key="d0">book</data>
+      <data key="d1">['Art Spiegelman']</data>
+      <data key="d2">Art Spiegelman</data>
+      <data key="d3">[1, 1, 1980]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.57</data>
+      <data key="d6">['Graphic Novels', 'Comics', 'Nonfiction', 'History', 'Biography', 'Memoir', 'Historical']</data>
+    </node>
+    <node id="Art Spiegelman">
+      <data key="d0">author</data>
+      <data key="d1">['The Complete Maus']</data>
+      <data key="d7">Art Spiegelman</data>
+    </node>
+    <node id="Bury My Heart at Wounded Knee: An Indian History of the American West">
+      <data key="d0">book</data>
+      <data key="d1">['Dee Brown']</data>
+      <data key="d2">Dee Brown</data>
+      <data key="d3">[4, 1, 1970]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.24</data>
+      <data key="d6">['History', 'Nonfiction', 'American History', 'Classics', 'Historical', 'Politics', 'Race']</data>
+    </node>
+    <node id="Dee Brown">
+      <data key="d0">author</data>
+      <data key="d1">['Bury My Heart at Wounded Knee: An Indian History of the American West']</data>
+      <data key="d7">Dee Brown</data>
+    </node>
+    <node id="Schindler's List">
+      <data key="d0">book</data>
+      <data key="d1">['Thomas Keneally']</data>
+      <data key="d2">Thomas Keneally</data>
+      <data key="d3">[10, 18, 1982]</data>
+      <data key="d8">13.99</data>
+      <data key="d5">4.34</data>
+      <data key="d6">['History', 'Nonfiction', 'Holocaust', 'War', 'Historical', 'World War II', 'Biography']</data>
+    </node>
+    <node id="Thomas Keneally">
+      <data key="d0">author</data>
+      <data key="d1">["Schindler's List"]</data>
+      <data key="d7">Thomas Keneally</data>
+    </node>
+    <node id="The Autobiography of Malcolm X">
+      <data key="d0">book</data>
+      <data key="d1">['Malcolm X']</data>
+      <data key="d2">Malcolm X</data>
+      <data key="d3">[10, 29, 1965]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.35</data>
+      <data key="d6">['Nonfiction', 'Biography', 'History', 'Memoir', 'Autobiography', 'Politics', 'Race']</data>
+    </node>
+    <node id="Malcolm X">
+      <data key="d0">author</data>
+      <data key="d1">['The Autobiography of Malcolm X']</data>
+      <data key="d7">Malcolm X</data>
+    </node>
+    <node id="The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury">
+      <data key="d0">book</data>
+      <data key="d1">['Bill Watterson']</data>
+      <data key="d2">Bill Watterson</data>
+      <data key="d3">[1, 1, 1988]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.64</data>
+      <data key="d6">['Comics', 'Humor', 'Graphic Novels', 'Fiction', 'Childrens', 'Graphic Novels Comics', 'Comedy']</data>
+    </node>
+    <node id="Bill Watterson">
+      <data key="d0">author</data>
+      <data key="d1">['The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury']</data>
+      <data key="d7">Bill Watterson</data>
+    </node>
+    <node id="Middlesex">
+      <data key="d0">book</data>
+      <data key="d1">['Jeffrey Eugenides']</data>
+      <data key="d2">Jeffrey Eugenides</data>
+      <data key="d3">[9, 4, 2002]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.03</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Contemporary', 'LGBT', 'Classics', 'Literary Fiction', 'Novels']</data>
+    </node>
+    <node id="Jeffrey Eugenides">
+      <data key="d0">author</data>
+      <data key="d1">['Middlesex']</data>
+      <data key="d7">Jeffrey Eugenides</data>
+    </node>
+    <node id="Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time">
+      <data key="d0">book</data>
+      <data key="d1">['Greg Mortenson']</data>
+      <data key="d2">Greg Mortenson</data>
+      <data key="d3">[3, 2, 2006]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">3.66</data>
+      <data key="d6">['Nonfiction', 'Memoir', 'Biography', 'Travel', 'Education', 'Book Club', 'Biography Memoir']</data>
+    </node>
+    <node id="Greg Mortenson">
+      <data key="d0">author</data>
+      <data key="d1">["Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time"]</data>
+      <data key="d7">Greg Mortenson</data>
+    </node>
+    <node id="A Child Called &quot;It&quot;">
+      <data key="d0">book</data>
+      <data key="d1">['Dave Pelzer']</data>
+      <data key="d2">Dave Pelzer</data>
+      <data key="d3">[1, 1, 1995]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.12</data>
+      <data key="d6">['Nonfiction', 'Memoir', 'Biography', 'Psychology', 'Autobiography', 'Abuse', 'Biography Memoir']</data>
+    </node>
+    <node id="Dave Pelzer">
+      <data key="d0">author</data>
+      <data key="d1">['A Child Called "It"']</data>
+      <data key="d7">Dave Pelzer</data>
+    </node>
+    <node id="Into the Wild">
+      <data key="d0">book</data>
+      <data key="d1">['Jon Krakauer']</data>
+      <data key="d2">Jon Krakauer</data>
+      <data key="d3">[1, 13, 1996]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">4.01</data>
+      <data key="d6">['Nonfiction', 'Biography', 'Adventure', 'Travel', 'Classics', 'Memoir', 'Nature']</data>
+    </node>
+    <node id="Jon Krakauer">
+      <data key="d0">author</data>
+      <data key="d1">['Into the Wild']</data>
+      <data key="d7">Jon Krakauer</data>
+    </node>
+    <node id="Leaves of Grass">
+      <data key="d0">book</data>
+      <data key="d1">['Walt Whitman']</data>
+      <data key="d2">Walt Whitman</data>
+      <data key="d3">[7, 4, 1855]</data>
+      <data key="d8">15.99</data>
+      <data key="d5">4.12</data>
+      <data key="d6">['Poetry', 'Classics', 'Fiction', 'Literature', 'American', '19th Century', 'Philosophy']</data>
+    </node>
+    <node id="Walt Whitman">
+      <data key="d0">author</data>
+      <data key="d1">['Leaves of Grass']</data>
+      <data key="d7">Walt Whitman</data>
+    </node>
+    <node id="Their Eyes Were Watching God">
+      <data key="d0">book</data>
+      <data key="d1">['Zora Neale Hurston']</data>
+      <data key="d2">Zora Neale Hurston</data>
+      <data key="d3">[1, 1, 1937]</data>
+      <data key="d8">14.99</data>
+      <data key="d5">3.98</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'School', 'African American', 'Literature', 'Feminism']</data>
+    </node>
+    <node id="Zora Neale Hurston">
+      <data key="d0">author</data>
+      <data key="d1">['Their Eyes Were Watching God']</data>
+      <data key="d7">Zora Neale Hurston</data>
+    </node>
+    <node id="The Wind in the Willows">
+      <data key="d0">book</data>
+      <data key="d1">['Kenneth Grahame']</data>
+      <data key="d2">Kenneth Grahame</data>
+      <data key="d3">[10, 8, 1908]</data>
+      <data key="d8">2.99</data>
+      <data key="d5">4.0</data>
+      <data key="d6">['Classics', 'Fiction', 'Childrens', 'Fantasy', 'Animals', 'Young Adult', 'Middle Grade']</data>
+    </node>
+    <node id="Kenneth Grahame">
+      <data key="d0">author</data>
+      <data key="d1">['The Wind in the Willows']</data>
+      <data key="d7">Kenneth Grahame</data>
+    </node>
+    <node id="Speak">
+      <data key="d0">book</data>
+      <data key="d1">['Laurie Halse Anderson']</data>
+      <data key="d2">Laurie Halse Anderson</data>
+      <data key="d3">[10, 22, 1999]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.04</data>
+      <data key="d6">['Young Adult', 'Fiction', 'Contemporary', 'Realistic Fiction', 'Mental Health', 'Teen', 'Coming Of Age']</data>
+    </node>
+    <node id="Laurie Halse Anderson">
+      <data key="d0">author</data>
+      <data key="d1">['Speak']</data>
+      <data key="d7">Laurie Halse Anderson</data>
+    </node>
+    <node id="Peter Pan">
+      <data key="d0">book</data>
+      <data key="d1">['J.M. Barrie']</data>
+      <data key="d2">J.M. Barrie</data>
+      <data key="d3">[12, 27, 1911]</data>
+      <data key="d8">3.87</data>
+      <data key="d5">4.04</data>
+      <data key="d6">['Classics', 'Fantasy', 'Fiction', 'Childrens', 'Adventure', 'Young Adult', 'Middle Grade']</data>
+    </node>
+    <node id="J.M. Barrie">
+      <data key="d0">author</data>
+      <data key="d1">['Peter Pan']</data>
+      <data key="d7">J.M. Barrie</data>
+    </node>
+    <node id="The Republic">
+      <data key="d0">book</data>
+      <data key="d1">['Plato']</data>
+      <data key="d2">Plato</data>
+      <data key="d3">[1, 1, 376]</data>
+      <data key="d8">10.99</data>
+      <data key="d5">3.96</data>
+      <data key="d6">['Philosophy', 'Classics', 'Nonfiction', 'Politics', 'History', 'School', 'Literature']</data>
+    </node>
+    <node id="Plato">
+      <data key="d0">author</data>
+      <data key="d1">['The Republic']</data>
+      <data key="d7">Plato</data>
+    </node>
+    <node id="A People's History of the United States">
+      <data key="d0">book</data>
+      <data key="d1">['Howard Zinn']</data>
+      <data key="d2">Howard Zinn</data>
+      <data key="d3">[1, 1, 1980]</data>
+      <data key="d8">14.49</data>
+      <data key="d5">4.07</data>
+      <data key="d6">['History', 'Nonfiction', 'Politics', 'American History', 'Historical', 'Social Justice', 'Classics']</data>
+    </node>
+    <node id="Howard Zinn">
+      <data key="d0">author</data>
+      <data key="d1">["A People's History of the United States"]</data>
+      <data key="d7">Howard Zinn</data>
+    </node>
+    <node id="American Gods">
+      <data key="d0">book</data>
+      <data key="d1">['Neil Gaiman']</data>
+      <data key="d2">Neil Gaiman</data>
+      <data key="d3">[6, 19, 2001]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.11</data>
+      <data key="d6">['Fantasy', 'Fiction', 'Mythology', 'Urban Fantasy', 'Audiobook', 'Science Fiction', 'Science Fiction Fantasy']</data>
+    </node>
+    <node id="Neil Gaiman">
+      <data key="d0">author</data>
+      <data key="d1">['American Gods']</data>
+      <data key="d7">Neil Gaiman</data>
+    </node>
+    <node id="Holes">
+      <data key="d0">book</data>
+      <data key="d1">['Louis Sachar']</data>
+      <data key="d2">Louis Sachar</data>
+      <data key="d3">[8, 20, 1998]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.99</data>
+      <data key="d6">['Young Adult', 'Fiction', 'Middle Grade', 'Childrens', 'Classics', 'Realistic Fiction', 'School']</data>
+    </node>
+    <node id="Louis Sachar">
+      <data key="d0">author</data>
+      <data key="d1">['Holes']</data>
+      <data key="d7">Louis Sachar</data>
+    </node>
+    <node id="The Story of My Life">
+      <data key="d0">book</data>
+      <data key="d1">['Helen Keller']</data>
+      <data key="d2">Helen Keller</data>
+      <data key="d3">[1, 1, 1902]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">4.08</data>
+      <data key="d6">['Nonfiction', 'Biography', 'Classics', 'Memoir', 'History', 'Autobiography', 'Biography Memoir']</data>
+    </node>
+    <node id="Helen Keller">
+      <data key="d0">author</data>
+      <data key="d1">['The Story of My Life']</data>
+      <data key="d7">Helen Keller</data>
+    </node>
+    <node id="The Secret Magdalene">
+      <data key="d0">book</data>
+      <data key="d1">['Ki Longfellow']</data>
+      <data key="d2">Ki Longfellow</data>
+      <data key="d3">[1, 1, 2005]</data>
+      <data key="d8">13.99</data>
+      <data key="d5">4.15</data>
+      <data key="d6">['Historical Fiction', 'Fiction', 'Religion', 'Historical', 'Spirituality', 'Novels', 'Literature']</data>
+    </node>
+    <node id="Ki Longfellow">
+      <data key="d0">author</data>
+      <data key="d1">['The Secret Magdalene', 'Flow Down Like Silver']</data>
+      <data key="d7">Ki Longfellow</data>
+    </node>
+    <node id="Flow Down Like Silver">
+      <data key="d0">book</data>
+      <data key="d1">['Ki Longfellow']</data>
+      <data key="d2">Ki Longfellow</data>
+      <data key="d3">[8, 20, 2009]</data>
+      <data key="d8">9.95</data>
+      <data key="d5">3.98</data>
+      <data key="d6">['Historical Fiction', 'Fiction', 'Egypt', 'Historical', 'Philosophy', 'Literature', 'Africa']</data>
+    </node>
+    <node id="Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch">
+      <data key="d0">book</data>
+      <data key="d1">['Terry Pratchett']</data>
+      <data key="d2">Terry Pratchett</data>
+      <data key="d3">[1, 1, 1990]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.25</data>
+      <data key="d6">['Fantasy', 'Fiction', 'Humor', 'Urban Fantasy', 'Comedy', 'Audiobook', 'Science Fiction Fantasy']</data>
+    </node>
+    <node id="Terry Pratchett">
+      <data key="d0">author</data>
+      <data key="d1">['Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch']</data>
+      <data key="d7">Terry Pratchett</data>
+    </node>
+    <node id="Things Fall Apart">
+      <data key="d0">book</data>
+      <data key="d1">['Chinua Achebe']</data>
+      <data key="d2">Chinua Achebe</data>
+      <data key="d3">[1, 1, 1958]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.73</data>
+      <data key="d6">['Fiction', 'Classics', 'Historical Fiction', 'Africa', 'School', 'Literature', 'Nigeria']</data>
+    </node>
+    <node id="Chinua Achebe">
+      <data key="d0">author</data>
+      <data key="d1">['Things Fall Apart']</data>
+      <data key="d7">Chinua Achebe</data>
+    </node>
+    <node id="A Short History of Nearly Everything">
+      <data key="d0">book</data>
+      <data key="d1">['Bill Bryson']</data>
+      <data key="d2">Bill Bryson</data>
+      <data key="d3">[1, 1, 2003]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">4.21</data>
+      <data key="d6">['Nonfiction', 'Science', 'History', 'Audiobook', 'Humor', 'Physics', 'Historical']</data>
+    </node>
+    <node id="Bill Bryson">
+      <data key="d0">author</data>
+      <data key="d1">['A Short History of Nearly Everything']</data>
+      <data key="d7">Bill Bryson</data>
+    </node>
+    <node id="The Addiction Manifesto">
+      <data key="d0">book</data>
+      <data key="d1">['Jerry Weaver']</data>
+      <data key="d2">Jerry Weaver</data>
+      <data key="d3">[4, 7, 2018]</data>
+      <data key="d8">1.99</data>
+      <data key="d5">4.84</data>
+      <data key="d6">['Nonfiction', 'Self Help', 'Memoir', 'Mental Health', 'Psychology', 'Biography']</data>
+    </node>
+    <node id="Jerry Weaver">
+      <data key="d0">author</data>
+      <data key="d1">['The Addiction Manifesto']</data>
+      <data key="d7">Jerry Weaver</data>
+    </node>
+    <node id="A Brief History of Time">
+      <data key="d0">book</data>
+      <data key="d1">['Stephen Hawking']</data>
+      <data key="d2">Stephen Hawking</data>
+      <data key="d3">[9, 1, 1988]</data>
+      <data key="d8">14.99</data>
+      <data key="d5">4.21</data>
+      <data key="d6">['Science', 'Nonfiction', 'Physics', 'History', 'Classics', 'Philosophy', 'Astronomy']</data>
+    </node>
+    <node id="Stephen Hawking">
+      <data key="d0">author</data>
+      <data key="d1">['A Brief History of Time']</data>
+      <data key="d7">Stephen Hawking</data>
+    </node>
+    <node id="Island of the Blue Dolphins">
+      <data key="d0">book</data>
+      <data key="d1">["Scott O'Dell"]</data>
+      <data key="d2">Scott O'Dell</data>
+      <data key="d3">[9, 9, 1960]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.86</data>
+      <data key="d6">['Young Adult', 'Fiction', 'Historical Fiction', 'Classics', 'Childrens', 'Middle Grade', 'Adventure']</data>
+    </node>
+    <node id="Scott O'Dell">
+      <data key="d0">author</data>
+      <data key="d1">['Island of the Blue Dolphins']</data>
+      <data key="d7">Scott O'Dell</data>
+    </node>
+    <node id="زندگی مه آلود پریا">
+      <data key="d0">book</data>
+      <data key="d1">['سید مرتضی مصطفوی']</data>
+      <data key="d2">سید مرتضی مصطفوی</data>
+      <data key="d3">[1, 2, 2013]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.3</data>
+      <data key="d6">['Fiction']</data>
+    </node>
+    <node id="سید مرتضی مصطفوی">
+      <data key="d0">author</data>
+      <data key="d1">['زندگی مه آلود پریا']</data>
+      <data key="d7">سید مرتضی مصطفوی</data>
+    </node>
+    <node id="The Complete Fairy Tales">
+      <data key="d0">book</data>
+      <data key="d1">['Hans Christian Andersen']</data>
+      <data key="d2">Hans Christian Andersen</data>
+      <data key="d3">[12, 1, 1872]</data>
+      <data key="d8">2.79</data>
+      <data key="d5">4.29</data>
+      <data key="d6">['Classics', 'Fantasy', 'Fiction', 'Childrens', 'Fairy Tales', 'Short Stories', 'Literature']</data>
+    </node>
+    <node id="Hans Christian Andersen">
+      <data key="d0">author</data>
+      <data key="d1">['The Complete Fairy Tales']</data>
+      <data key="d7">Hans Christian Andersen</data>
+    </node>
+    <node id="Blindness">
+      <data key="d0">book</data>
+      <data key="d1">['José Saramago']</data>
+      <data key="d2">José Saramago</data>
+      <data key="d3">[1, 1, 1995]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.17</data>
+      <data key="d6">['Fiction', 'Dystopia', 'Science Fiction', 'Classics', 'Novels', 'Literature', 'Portugal']</data>
+    </node>
+    <node id="José Saramago">
+      <data key="d0">author</data>
+      <data key="d1">['Blindness']</data>
+      <data key="d7">José Saramago</data>
+    </node>
+    <node id="A Separate Peace">
+      <data key="d0">book</data>
+      <data key="d1">['John Knowles']</data>
+      <data key="d2">John Knowles</data>
+      <data key="d3">[1, 1, 1959]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">3.59</data>
+      <data key="d6">['Classics', 'Fiction', 'Young Adult', 'Historical Fiction', 'School', 'Coming Of Age', 'High School']</data>
+    </node>
+    <node id="John Knowles">
+      <data key="d0">author</data>
+      <data key="d1">['A Separate Peace']</data>
+      <data key="d7">John Knowles</data>
+    </node>
+    <node id="The Shack">
+      <data key="d0">book</data>
+      <data key="d1">['William Paul Young']</data>
+      <data key="d2">William Paul Young</data>
+      <data key="d3">[5, 1, 2007]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">3.81</data>
+      <data key="d6">['Fiction', 'Christian', 'Christian Fiction', 'Spirituality', 'Faith', 'Religion', 'Inspirational']</data>
+    </node>
+    <node id="William Paul Young">
+      <data key="d0">author</data>
+      <data key="d1">['The Shack']</data>
+      <data key="d7">William Paul Young</data>
+    </node>
+    <node id="Fried Green Tomatoes at the Whistle Stop Cafe">
+      <data key="d0">book</data>
+      <data key="d1">['Fannie Flagg']</data>
+      <data key="d2">Fannie Flagg</data>
+      <data key="d3">[1, 1, 1987]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.28</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'LGBT', 'Classics', 'Queer', 'Historical', 'Chick Lit']</data>
+    </node>
+    <node id="Fannie Flagg">
+      <data key="d0">author</data>
+      <data key="d1">['Fried Green Tomatoes at the Whistle Stop Cafe']</data>
+      <data key="d7">Fannie Flagg</data>
+    </node>
+    <node id="Madame Bovary">
+      <data key="d0">book</data>
+      <data key="d1">['Gustave Flaubert']</data>
+      <data key="d2">Gustave Flaubert</data>
+      <data key="d3">[12, 15, 1856]</data>
+      <data key="d8">6.49</data>
+      <data key="d5">3.7</data>
+      <data key="d6">['Classics', 'Fiction', 'France', 'Literature', 'French Literature', 'Romance', '19th Century']</data>
+    </node>
+    <node id="Gustave Flaubert">
+      <data key="d0">author</data>
+      <data key="d1">['Madame Bovary']</data>
+      <data key="d7">Gustave Flaubert</data>
+    </node>
+    <node id="The God Delusion">
+      <data key="d0">book</data>
+      <data key="d1">['Richard Dawkins']</data>
+      <data key="d2">Richard Dawkins</data>
+      <data key="d3">[10, 1, 2006]</data>
+      <data key="d8">14.99</data>
+      <data key="d5">3.9</data>
+      <data key="d6">['Nonfiction', 'Religion', 'Science', 'Philosophy', 'Atheism', 'Psychology', 'Spirituality']</data>
+    </node>
+    <node id="Richard Dawkins">
+      <data key="d0">author</data>
+      <data key="d1">['The God Delusion']</data>
+      <data key="d7">Richard Dawkins</data>
+    </node>
+    <node id="The Joy Luck Club">
+      <data key="d0">book</data>
+      <data key="d1">['Amy Tan']</data>
+      <data key="d2">Amy Tan</data>
+      <data key="d3">[1, 1, 1989]</data>
+      <data key="d8">13.99</data>
+      <data key="d5">3.97</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Classics', 'China', 'Contemporary', 'Historical', 'Adult Fiction']</data>
+    </node>
+    <node id="Amy Tan">
+      <data key="d0">author</data>
+      <data key="d1">['The Joy Luck Club']</data>
+      <data key="d7">Amy Tan</data>
+    </node>
+    <node id="Tao Te Ching">
+      <data key="d0">book</data>
+      <data key="d1">['Lao Tzu']</data>
+      <data key="d2">Lao Tzu</data>
+      <data key="d3">[1, 1, 401]</data>
+      <data key="d8">10.99</data>
+      <data key="d5">4.3</data>
+      <data key="d6">['Philosophy', 'Nonfiction', 'Classics', 'Religion', 'Spirituality', 'Poetry', 'China']</data>
+    </node>
+    <node id="Lao Tzu">
+      <data key="d0">author</data>
+      <data key="d1">['Tao Te Ching']</data>
+      <data key="d7">Lao Tzu</data>
+    </node>
+    <node id="The Neverending Story">
+      <data key="d0">book</data>
+      <data key="d1">['Michael Ende']</data>
+      <data key="d2">Michael Ende</data>
+      <data key="d3">[9, 1, 1979]</data>
+      <data key="d8">8.53</data>
+      <data key="d5">4.18</data>
+      <data key="d6">['Fantasy', 'Classics', 'Fiction', 'Young Adult', 'Childrens', 'Adventure', 'German Literature']</data>
+    </node>
+    <node id="Michael Ende">
+      <data key="d0">author</data>
+      <data key="d1">['The Neverending Story']</data>
+      <data key="d7">Michael Ende</data>
+    </node>
+    <node id="Sophie's Choice">
+      <data key="d0">book</data>
+      <data key="d1">['William Styron']</data>
+      <data key="d2">William Styron</data>
+      <data key="d3">[1, 1, 1979]</data>
+      <data key="d8">13.71</data>
+      <data key="d5">4.17</data>
+      <data key="d6">['Fiction', 'Classics', 'Historical Fiction', 'Holocaust', 'War', 'Historical', 'World War II']</data>
+    </node>
+    <node id="William Styron">
+      <data key="d0">author</data>
+      <data key="d1">["Sophie's Choice"]</data>
+      <data key="d7">William Styron</data>
+    </node>
+    <node id="A Confederacy of Dunces">
+      <data key="d0">book</data>
+      <data key="d1">['John Kennedy Toole']</data>
+      <data key="d2">John Kennedy Toole</data>
+      <data key="d3">[5, 1, 1980]</data>
+      <data key="d8">8.48</data>
+      <data key="d5">3.89</data>
+      <data key="d6">['Fiction', 'Classics', 'Humor', 'Literature', 'Comedy', 'Novels', 'American']</data>
+    </node>
+    <node id="John Kennedy Toole">
+      <data key="d0">author</data>
+      <data key="d1">['A Confederacy of Dunces']</data>
+      <data key="d7">John Kennedy Toole</data>
+    </node>
+    <node id="How to Win Friends and Influence People">
+      <data key="d0">book</data>
+      <data key="d1">['Dale Carnegie']</data>
+      <data key="d2">Dale Carnegie</data>
+      <data key="d3">[10, 1, 1936]</data>
+      <data key="d8">14.99</data>
+      <data key="d5">4.22</data>
+      <data key="d6">['Self Help', 'Nonfiction', 'Business', 'Psychology', 'Personal Development', 'Leadership', 'Communication']</data>
+    </node>
+    <node id="Dale Carnegie">
+      <data key="d0">author</data>
+      <data key="d1">['How to Win Friends and Influence People']</data>
+      <data key="d7">Dale Carnegie</data>
+    </node>
+    <node id="Never Let Me Go">
+      <data key="d0">book</data>
+      <data key="d1">['Kazuo Ishiguro']</data>
+      <data key="d2">Kazuo Ishiguro</data>
+      <data key="d3">[4, 5, 2005]</data>
+      <data key="d8">12.99</data>
+      <data key="d5">3.84</data>
+      <data key="d6">['Fiction', 'Science Fiction', 'Dystopia', 'Contemporary', 'Literary Fiction', 'Romance', 'Novels']</data>
+    </node>
+    <node id="Kazuo Ishiguro">
+      <data key="d0">author</data>
+      <data key="d1">['Never Let Me Go']</data>
+      <data key="d7">Kazuo Ishiguro</data>
+    </node>
+    <node id="Guns, Germs, and Steel: The Fates of Human Societies">
+      <data key="d0">book</data>
+      <data key="d1">['Jared Diamond']</data>
+      <data key="d2">Jared Diamond</data>
+      <data key="d3">[5, 9, 1997]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.04</data>
+      <data key="d6">['History', 'Nonfiction', 'Science', 'Anthropology', 'Sociology', 'Politics', 'Economics']</data>
+    </node>
+    <node id="Jared Diamond">
+      <data key="d0">author</data>
+      <data key="d1">['Guns, Germs, and Steel: The Fates of Human Societies']</data>
+      <data key="d7">Jared Diamond</data>
+    </node>
+    <node id="Extremely Loud &amp; Incredibly Close">
+      <data key="d0">book</data>
+      <data key="d1">['Jonathan Safran Foer']</data>
+      <data key="d2">Jonathan Safran Foer</data>
+      <data key="d3">[1, 1, 2005]</data>
+      <data key="d8">14.49</data>
+      <data key="d5">3.97</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Contemporary', 'Novels', 'Literary Fiction', 'Adult', 'Adult Fiction']</data>
+    </node>
+    <node id="Jonathan Safran Foer">
+      <data key="d0">author</data>
+      <data key="d1">['Extremely Loud &amp; Incredibly Close']</data>
+      <data key="d7">Jonathan Safran Foer</data>
+    </node>
+    <node id="The Clan of the Cave Bear">
+      <data key="d0">book</data>
+      <data key="d1">['Jean M. Auel']</data>
+      <data key="d2">Jean M. Auel</data>
+      <data key="d3">[1, 1, 1980]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.09</data>
+      <data key="d6">['Historical Fiction', 'Fiction', 'Fantasy', 'Historical', 'Classics', 'Romance', 'Adventure']</data>
+    </node>
+    <node id="Jean M. Auel">
+      <data key="d0">author</data>
+      <data key="d1">['The Clan of the Cave Bear']</data>
+      <data key="d7">Jean M. Auel</data>
+    </node>
+    <node id="Tess of the D'Urbervilles">
+      <data key="d0">book</data>
+      <data key="d1">['Thomas Hardy']</data>
+      <data key="d2">Thomas Hardy</data>
+      <data key="d3">[1, 1, 1891]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">3.83</data>
+      <data key="d6">['Classics', 'Fiction', 'Literature', 'Historical Fiction', '19th Century', 'Victorian', 'Novels']</data>
+    </node>
+    <node id="Thomas Hardy">
+      <data key="d0">author</data>
+      <data key="d1">["Tess of the D'Urbervilles"]</data>
+      <data key="d7">Thomas Hardy</data>
+    </node>
+    <node id="Outlander">
+      <data key="d0">book</data>
+      <data key="d1">['Diana Gabaldon']</data>
+      <data key="d2">Diana Gabaldon</data>
+      <data key="d3">[6, 1, 1991]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.26</data>
+      <data key="d6">['Historical Fiction', 'Romance', 'Fantasy', 'Fiction', 'Time Travel', 'Historical', 'Historical Romance']</data>
+    </node>
+    <node id="Diana Gabaldon">
+      <data key="d0">author</data>
+      <data key="d1">['Outlander']</data>
+      <data key="d7">Diana Gabaldon</data>
+    </node>
+    <node id="The Tao of Pooh">
+      <data key="d0">book</data>
+      <data key="d1">['Benjamin Hoff']</data>
+      <data key="d2">Benjamin Hoff</data>
+      <data key="d3">[4, 28, 1982]</data>
+      <data key="d8">6.99</data>
+      <data key="d5">4.0</data>
+      <data key="d6">['Philosophy', 'Nonfiction', 'Spirituality', 'Religion', 'Self Help', 'Audiobook', 'Taoism']</data>
+    </node>
+    <node id="Benjamin Hoff">
+      <data key="d0">author</data>
+      <data key="d1">['The Tao of Pooh']</data>
+      <data key="d7">Benjamin Hoff</data>
+    </node>
+    <node id="The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change">
+      <data key="d0">book</data>
+      <data key="d1">['Stephen R. Covey']</data>
+      <data key="d2">Stephen R. Covey</data>
+      <data key="d3">[1, 1, 1988]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">4.15</data>
+      <data key="d6">['Self Help', 'Nonfiction', 'Business', 'Personal Development', 'Psychology', 'Leadership', 'Productivity']</data>
+    </node>
+    <node id="Stephen R. Covey">
+      <data key="d0">author</data>
+      <data key="d1">['The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change']</data>
+      <data key="d7">Stephen R. Covey</data>
+    </node>
+    <node id="One Day in the Life of Ivan Denisovich">
+      <data key="d0">book</data>
+      <data key="d1">['Aleksandr Solzhenitsyn']</data>
+      <data key="d2">Aleksandr Solzhenitsyn</data>
+      <data key="d3">[11, 1, 1962]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">3.98</data>
+      <data key="d6">['Fiction', 'Classics', 'Russia', 'Historical Fiction', 'Russian Literature', 'Literature', 'Novels']</data>
+    </node>
+    <node id="Aleksandr Solzhenitsyn">
+      <data key="d0">author</data>
+      <data key="d1">['One Day in the Life of Ivan Denisovich']</data>
+      <data key="d7">Aleksandr Solzhenitsyn</data>
+    </node>
+    <node id="Ulysses">
+      <data key="d0">book</data>
+      <data key="d1">['James Joyce']</data>
+      <data key="d2">James Joyce</data>
+      <data key="d3">[2, 2, 1922]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.75</data>
+      <data key="d6">['Classics', 'Fiction', 'Literature', 'Novels', 'Ireland', 'Irish Literature', '20th Century']</data>
+    </node>
+    <node id="James Joyce">
+      <data key="d0">author</data>
+      <data key="d1">['Ulysses']</data>
+      <data key="d7">James Joyce</data>
+    </node>
+    <node id="Lonesome Dove">
+      <data key="d0">book</data>
+      <data key="d1">['Larry McMurtry']</data>
+      <data key="d2">Larry McMurtry</data>
+      <data key="d3">[1, 1, 1985]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.52</data>
+      <data key="d6">['Fiction', 'Historical Fiction', 'Westerns', 'Classics', 'Historical', 'Adventure', 'Novels']</data>
+    </node>
+    <node id="Larry McMurtry">
+      <data key="d0">author</data>
+      <data key="d1">['Lonesome Dove']</data>
+      <data key="d7">Larry McMurtry</data>
+    </node>
+    <node id="The Jungle">
+      <data key="d0">book</data>
+      <data key="d1">['Upton Sinclair']</data>
+      <data key="d2">Upton Sinclair</data>
+      <data key="d3">[2, 25, 1905]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.76</data>
+      <data key="d6">['Classics', 'Fiction', 'Historical Fiction', 'Literature', 'Politics', 'School', 'Novels']</data>
+    </node>
+    <node id="Upton Sinclair">
+      <data key="d0">author</data>
+      <data key="d1">['The Jungle']</data>
+      <data key="d7">Upton Sinclair</data>
+    </node>
+    <node id="The Phantom of the Opera">
+      <data key="d0">book</data>
+      <data key="d1">['Gaston Leroux']</data>
+      <data key="d2">Gaston Leroux</data>
+      <data key="d3">[9, 23, 1909]</data>
+      <data key="d4">0</data>
+      <data key="d5">3.96</data>
+      <data key="d6">['Fiction', 'Horror', 'Romance', 'Classics', 'Gothic', 'Mystery', 'Historical Fiction']</data>
+    </node>
+    <node id="Gaston Leroux">
+      <data key="d0">author</data>
+      <data key="d1">['The Phantom of the Opera']</data>
+      <data key="d7">Gaston Leroux</data>
+    </node>
+    <node id="Nickel and Dimed">
+      <data key="d0">book</data>
+      <data key="d1">['Barbara Ehrenreich']</data>
+      <data key="d2">Barbara Ehrenreich</data>
+      <data key="d3">[5, 8, 2001]</data>
+      <data key="d8">0.0</data>
+      <data key="d5">3.65</data>
+      <data key="d6">['Nonfiction', 'Sociology', 'Politics', 'Economics', 'Memoir', 'Social Justice', 'Poverty']</data>
+    </node>
+    <node id="Barbara Ehrenreich">
+      <data key="d0">author</data>
+      <data key="d1">['Nickel and Dimed']</data>
+      <data key="d7">Barbara Ehrenreich</data>
+    </node>
+    <node id="The Name of the Wind">
+      <data key="d0">book</data>
+      <data key="d1">['Patrick Rothfuss']</data>
+      <data key="d2">Patrick Rothfuss</data>
+      <data key="d3">[3, 27, 2007]</data>
+      <data key="d4">0</data>
+      <data key="d5">4.52</data>
+      <data key="d6">['Fantasy', 'Fiction', 'Epic Fantasy', 'High Fantasy', 'Magic', 'Science Fiction Fantasy', 'Adult']</data>
+    </node>
+    <node id="Patrick Rothfuss">
+      <data key="d0">author</data>
+      <data key="d1">['The Name of the Wind']</data>
+      <data key="d7">Patrick Rothfuss</data>
+    </node>
+    <node id="Paradise Lost">
+      <data key="d0">book</data>
+      <data key="d1">['John Milton']</data>
+      <data key="d2">John Milton</data>
+      <data key="d3">[1, 1, 1667]</data>
+      <data key="d8">0.99</data>
+      <data key="d5">3.84</data>
+      <data key="d6">['Classics', 'Poetry', 'Fiction', 'Literature', 'Religion', 'Fantasy', 'Philosophy']</data>
+    </node>
+    <node id="John Milton">
+      <data key="d0">author</data>
+      <data key="d1">['Paradise Lost']</data>
+      <data key="d7">John Milton</data>
+    </node>
+    <node id="The God of Small Things">
+      <data key="d0">book</data>
+      <data key="d1">['Arundhati Roy']</data>
+      <data key="d2">Arundhati Roy</data>
+      <data key="d3">[4, 1, 1997]</data>
+      <data key="d8">14.99</data>
+      <data key="d5">3.95</data>
+      <data key="d6">['Fiction', 'India', 'Historical Fiction', 'Classics', 'Contemporary', 'Literary Fiction', 'Novels']</data>
+    </node>
+    <node id="Arundhati Roy">
+      <data key="d0">author</data>
+      <data key="d1">['The God of Small Things']</data>
+      <data key="d7">Arundhati Roy</data>
+    </node>
+    <node id="Are You There God? It's Me, Margaret">
+      <data key="d0">book</data>
+      <data key="d1">['Judy Blume']</data>
+      <data key="d2">Judy Blume</data>
+      <data key="d3">[1, 1, 1970]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">3.94</data>
+      <data key="d6">['Young Adult', 'Fiction', 'Childrens', 'Classics', 'Middle Grade', 'Coming Of Age', 'Realistic Fiction']</data>
+    </node>
+    <node id="Judy Blume">
+      <data key="d0">author</data>
+      <data key="d1">["Are You There God? It's Me, Margaret"]</data>
+      <data key="d7">Judy Blume</data>
+    </node>
+    <node id="All Creatures Great and Small / All Things Bright and Beautiful">
+      <data key="d0">book</data>
+      <data key="d1">['James Herriot']</data>
+      <data key="d2">James Herriot</data>
+      <data key="d3">[1, 1, 1972]</data>
+      <data key="d8">11.39</data>
+      <data key="d5">4.32</data>
+      <data key="d6">['Nonfiction', 'Classics', 'Animals', 'Memoir', 'Biography', 'Humor', 'Nature']</data>
+    </node>
+    <node id="James Herriot">
+      <data key="d0">author</data>
+      <data key="d1">['All Creatures Great and Small / All Things Bright and Beautiful']</data>
+      <data key="d7">James Herriot</data>
+    </node>
+    <node id="The House of the Spirits">
+      <data key="d0">book</data>
+      <data key="d1">['Isabel Allende']</data>
+      <data key="d2">Isabel Allende</data>
+      <data key="d3">[1, 1, 1982]</data>
+      <data key="d8">13.99</data>
+      <data key="d5">4.27</data>
+      <data key="d6">['Fiction', 'Magical Realism', 'Historical Fiction', 'Fantasy', 'Spanish Literature', 'Historical', 'Novels']</data>
+    </node>
+    <node id="Isabel Allende">
+      <data key="d0">author</data>
+      <data key="d1">['The House of the Spirits']</data>
+      <data key="d7">Isabel Allende</data>
+    </node>
+    <node id="The Foundation Trilogy">
+      <data key="d0">book</data>
+      <data key="d1">['Isaac Asimov']</data>
+      <data key="d2">Isaac Asimov</data>
+      <data key="d3">[1, 1, 1953]</data>
+      <data key="d8">9.99</data>
+      <data key="d5">4.41</data>
+      <data key="d6">['Science Fiction', 'Fiction', 'Classics', 'Science Fiction Fantasy', 'Fantasy', 'Space Opera', 'Literature']</data>
+    </node>
+    <node id="Isaac Asimov">
+      <data key="d0">author</data>
+      <data key="d1">['The Foundation Trilogy']</data>
+      <data key="d7">Isaac Asimov</data>
+    </node>
+    <node id="Book1">
+      <data key="d0">book</data>
+      <data key="d1">['Author1']</data>
+      <data key="d2">Author1</data>
+    </node>
+    <node id="Author1">
+      <data key="d0">author</data>
+      <data key="d1">['Book1', 'Author2']</data>
+      <data key="d7">Author1</data>
+    </node>
+    <node id="Book2">
+      <data key="d0">book</data>
+      <data key="d1">['Author2']</data>
+      <data key="d2">Author2</data>
+    </node>
+    <node id="Author2">
+      <data key="d0">author</data>
+      <data key="d1">['Book2']</data>
+      <data key="d7">Author2</data>
+    </node>
+    <edge source="To Kill a Mockingbird" target="Harper Lee" />
+    <edge source="Harry Potter and the Philosopher’s Stone" target="J.K. Rowling" />
+    <edge source="J.K. Rowling" target="Harry Potter and the Deathly Hallows" />
+    <edge source="J.K. Rowling" target="Harry Potter and the Prisoner of Azkaban" />
+    <edge source="J.K. Rowling" target="Harry Potter and the Goblet of Fire" />
+    <edge source="J.K. Rowling" target="Harry Potter and the Half-Blood Prince" />
+    <edge source="J.K. Rowling" target="Harry Potter and the Chamber of Secrets" />
+    <edge source="Pride and Prejudice" target="Jane Austen" />
+    <edge source="Jane Austen" target="Sense and Sensibility" />
+    <edge source="Jane Austen" target="Persuasion" />
+    <edge source="Jane Austen" target="Emma" />
+    <edge source="The Diary of a Young Girl" target="Anne Frank" />
+    <edge source="Animal Farm" target="George Orwell" />
+    <edge source="George Orwell" target="1984" />
+    <edge source="George Orwell" target="Animal Farm / 1984" />
+    <edge source="The Little Prince" target="Antoine de Saint-Exupéry" />
+    <edge source="The Great Gatsby" target="F. Scott Fitzgerald" />
+    <edge source="The Catcher in the Rye" target="J.D. Salinger" />
+    <edge source="The Lord of the Rings" target="J.R.R. Tolkien" />
+    <edge source="J.R.R. Tolkien" target="The Hobbit" />
+    <edge source="J.R.R. Tolkien" target="Tolkien On Fairy-stories" />
+    <edge source="J.R.R. Tolkien" target="The Fellowship of the Ring" />
+    <edge source="J.R.R. Tolkien" target="The Return of the King" />
+    <edge source="J.R.R. Tolkien" target="The Two Towers" />
+    <edge source="J.R.R. Tolkien" target="J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings" />
+    <edge source="The Book Thief" target="Markus Zusak" />
+    <edge source="Jane Eyre" target="Charlotte Brontë" />
+    <edge source="The Chronicles of Narnia" target="C.S. Lewis" />
+    <edge source="C.S. Lewis" target="The Lion, the Witch and the Wardrobe" />
+    <edge source="C.S. Lewis" target="The Screwtape Letters" />
+    <edge source="C.S. Lewis" target="Mere Christianity" />
+    <edge source="Lord of the Flies" target="William Golding" />
+    <edge source="Romeo and Juliet" target="William Shakespeare" />
+    <edge source="William Shakespeare" target="Hamlet" />
+    <edge source="William Shakespeare" target="Macbeth" />
+    <edge source="William Shakespeare" target="A Midsummer Night's Dream" />
+    <edge source="William Shakespeare" target="The Complete Works" />
+    <edge source="The Kite Runner" target="Khaled Hosseini" />
+    <edge source="Khaled Hosseini" target="A Thousand Splendid Suns" />
+    <edge source="The Giver" target="Lois Lowry" />
+    <edge source="Lois Lowry" target="Number the Stars" />
+    <edge source="The Giving Tree" target="Shel Silverstein" />
+    <edge source="Shel Silverstein" target="Where the Sidewalk Ends" />
+    <edge source="Shel Silverstein" target="A Light in the Attic" />
+    <edge source="Charlotte's Web" target="E.B. White" />
+    <edge source="Little Women" target="Louisa May Alcott" />
+    <edge source="The Hunger Games" target="Suzanne Collins" />
+    <edge source="Suzanne Collins" target="Catching Fire" />
+    <edge source="Suzanne Collins" target="Mockingjay" />
+    <edge source="Of Mice and Men" target="John Steinbeck" />
+    <edge source="John Steinbeck" target="The Grapes of Wrath" />
+    <edge source="John Steinbeck" target="East of Eden" />
+    <edge source="Fahrenheit 451" target="Ray Bradbury" />
+    <edge source="Green Eggs and Ham" target="Dr. Seuss" />
+    <edge source="Dr. Seuss" target="The Cat in the Hat" />
+    <edge source="Dr. Seuss" target="Oh, the Places You'll Go!" />
+    <edge source="Dr. Seuss" target="The Lorax" />
+    <edge source="Dr. Seuss" target="How the Grinch Stole Christmas!" />
+    <edge source="Dr. Seuss" target="Horton Hears a Who!" />
+    <edge source="Wuthering Heights" target="Emily Brontë" />
+    <edge source="Alice's Adventures in Wonderland / Through the Looking-Glass" target="Lewis Carroll" />
+    <edge source="The Picture of Dorian Gray" target="Oscar Wilde" />
+    <edge source="Night" target="Elie Wiesel" />
+    <edge source="Gone with the Wind" target="Margaret Mitchell" />
+    <edge source="The Holy Bible: King James Version" target="Anonymous" />
+    <edge source="Anonymous" target="القرآن الكريم" />
+    <edge source="The Hitchhiker's Guide to the Galaxy" target="Douglas Adams" />
+    <edge source="Douglas Adams" target="The Ultimate Hitchhiker's Guide to the Galaxy" />
+    <edge source="The Adventures of Huckleberry Finn" target="Mark Twain" />
+    <edge source="Mark Twain" target="The Adventures of Tom Sawyer" />
+    <edge source="Les Misérables" target="Victor Hugo" />
+    <edge source="The Alchemist" target="Paulo Coelho" />
+    <edge source="Brave New World / Brave New World Revisited" target="Aldous Huxley" />
+    <edge source="Aldous Huxley" target="Brave New World" />
+    <edge source="Crime and Punishment" target="Fyodor Dostoevsky" />
+    <edge source="Fyodor Dostoevsky" target="The Brothers Karamazov" />
+    <edge source="The Help" target="Kathryn Stockett" />
+    <edge source="The Secret Garden" target="Frances Hodgson Burnett" />
+    <edge source="Frances Hodgson Burnett" target="A Little Princess" />
+    <edge source="Memoirs of a Geisha" target="Arthur Golden" />
+    <edge source="The Odyssey" target="Homer" />
+    <edge source="Homer" target="The Iliad" />
+    <edge source="Homer" target="The Iliad / The Odyssey" />
+    <edge source="A Christmas Carol" target="Charles Dickens" />
+    <edge source="Charles Dickens" target="A Tale of Two Cities" />
+    <edge source="Charles Dickens" target="Great Expectations" />
+    <edge source="Charles Dickens" target="Oliver Twist" />
+    <edge source="The Outsiders" target="S.E. Hinton" />
+    <edge source="One Hundred Years of Solitude" target="Gabriel García Márquez" />
+    <edge source="Gabriel García Márquez" target="Love in the Time of Cholera" />
+    <edge source="Anne of Green Gables" target="L.M. Montgomery" />
+    <edge source="The Count of Monte Cristo" target="Alexandre Dumas" />
+    <edge source="Alexandre Dumas" target="The Three Musketeers" />
+    <edge source="Ender’s Game" target="Orson Scott Card" />
+    <edge source="Where the Wild Things Are" target="Maurice Sendak" />
+    <edge source="The Color Purple" target="Alice Walker" />
+    <edge source="Life of Pi" target="Yann Martel" />
+    <edge source="The Handmaid’s Tale" target="Margaret Atwood" />
+    <edge source="One Flew Over the Cuckoo's Nest" target="Ken Kesey" />
+    <edge source="Frankenstein: The 1818 Text" target="Mary Wollstonecraft Shelley" />
+    <edge source="Anna Karenina" target="Leo Tolstoy" />
+    <edge source="Leo Tolstoy" target="War and Peace" />
+    <edge source="Tuesdays with Morrie" target="Mitch Albom" />
+    <edge source="Mitch Albom" target="The Five People You Meet in Heaven" />
+    <edge source="Winnie-the-Pooh" target="A.A. Milne" />
+    <edge source="Slaughterhouse-Five" target="Kurt Vonnegut Jr." />
+    <edge source="Kurt Vonnegut Jr." target="Cat's Cradle" />
+    <edge source="The Old Man and the Sea" target="Ernest Hemingway" />
+    <edge source="Ernest Hemingway" target="The Sun Also Rises" />
+    <edge source="Ernest Hemingway" target="A Farewell to Arms" />
+    <edge source="Catch-22" target="Joseph Heller" />
+    <edge source="The Scarlet Letter" target="Nathaniel Hawthorne" />
+    <edge source="Twilight" target="Stephenie Meyer" />
+    <edge source="Stephenie Meyer" target="Eclipse" />
+    <edge source="Stephenie Meyer" target="Breaking Dawn" />
+    <edge source="Stephenie Meyer" target="New Moon" />
+    <edge source="Lolita" target="Vladimir Nabokov" />
+    <edge source="The Metamorphosis" target="Franz Kafka" />
+    <edge source="Franz Kafka" target="The Trial" />
+    <edge source="The Stranger" target="Albert Camus" />
+    <edge source="Siddhartha" target="Hermann Hesse" />
+    <edge source="The Time Traveler's Wife" target="Audrey Niffenegger" />
+    <edge source="Goodnight Moon" target="Margaret Wise Brown" />
+    <edge source="A Tree Grows in Brooklyn" target="Betty  Smith" />
+    <edge source="The Little House Collection" target="Laura Ingalls Wilder" />
+    <edge source="A Clockwork Orange" target="Anthony Burgess" />
+    <edge source="All Quiet on the Western Front" target="Erich Maria Remarque" />
+    <edge source="The Stand" target="Stephen King" />
+    <edge source="Stephen King" target="The Green Mile" />
+    <edge source="Stephen King" target="The Shining" />
+    <edge source="Don Quixote" target="Miguel de Cervantes Saavedra" />
+    <edge source="Uncle Tom's Cabin" target="Harriet Beecher Stowe" />
+    <edge source="Atlas Shrugged" target="Ayn Rand" />
+    <edge source="Ayn Rand" target="The Fountainhead" />
+    <edge source="The Poisonwood Bible" target="Barbara Kingsolver" />
+    <edge source="I Know Why the Caged Bird Sings" target="Maya Angelou" />
+    <edge source="Moby-Dick or, The Whale" target="Herman Melville" />
+    <edge source="The Book of Mormon: Another Testament of Jesus Christ" target="Joseph Smith Jr." />
+    <edge source="The Da Vinci Code" target="Dan Brown" />
+    <edge source="Dan Brown" target="Angels &amp; Demons" />
+    <edge source="The Good Earth" target="Pearl S. Buck" />
+    <edge source="The Hiding Place: The Triumphant True Story of Corrie Ten Boom" target="Corrie ten Boom" />
+    <edge source="Dracula" target="Bram Stoker" />
+    <edge source="A Wrinkle in Time" target="Madeleine L'Engle" />
+    <edge source="The Fault in Our Stars" target="John Green" />
+    <edge source="John Green" target="Looking for Alaska" />
+    <edge source="Matilda" target="Roald Dahl" />
+    <edge source="Roald Dahl" target="Charlie and the Chocolate Factory" />
+    <edge source="Roald Dahl" target="James and the Giant Peach" />
+    <edge source="The Perks of Being a Wallflower" target="Stephen Chbosky" />
+    <edge source="The Princess Bride" target="William Goldman" />
+    <edge source="Where the Red Fern Grows" target="Wilson Rawls" />
+    <edge source="The Tell-Tale Heart and Other Writings" target="Edgar Allan Poe" />
+    <edge source="Edgar Allan Poe" target="The Raven" />
+    <edge source="Man's Search for Meaning" target="Viktor E. Frankl" />
+    <edge source="A Game of Thrones" target="George R.R. Martin" />
+    <edge source="The Curious Incident of the Dog in the Night-Time" target="Mark Haddon" />
+    <edge source="The Declaration of Independence / The Constitution of the United States" target="Founding Fathers" />
+    <edge source="Watership Down" target="Richard  Adams" />
+    <edge source="The Bell Jar" target="Sylvia Plath" />
+    <edge source="Rebecca" target="Daphne du Maurier" />
+    <edge source="The Last Lecture" target="Randy Pausch" />
+    <edge source="Dune" target="Frank Herbert" />
+    <edge source="And Then There Were None" target="Agatha Christie" />
+    <edge source="Agatha Christie" target="Murder on the Orient Express" />
+    <edge source="The Velveteen Rabbit" target="Margery Williams Bianco" />
+    <edge source="The Lovely Bones" target="Alice Sebold" />
+    <edge source="Alice in Wonderland" target="Jane Carruth" />
+    <edge source="The Call of the Wild" target="Jack London" />
+    <edge source="The Girl with the Dragon Tattoo" target="Stieg Larsson" />
+    <edge source="Perfume: The Story of a Murderer" target="Patrick Süskind" />
+    <edge source="A Story of Yesterday" target="Sergio Cobo" />
+    <edge source="Angela's Ashes" target="Frank McCourt" />
+    <edge source="The Wonderful Wizard of Oz" target="L. Frank Baum" />
+    <edge source="Love You Forever" target="Robert Munsch" />
+    <edge source="Bridge to Terabithia" target="Katherine Paterson" />
+    <edge source="The Divine Comedy" target="Dante Alighieri" />
+    <edge source="The Road" target="Cormac McCarthy" />
+    <edge source="A Prayer for Owen Meany" target="John Irving" />
+    <edge source="John Irving" target="The World According to Garp" />
+    <edge source="The Name of the Rose" target="Umberto Eco" />
+    <edge source="The Prophet" target="Kahlil Gibran" />
+    <edge source="The Golden Compass" target="Philip Pullman" />
+    <edge source="Water for Elephants" target="Sara Gruen" />
+    <edge source="The Boy in the Striped Pajamas" target="John Boyne" />
+    <edge source="The Pillars of the Earth" target="Ken Follett" />
+    <edge source="Jonathan Livingston Seagull" target="Richard Bach" />
+    <edge source="The Secret Life of Bees" target="Sue Monk Kidd" />
+    <edge source="The Notebook" target="Nicholas Sparks" />
+    <edge source="The Master and Margarita" target="Mikhail Bulgakov" />
+    <edge source="The Complete Sherlock Holmes" target="Arthur Conan Doyle" />
+    <edge source="Arthur Conan Doyle" target="The Hound of the Baskervilles" />
+    <edge source="In Cold Blood" target="Truman Capote" />
+    <edge source="The Red Tent" target="Anita Diamant" />
+    <edge source="The Crucible: A Play in Four Acts" target="Arthur  Miller" />
+    <edge source="The Shadow of the Wind" target="Carlos Ruiz Zafón" />
+    <edge source="Heart of Darkness" target="Joseph Conrad" />
+    <edge source="The Glass Castle" target="Jeannette Walls" />
+    <edge source="The Gift of the Magi" target="O. Henry" />
+    <edge source="Eat, Pray, Love" target="Elizabeth Gilbert" />
+    <edge source="The Unbearable Lightness of Being" target="Milan Kundera" />
+    <edge source="Interview with the Vampire" target="Anne Rice" />
+    <edge source="The Art of War" target="Sun Tzu" />
+    <edge source="The Canterbury Tales" target="Geoffrey Chaucer" />
+    <edge source="On the Road" target="Jack Kerouac" />
+    <edge source="Aesop's Fables" target="Aesop" />
+    <edge source="The Godfather" target="Mario Puzo" />
+    <edge source="Dr. Jekyll and Mr. Hyde" target="Robert Louis Stevenson" />
+    <edge source="Robert Louis Stevenson" target="Treasure Island" />
+    <edge source="Fight Club" target="Chuck Palahniuk" />
+    <edge source="Walden" target="Henry David Thoreau" />
+    <edge source="Gulliver's Travels" target="Jonathan Swift" />
+    <edge source="Robinson Crusoe" target="Daniel Defoe" />
+    <edge source="The Origin of Species" target="Charles Darwin" />
+    <edge source="Invisible Man" target="Ralph Ellison" />
+    <edge source="The Prince" target="Niccolò Machiavelli" />
+    <edge source="Sophie's World" target="Jostein Gaarder" />
+    <edge source="The Complete Grimm's Fairy Tales" target="Jacob Grimm" />
+    <edge source="The Time Machine" target="H.G. Wells" />
+    <edge source="Watchmen" target="Alan Moore" />
+    <edge source="Alan Moore" target="V for Vendetta" />
+    <edge source="Candide" target="Voltaire" />
+    <edge source="Roots: The Saga of an American Family" target="Alex Haley" />
+    <edge source="Beloved" target="Toni Morrison" />
+    <edge source="Atonement" target="Ian McEwan" />
+    <edge source="Go Ask Alice" target="Beatrice Sparks" />
+    <edge source="The Things They Carried" target="Tim O'Brien" />
+    <edge source="Tuck Everlasting" target="Natalie Babbitt" />
+    <edge source="My Sister's Keeper" target="Jodi Picoult" />
+    <edge source="Divergent" target="Veronica Roth" />
+    <edge source="Stranger in a Strange Land" target="Robert A. Heinlein" />
+    <edge source="The Mists of Avalon" target="Marion Zimmer Bradley" />
+    <edge source="The Lightning Thief" target="Rick Riordan" />
+    <edge source="The Phantom Tollbooth" target="Norton Juster" />
+    <edge source="The Tale of Peter Rabbit" target="Beatrix Potter" />
+    <edge source="The Complete Maus" target="Art Spiegelman" />
+    <edge source="Bury My Heart at Wounded Knee: An Indian History of the American West" target="Dee Brown" />
+    <edge source="Schindler's List" target="Thomas Keneally" />
+    <edge source="The Autobiography of Malcolm X" target="Malcolm X" />
+    <edge source="The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury" target="Bill Watterson" />
+    <edge source="Middlesex" target="Jeffrey Eugenides" />
+    <edge source="Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time" target="Greg Mortenson" />
+    <edge source="A Child Called &quot;It&quot;" target="Dave Pelzer" />
+    <edge source="Into the Wild" target="Jon Krakauer" />
+    <edge source="Leaves of Grass" target="Walt Whitman" />
+    <edge source="Their Eyes Were Watching God" target="Zora Neale Hurston" />
+    <edge source="The Wind in the Willows" target="Kenneth Grahame" />
+    <edge source="Speak" target="Laurie Halse Anderson" />
+    <edge source="Peter Pan" target="J.M. Barrie" />
+    <edge source="The Republic" target="Plato" />
+    <edge source="A People's History of the United States" target="Howard Zinn" />
+    <edge source="American Gods" target="Neil Gaiman" />
+    <edge source="Holes" target="Louis Sachar" />
+    <edge source="The Story of My Life" target="Helen Keller" />
+    <edge source="The Secret Magdalene" target="Ki Longfellow" />
+    <edge source="Ki Longfellow" target="Flow Down Like Silver" />
+    <edge source="Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch" target="Terry Pratchett" />
+    <edge source="Things Fall Apart" target="Chinua Achebe" />
+    <edge source="A Short History of Nearly Everything" target="Bill Bryson" />
+    <edge source="The Addiction Manifesto" target="Jerry Weaver" />
+    <edge source="A Brief History of Time" target="Stephen Hawking" />
+    <edge source="Island of the Blue Dolphins" target="Scott O'Dell" />
+    <edge source="زندگی مه آلود پریا" target="سید مرتضی مصطفوی" />
+    <edge source="The Complete Fairy Tales" target="Hans Christian Andersen" />
+    <edge source="Blindness" target="José Saramago" />
+    <edge source="A Separate Peace" target="John Knowles" />
+    <edge source="The Shack" target="William Paul Young" />
+    <edge source="Fried Green Tomatoes at the Whistle Stop Cafe" target="Fannie Flagg" />
+    <edge source="Madame Bovary" target="Gustave Flaubert" />
+    <edge source="The God Delusion" target="Richard Dawkins" />
+    <edge source="The Joy Luck Club" target="Amy Tan" />
+    <edge source="Tao Te Ching" target="Lao Tzu" />
+    <edge source="The Neverending Story" target="Michael Ende" />
+    <edge source="Sophie's Choice" target="William Styron" />
+    <edge source="A Confederacy of Dunces" target="John Kennedy Toole" />
+    <edge source="How to Win Friends and Influence People" target="Dale Carnegie" />
+    <edge source="Never Let Me Go" target="Kazuo Ishiguro" />
+    <edge source="Guns, Germs, and Steel: The Fates of Human Societies" target="Jared Diamond" />
+    <edge source="Extremely Loud &amp; Incredibly Close" target="Jonathan Safran Foer" />
+    <edge source="The Clan of the Cave Bear" target="Jean M. Auel" />
+    <edge source="Tess of the D'Urbervilles" target="Thomas Hardy" />
+    <edge source="Outlander" target="Diana Gabaldon" />
+    <edge source="The Tao of Pooh" target="Benjamin Hoff" />
+    <edge source="The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change" target="Stephen R. Covey" />
+    <edge source="One Day in the Life of Ivan Denisovich" target="Aleksandr Solzhenitsyn" />
+    <edge source="Ulysses" target="James Joyce" />
+    <edge source="Lonesome Dove" target="Larry McMurtry" />
+    <edge source="The Jungle" target="Upton Sinclair" />
+    <edge source="The Phantom of the Opera" target="Gaston Leroux" />
+    <edge source="Nickel and Dimed" target="Barbara Ehrenreich" />
+    <edge source="The Name of the Wind" target="Patrick Rothfuss" />
+    <edge source="Paradise Lost" target="John Milton" />
+    <edge source="The God of Small Things" target="Arundhati Roy" />
+    <edge source="Are You There God? It's Me, Margaret" target="Judy Blume" />
+    <edge source="All Creatures Great and Small / All Things Bright and Beautiful" target="James Herriot" />
+    <edge source="The House of the Spirits" target="Isabel Allende" />
+    <edge source="The Foundation Trilogy" target="Isaac Asimov" />
+    <edge source="Book1" target="Author1" />
+    <edge source="Author1" target="Author2" />
+    <edge source="Book2" target="Author2" />
+  </graph>
+</graphml>

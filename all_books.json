@@ -1,0 +1,5975 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "release_date": [
+            7,
+            11,
+            1960
+        ],
+        "price": 0,
+        "score": 4.26,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "School",
+            "Literature",
+            "Young Adult",
+            "Historical"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Philosopher\u2019s Stone",
+        "author": "J.K. Rowling",
+        "release_date": [
+            6,
+            26,
+            1997
+        ],
+        "price": 0,
+        "score": 4.47,
+        "genres": [
+            "Fiction",
+            "Young Adult",
+            "Magic",
+            "Childrens",
+            "Middle Grade",
+            "Classics",
+            "Audiobook"
+        ]
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "release_date": [
+            1,
+            28,
+            1813
+        ],
+        "price": 0.99,
+        "score": 4.28,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Romance",
+            "Historical Fiction",
+            "Literature",
+            "Historical",
+            "Audiobook"
+        ]
+    },
+    {
+        "title": "The Diary of a Young Girl",
+        "author": "Anne Frank",
+        "release_date": [
+            1,
+            1,
+            1947
+        ],
+        "price": 2.51,
+        "score": 4.19,
+        "genres": [
+            "Classics",
+            "Nonfiction",
+            "Biography",
+            "Memoir",
+            "Historical",
+            "Holocaust",
+            "Autobiography"
+        ]
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "release_date": [
+            8,
+            17,
+            1945
+        ],
+        "price": 0.0,
+        "score": 3.98,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Dystopia",
+            "Fantasy",
+            "School",
+            "Politics",
+            "Literature"
+        ]
+    },
+    {
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exup\u00e9ry",
+        "release_date": [
+            4,
+            6,
+            1943
+        ],
+        "price": 1.8,
+        "score": 4.32,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Fantasy",
+            "Childrens",
+            "France",
+            "Philosophy",
+            "Young Adult"
+        ]
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "release_date": [
+            6,
+            8,
+            1949
+        ],
+        "price": 0.0,
+        "score": 4.19,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Science Fiction",
+            "Dystopia",
+            "Literature",
+            "Politics",
+            "Novels"
+        ]
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "release_date": [
+            4,
+            10,
+            1925
+        ],
+        "price": 1.99,
+        "score": 3.93,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "School",
+            "Historical Fiction",
+            "Romance",
+            "Literature",
+            "Novels"
+        ]
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "release_date": [
+            7,
+            16,
+            1951
+        ],
+        "price": 9.99,
+        "score": 3.8,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Young Adult",
+            "Literature",
+            "School",
+            "Novels",
+            "Coming Of Age"
+        ]
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "release_date": [
+            10,
+            20,
+            1955
+        ],
+        "price": 15.99,
+        "score": 4.52,
+        "genres": [
+            "Fantasy",
+            "Classics",
+            "Fiction",
+            "Adventure",
+            "Science Fiction Fantasy",
+            "High Fantasy",
+            "Epic Fantasy"
+        ]
+    },
+    {
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "release_date": [
+            3,
+            1,
+            2005
+        ],
+        "price": 10.99,
+        "score": 4.39,
+        "genres": [
+            "Historical Fiction",
+            "Fiction",
+            "Young Adult",
+            "Historical",
+            "Classics",
+            "War",
+            "World War II"
+        ]
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Bront\u00eb",
+        "release_date": [
+            10,
+            16,
+            1847
+        ],
+        "price": 3.53,
+        "score": 4.15,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Romance",
+            "Historical Fiction",
+            "Gothic",
+            "Literature",
+            "Historical"
+        ]
+    },
+    {
+        "title": "The Chronicles of Narnia",
+        "author": "C.S. Lewis",
+        "release_date": [
+            1,
+            1,
+            1956
+        ],
+        "price": 39.99,
+        "score": 4.27,
+        "genres": [
+            "Fantasy",
+            "Classics",
+            "Fiction",
+            "Young Adult",
+            "Childrens",
+            "Christian",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "Lord of the Flies",
+        "author": "William Golding",
+        "release_date": [
+            9,
+            17,
+            1954
+        ],
+        "price": 9.99,
+        "score": 3.69,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Young Adult",
+            "School",
+            "Literature",
+            "Dystopia",
+            "Read For School"
+        ]
+    },
+    {
+        "title": "Romeo and Juliet",
+        "author": "William Shakespeare",
+        "release_date": [
+            1,
+            1,
+            1597
+        ],
+        "price": 0.99,
+        "score": 3.74,
+        "genres": [
+            "Classics",
+            "Plays",
+            "Fiction",
+            "School",
+            "Drama",
+            "Read For School",
+            "Literature"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows",
+        "author": "J.K. Rowling",
+        "release_date": [
+            7,
+            21,
+            2007
+        ],
+        "price": 0,
+        "score": 4.62,
+        "genres": [
+            "Young Adult",
+            "Fiction",
+            "Magic",
+            "Childrens",
+            "Adventure",
+            "Audiobook",
+            "Middle Grade"
+        ]
+    },
+    {
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "release_date": [
+            5,
+            29,
+            2003
+        ],
+        "price": 13.99,
+        "score": 4.34,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Classics",
+            "Contemporary",
+            "Novels",
+            "Historical",
+            "Literature"
+        ]
+    },
+    {
+        "title": "The Giver",
+        "author": "Lois Lowry",
+        "release_date": [
+            4,
+            26,
+            1993
+        ],
+        "price": 0,
+        "score": 4.12,
+        "genres": [
+            "Young Adult",
+            "Fiction",
+            "Classics",
+            "Dystopia",
+            "Science Fiction",
+            "Fantasy",
+            "School"
+        ]
+    },
+    {
+        "title": "The Giving Tree",
+        "author": "Shel Silverstein",
+        "release_date": [
+            1,
+            1,
+            1964
+        ],
+        "price": 0.0,
+        "score": 4.38,
+        "genres": [
+            "Childrens",
+            "Classics",
+            "Fiction",
+            "Picture Books",
+            "Poetry",
+            "Young Adult",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "Charlotte's Web",
+        "author": "E.B. White",
+        "release_date": [
+            10,
+            15,
+            1952
+        ],
+        "price": 7.99,
+        "score": 4.2,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Childrens",
+            "Fantasy",
+            "Young Adult",
+            "Middle Grade",
+            "Animals"
+        ]
+    },
+    {
+        "title": "Little Women",
+        "author": "Louisa May Alcott",
+        "release_date": [
+            1,
+            1,
+            1868
+        ],
+        "price": 2.99,
+        "score": 4.14,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "Young Adult",
+            "Romance",
+            "Historical",
+            "Literature"
+        ]
+    },
+    {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "release_date": [
+            9,
+            14,
+            2008
+        ],
+        "price": 0,
+        "score": 4.33,
+        "genres": [
+            "Young Adult",
+            "Fiction",
+            "Fantasy",
+            "Dystopia",
+            "Science Fiction",
+            "Romance",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "release_date": [
+            9,
+            21,
+            1937
+        ],
+        "price": 0.0,
+        "score": 4.28,
+        "genres": [
+            "Fantasy",
+            "Classics",
+            "Fiction",
+            "Adventure",
+            "Young Adult",
+            "High Fantasy",
+            "Science Fiction Fantasy"
+        ]
+    },
+    {
+        "title": "Of Mice and Men",
+        "author": "John Steinbeck",
+        "release_date": [
+            2,
+            25,
+            1937
+        ],
+        "price": 8.99,
+        "score": 3.88,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "School",
+            "Historical Fiction",
+            "Literature",
+            "Read For School",
+            "Novels"
+        ]
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "release_date": [
+            10,
+            19,
+            1953
+        ],
+        "price": 12.99,
+        "score": 3.97,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Science Fiction",
+            "Dystopia",
+            "School",
+            "Literature",
+            "Novels"
+        ]
+    },
+    {
+        "title": "Green Eggs and Ham",
+        "author": "Dr. Seuss",
+        "release_date": [
+            6,
+            1,
+            1960
+        ],
+        "price": 0,
+        "score": 4.31,
+        "genres": [
+            "Childrens",
+            "Picture Books",
+            "Classics",
+            "Fiction",
+            "Poetry",
+            "Fantasy",
+            "Humor"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "author": "J.K. Rowling",
+        "release_date": [
+            7,
+            8,
+            1999
+        ],
+        "price": 0,
+        "score": 4.58,
+        "genres": [
+            "Young Adult",
+            "Childrens",
+            "Middle Grade",
+            "Audiobook",
+            "Adventure",
+            "Science Fiction Fantasy",
+            "Novels"
+        ]
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Bront\u00eb",
+        "release_date": [
+            12,
+            1,
+            1847
+        ],
+        "price": 3.22,
+        "score": 3.89,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Romance",
+            "Gothic",
+            "Historical Fiction",
+            "Literature",
+            "19th Century"
+        ]
+    },
+    {
+        "title": "Alice's Adventures in Wonderland / Through the Looking-Glass",
+        "author": "Lewis Carroll",
+        "release_date": [
+            12,
+            27,
+            1871
+        ],
+        "price": 0.99,
+        "score": 4.06,
+        "genres": [
+            "Fantasy",
+            "Fiction",
+            "Classics",
+            "Childrens",
+            "Young Adult",
+            "Literature",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "release_date": [
+            6,
+            1,
+            1890
+        ],
+        "price": 1.99,
+        "score": 4.12,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Horror",
+            "Fantasy",
+            "Gothic",
+            "Literature",
+            "Novels"
+        ]
+    },
+    {
+        "title": "Night",
+        "author": "Elie Wiesel",
+        "release_date": [
+            1,
+            1,
+            1956
+        ],
+        "price": 0,
+        "score": 4.37,
+        "genres": [
+            "Nonfiction",
+            "Classics",
+            "History",
+            "Memoir",
+            "Holocaust",
+            "Biography",
+            "School"
+        ]
+    },
+    {
+        "title": "Gone with the Wind",
+        "author": "Margaret Mitchell",
+        "release_date": [
+            6,
+            30,
+            1936
+        ],
+        "price": 6.99,
+        "score": 4.31,
+        "genres": [
+            "Classics",
+            "Historical Fiction",
+            "Fiction",
+            "Romance",
+            "Historical",
+            "Literature",
+            "War"
+        ]
+    },
+    {
+        "title": "The Holy Bible: King James Version",
+        "author": "Anonymous",
+        "release_date": [
+            1,
+            1,
+            1569
+        ],
+        "price": 0.0,
+        "score": 4.43,
+        "genres": [
+            "Religion",
+            "Nonfiction",
+            "Christian",
+            "Philosophy",
+            "Christianity",
+            "History",
+            "Reference"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Goblet of Fire",
+        "author": "J.K. Rowling",
+        "release_date": [
+            7,
+            8,
+            2000
+        ],
+        "price": 0,
+        "score": 4.56,
+        "genres": [
+            "Young Adult",
+            "Fiction",
+            "Magic",
+            "Childrens",
+            "Middle Grade",
+            "Audiobook",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "release_date": [
+            10,
+            12,
+            1979
+        ],
+        "price": 0,
+        "score": 4.23,
+        "genres": [
+            "Science Fiction",
+            "Fiction",
+            "Humor",
+            "Fantasy",
+            "Comedy",
+            "Science Fiction Fantasy",
+            "Audiobook"
+        ]
+    },
+    {
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "release_date": [
+            1,
+            1,
+            1601
+        ],
+        "price": 3.99,
+        "score": 4.02,
+        "genres": [
+            "Classics",
+            "Plays",
+            "Fiction",
+            "Drama",
+            "School",
+            "Literature",
+            "Theatre"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "author": "J.K. Rowling",
+        "release_date": [
+            7,
+            16,
+            2005
+        ],
+        "price": 0,
+        "score": 4.58,
+        "genres": [
+            "Fantasy",
+            "Young Adult",
+            "Fiction",
+            "Magic",
+            "Childrens",
+            "Audiobook",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "release_date": [
+            2,
+            18,
+            1884
+        ],
+        "price": 0,
+        "score": 3.83,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "Literature",
+            "Young Adult",
+            "Adventure",
+            "School"
+        ]
+    },
+    {
+        "title": "Tolkien On Fairy-stories",
+        "author": "J.R.R. Tolkien",
+        "release_date": [
+            7,
+            1,
+            2008
+        ],
+        "price": 0,
+        "score": 4.32,
+        "genres": [
+            "Fantasy",
+            "Classics",
+            "Essays",
+            "Fiction",
+            "Writing",
+            "Literary Criticism",
+            "Fairy Tales"
+        ]
+    },
+    {
+        "title": "Les Mis\u00e9rables",
+        "author": "Victor Hugo",
+        "release_date": [
+            1,
+            1,
+            1862
+        ],
+        "price": 9.99,
+        "score": 4.2,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "Literature",
+            "France",
+            "Historical",
+            "Novels"
+        ]
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "release_date": [
+            1,
+            1,
+            1988
+        ],
+        "price": 14.99,
+        "score": 3.9,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Fantasy",
+            "Philosophy",
+            "Novels",
+            "Spirituality",
+            "Self Help"
+        ]
+    },
+    {
+        "title": "Brave New World / Brave New World Revisited",
+        "author": "Aldous Huxley",
+        "release_date": [
+            1,
+            1,
+            1958
+        ],
+        "price": 14.24,
+        "score": 4.16,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Science Fiction",
+            "Dystopia",
+            "Literature",
+            "Novels",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "release_date": [
+            1,
+            1,
+            1866
+        ],
+        "price": 14.99,
+        "score": 4.26,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Russia",
+            "Literature",
+            "Russian Literature",
+            "Philosophy",
+            "Novels"
+        ]
+    },
+    {
+        "title": "The Help",
+        "author": "Kathryn Stockett",
+        "release_date": [
+            2,
+            10,
+            2009
+        ],
+        "price": 14.99,
+        "score": 4.47,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Historical",
+            "Adult",
+            "Classics",
+            "Adult Fiction",
+            "Contemporary"
+        ]
+    },
+    {
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "release_date": [
+            8,
+            1,
+            1911
+        ],
+        "price": 0,
+        "score": 4.15,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Childrens",
+            "Young Adult",
+            "Historical Fiction",
+            "Middle Grade",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "Memoirs of a Geisha",
+        "author": "Arthur Golden",
+        "release_date": [
+            1,
+            1,
+            1997
+        ],
+        "price": 12.99,
+        "score": 4.15,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Romance",
+            "Historical",
+            "Classics",
+            "Japan",
+            "Adult"
+        ]
+    },
+    {
+        "title": "The Lion, the Witch and the Wardrobe",
+        "author": "C.S. Lewis",
+        "release_date": [
+            10,
+            16,
+            1950
+        ],
+        "price": 0,
+        "score": 4.23,
+        "genres": [
+            "Fantasy",
+            "Classics",
+            "Fiction",
+            "Young Adult",
+            "Childrens",
+            "Middle Grade",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "release_date": [
+            1,
+            1,
+            701
+        ],
+        "price": 5.99,
+        "score": 3.8,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Poetry",
+            "Mythology",
+            "Fantasy",
+            "School",
+            "Literature"
+        ]
+    },
+    {
+        "title": "A Christmas Carol",
+        "author": "Charles Dickens",
+        "release_date": [
+            12,
+            17,
+            1843
+        ],
+        "price": 0,
+        "score": 4.07,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Christmas",
+            "Fantasy",
+            "Literature",
+            "Audiobook",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "title": "The Cat in the Hat",
+        "author": "Dr. Seuss",
+        "release_date": [
+            3,
+            12,
+            1957
+        ],
+        "price": 0,
+        "score": 4.18,
+        "genres": [
+            "Childrens",
+            "Picture Books",
+            "Classics",
+            "Fiction",
+            "Poetry",
+            "Fantasy",
+            "Humor"
+        ]
+    },
+    {
+        "title": "The Outsiders",
+        "author": "S.E. Hinton",
+        "release_date": [
+            4,
+            24,
+            1967
+        ],
+        "price": 8.99,
+        "score": 4.12,
+        "genres": [
+            "Classics",
+            "Young Adult",
+            "Fiction",
+            "School",
+            "Read For School",
+            "Realistic Fiction",
+            "Coming Of Age"
+        ]
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garc\u00eda M\u00e1rquez",
+        "release_date": [
+            5,
+            1,
+            1967
+        ],
+        "price": 30.0,
+        "score": 4.11,
+        "genres": [
+            "Fiction",
+            "Magical Realism",
+            "Literature",
+            "Fantasy",
+            "Novels",
+            "Historical Fiction",
+            "Spanish Literature"
+        ]
+    },
+    {
+        "title": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "release_date": [
+            5,
+            1,
+            2007
+        ],
+        "price": 12.99,
+        "score": 4.43,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Contemporary",
+            "Historical",
+            "Novels",
+            "Classics",
+            "War"
+        ]
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "release_date": [
+            4,
+            14,
+            1939
+        ],
+        "price": 13.99,
+        "score": 4.0,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "Literature",
+            "Novels",
+            "School",
+            "American"
+        ]
+    },
+    {
+        "title": "Anne of Green Gables",
+        "author": "L.M. Montgomery",
+        "release_date": [
+            1,
+            1,
+            1908
+        ],
+        "price": 1.99,
+        "score": 4.3,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Young Adult",
+            "Historical Fiction",
+            "Childrens",
+            "Middle Grade",
+            "Audiobook"
+        ]
+    },
+    {
+        "title": "Where the Sidewalk Ends",
+        "author": "Shel Silverstein",
+        "release_date": [
+            1,
+            1,
+            1974
+        ],
+        "price": 0.0,
+        "score": 4.33,
+        "genres": [
+            "Poetry",
+            "Childrens",
+            "Classics",
+            "Fiction",
+            "Humor",
+            "Young Adult",
+            "Picture Books"
+        ]
+    },
+    {
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "release_date": [
+            8,
+            28,
+            1844
+        ],
+        "price": 1.99,
+        "score": 4.29,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "Adventure",
+            "Literature",
+            "France",
+            "Historical"
+        ]
+    },
+    {
+        "title": "Ender\u2019s Game",
+        "author": "Orson Scott Card",
+        "release_date": [
+            1,
+            15,
+            1985
+        ],
+        "price": 0,
+        "score": 4.31,
+        "genres": [
+            "Science Fiction",
+            "Fiction",
+            "Young Adult",
+            "Fantasy",
+            "Classics",
+            "Science Fiction Fantasy",
+            "Dystopia"
+        ]
+    },
+    {
+        "title": "Where the Wild Things Are",
+        "author": "Maurice Sendak",
+        "release_date": [
+            4,
+            9,
+            1963
+        ],
+        "price": 0,
+        "score": 4.24,
+        "genres": [
+            "Childrens",
+            "Picture Books",
+            "Fiction",
+            "Classics",
+            "Fantasy",
+            "Adventure",
+            "Young Adult"
+        ]
+    },
+    {
+        "title": "The Color Purple",
+        "author": "Alice Walker",
+        "release_date": [
+            6,
+            1,
+            1982
+        ],
+        "price": 0,
+        "score": 4.26,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Feminism",
+            "Classics",
+            "LGBT",
+            "Historical",
+            "Queer"
+        ]
+    },
+    {
+        "title": "The Adventures of Tom Sawyer",
+        "author": "Mark Twain",
+        "release_date": [
+            6,
+            1,
+            1876
+        ],
+        "price": 0.99,
+        "score": 3.92,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Adventure",
+            "Historical Fiction",
+            "Young Adult",
+            "Literature",
+            "Childrens"
+        ]
+    },
+    {
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "release_date": [
+            11,
+            26,
+            1859
+        ],
+        "price": 3.0,
+        "score": 3.87,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "Literature",
+            "Historical",
+            "Novels",
+            "School"
+        ]
+    },
+    {
+        "title": "Life of Pi",
+        "author": "Yann Martel",
+        "release_date": [
+            9,
+            11,
+            2001
+        ],
+        "price": 0.0,
+        "score": 3.93,
+        "genres": [
+            "Fiction",
+            "Fantasy",
+            "Classics",
+            "Adventure",
+            "Magical Realism",
+            "Novels",
+            "Literature"
+        ]
+    },
+    {
+        "title": "The Handmaid\u2019s Tale",
+        "author": "Margaret Atwood",
+        "release_date": [
+            1,
+            1,
+            1985
+        ],
+        "price": 0,
+        "score": 4.13,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Dystopia",
+            "Science Fiction",
+            "Feminism",
+            "Fantasy",
+            "Adult"
+        ]
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "author": "Ken Kesey",
+        "release_date": [
+            1,
+            1,
+            1962
+        ],
+        "price": 9.99,
+        "score": 4.2,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Psychology",
+            "Literature",
+            "Novels",
+            "Mental Health",
+            "School"
+        ]
+    },
+    {
+        "title": "Frankenstein: The 1818 Text",
+        "author": "Mary Wollstonecraft Shelley",
+        "release_date": [
+            1,
+            1,
+            1818
+        ],
+        "price": 3.6,
+        "score": 3.86,
+        "genres": [
+            "Classics",
+            "Horror",
+            "Fiction",
+            "Science Fiction",
+            "Gothic",
+            "Fantasy",
+            "School"
+        ]
+    },
+    {
+        "title": "Oh, the Places You'll Go!",
+        "author": "Dr. Seuss",
+        "release_date": [
+            1,
+            22,
+            1990
+        ],
+        "price": 0,
+        "score": 4.36,
+        "genres": [
+            "Childrens",
+            "Picture Books",
+            "Fiction",
+            "Classics",
+            "Poetry",
+            "Fantasy",
+            "Young Adult"
+        ]
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "release_date": [
+            1,
+            1,
+            1878
+        ],
+        "price": 0.99,
+        "score": 4.09,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Romance",
+            "Russia",
+            "Historical Fiction",
+            "Russian Literature",
+            "Literature"
+        ]
+    },
+    {
+        "title": "Tuesdays with Morrie",
+        "author": "Mitch Albom",
+        "release_date": [
+            8,
+            18,
+            1997
+        ],
+        "price": 11.99,
+        "score": 4.16,
+        "genres": [
+            "Nonfiction",
+            "Memoir",
+            "Biography",
+            "Classics",
+            "Inspirational",
+            "Philosophy",
+            "Self Help"
+        ]
+    },
+    {
+        "title": "Winnie-the-Pooh",
+        "author": "A.A. Milne",
+        "release_date": [
+            10,
+            14,
+            1926
+        ],
+        "price": 0,
+        "score": 4.35,
+        "genres": [
+            "Childrens",
+            "Fiction",
+            "Classics",
+            "Fantasy",
+            "Animals",
+            "Middle Grade",
+            "Audiobook"
+        ]
+    },
+    {
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut Jr.",
+        "release_date": [
+            3,
+            31,
+            1969
+        ],
+        "price": 9.99,
+        "score": 4.09,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Science Fiction",
+            "Historical Fiction",
+            "War",
+            "Literature",
+            "Novels"
+        ]
+    },
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "release_date": [
+            1,
+            1,
+            1952
+        ],
+        "price": 10.99,
+        "score": 3.8,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Literature",
+            "Novels",
+            "American",
+            "School",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "release_date": [
+            11,
+            10,
+            1961
+        ],
+        "price": 0,
+        "score": 3.99,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "War",
+            "Humor",
+            "Literature",
+            "Novels"
+        ]
+    },
+    {
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "release_date": [
+            3,
+            16,
+            1850
+        ],
+        "price": 3.65,
+        "score": 3.43,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "School",
+            "Literature",
+            "High School",
+            "Historical"
+        ]
+    },
+    {
+        "title": "Macbeth",
+        "author": "William Shakespeare",
+        "release_date": [
+            1,
+            1,
+            1623
+        ],
+        "price": 2.99,
+        "score": 3.9,
+        "genres": [
+            "Classics",
+            "Plays",
+            "Fiction",
+            "School",
+            "Read For School",
+            "Literature",
+            "Theatre"
+        ]
+    },
+    {
+        "title": "The Fellowship of the Ring",
+        "author": "J.R.R. Tolkien",
+        "release_date": [
+            7,
+            29,
+            1954
+        ],
+        "price": 0,
+        "score": 4.39,
+        "genres": [
+            "Fantasy",
+            "Classics",
+            "Fiction",
+            "Adventure",
+            "High Fantasy",
+            "Science Fiction Fantasy",
+            "Epic Fantasy"
+        ]
+    },
+    {
+        "title": "Twilight",
+        "author": "Stephenie Meyer",
+        "release_date": [
+            10,
+            5,
+            2005
+        ],
+        "price": 0,
+        "score": 3.64,
+        "genres": [
+            "Fantasy",
+            "Young Adult",
+            "Romance",
+            "Fiction",
+            "Vampires",
+            "Paranormal",
+            "Paranormal Romance"
+        ]
+    },
+    {
+        "title": "Lolita",
+        "author": "Vladimir Nabokov",
+        "release_date": [
+            9,
+            1,
+            1955
+        ],
+        "price": 12.99,
+        "score": 3.88,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Literature",
+            "Russia",
+            "Novels",
+            "Romance",
+            "Russian Literature"
+        ]
+    },
+    {
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "release_date": [
+            1,
+            1,
+            1915
+        ],
+        "price": 1.99,
+        "score": 3.85,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Fantasy",
+            "Philosophy",
+            "Literature",
+            "Short Stories",
+            "School"
+        ]
+    },
+    {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "release_date": [
+            5,
+            19,
+            1942
+        ],
+        "price": 8.99,
+        "score": 4.02,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Philosophy",
+            "France",
+            "Literature",
+            "Novels",
+            "French Literature"
+        ]
+    },
+    {
+        "title": "Siddhartha",
+        "author": "Hermann Hesse",
+        "release_date": [
+            1,
+            1,
+            1922
+        ],
+        "price": 3.99,
+        "score": 4.06,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Philosophy",
+            "Spirituality",
+            "Religion",
+            "Literature",
+            "Buddhism"
+        ]
+    },
+    {
+        "title": "The Time Traveler's Wife",
+        "author": "Audrey Niffenegger",
+        "release_date": [
+            1,
+            1,
+            2003
+        ],
+        "price": 8.99,
+        "score": 3.99,
+        "genres": [
+            "Fiction",
+            "Romance",
+            "Fantasy",
+            "Time Travel",
+            "Science Fiction",
+            "Contemporary",
+            "Adult"
+        ]
+    },
+    {
+        "title": "Goodnight Moon",
+        "author": "Margaret Wise Brown",
+        "release_date": [
+            9,
+            3,
+            1947
+        ],
+        "price": 0.0,
+        "score": 4.3,
+        "genres": [
+            "Childrens",
+            "Picture Books",
+            "Classics",
+            "Fiction",
+            "Poetry",
+            "Kids",
+            "Animals"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "author": "J.K. Rowling",
+        "release_date": [
+            7,
+            2,
+            1998
+        ],
+        "price": 0,
+        "score": 4.43,
+        "genres": [
+            "Fantasy",
+            "Fiction",
+            "Young Adult",
+            "Magic",
+            "Childrens",
+            "Middle Grade",
+            "Audiobook"
+        ]
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "release_date": [
+            1,
+            1,
+            1867
+        ],
+        "price": 0.0,
+        "score": 4.16,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "Russia",
+            "Russian Literature",
+            "Literature",
+            "War"
+        ]
+    },
+    {
+        "title": "A Tree Grows in Brooklyn",
+        "author": "Betty  Smith",
+        "release_date": [
+            8,
+            18,
+            1943
+        ],
+        "price": 14.99,
+        "score": 4.29,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "Young Adult",
+            "Coming Of Age",
+            "Historical",
+            "New York"
+        ]
+    },
+    {
+        "title": "The Little House Collection",
+        "author": "Laura Ingalls Wilder",
+        "release_date": [
+            1,
+            1,
+            1971
+        ],
+        "price": 0,
+        "score": 4.35,
+        "genres": [
+            "Classics",
+            "Historical Fiction",
+            "Childrens",
+            "Fiction",
+            "Young Adult",
+            "Historical",
+            "Middle Grade"
+        ]
+    },
+    {
+        "title": "A Clockwork Orange",
+        "author": "Anthony Burgess",
+        "release_date": [
+            1,
+            1,
+            1962
+        ],
+        "price": 6.99,
+        "score": 4.0,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Science Fiction",
+            "Dystopia",
+            "Literature",
+            "Horror",
+            "Novels"
+        ]
+    },
+    {
+        "title": "All Quiet on the Western Front",
+        "author": "Erich Maria Remarque",
+        "release_date": [
+            1,
+            1,
+            1928
+        ],
+        "price": 10.99,
+        "score": 4.06,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "War",
+            "Historical",
+            "Literature",
+            "School"
+        ]
+    },
+    {
+        "title": "The Stand",
+        "author": "Stephen King",
+        "release_date": [
+            1,
+            1,
+            1978
+        ],
+        "price": 9.99,
+        "score": 4.35,
+        "genres": [
+            "Horror",
+            "Fiction",
+            "Fantasy",
+            "Science Fiction",
+            "Post Apocalyptic",
+            "Thriller",
+            "Dystopia"
+        ]
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes Saavedra",
+        "release_date": [
+            1,
+            1,
+            1605
+        ],
+        "price": 2.99,
+        "score": 3.89,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Literature",
+            "Spanish Literature",
+            "Adventure",
+            "Historical Fiction",
+            "Novels"
+        ]
+    },
+    {
+        "title": "Uncle Tom's Cabin",
+        "author": "Harriet Beecher Stowe",
+        "release_date": [
+            1,
+            1,
+            1852
+        ],
+        "price": 0.0,
+        "score": 3.9,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "Literature",
+            "Historical",
+            "Novels",
+            "American"
+        ]
+    },
+    {
+        "title": "\u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645",
+        "author": "Anonymous",
+        "release_date": [
+            3,
+            18,
+            632
+        ],
+        "price": 9.99,
+        "score": 4.38,
+        "genres": [
+            "Religion",
+            "Islam",
+            "Nonfiction",
+            "Classics",
+            "Philosophy",
+            "Spirituality",
+            "Reference"
+        ]
+    },
+    {
+        "title": "Atlas Shrugged",
+        "author": "Ayn Rand",
+        "release_date": [
+            10,
+            10,
+            1957
+        ],
+        "price": 9.99,
+        "score": 3.69,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Philosophy",
+            "Politics",
+            "Literature",
+            "Science Fiction",
+            "Novels"
+        ]
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "release_date": [
+            1,
+            1,
+            1880
+        ],
+        "price": 3.99,
+        "score": 4.36,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Russia",
+            "Russian Literature",
+            "Literature",
+            "Philosophy",
+            "Novels"
+        ]
+    },
+    {
+        "title": "The Poisonwood Bible",
+        "author": "Barbara Kingsolver",
+        "release_date": [
+            9,
+            24,
+            1998
+        ],
+        "price": 14.49,
+        "score": 4.09,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Africa",
+            "Classics",
+            "Historical",
+            "Literary Fiction",
+            "Literature"
+        ]
+    },
+    {
+        "title": "I Know Why the Caged Bird Sings",
+        "author": "Maya Angelou",
+        "release_date": [
+            1,
+            1,
+            1969
+        ],
+        "price": 4.99,
+        "score": 4.29,
+        "genres": [
+            "Nonfiction",
+            "Classics",
+            "Memoir",
+            "Biography",
+            "Autobiography",
+            "Poetry",
+            "Feminism"
+        ]
+    },
+    {
+        "title": "Moby-Dick or, The Whale",
+        "author": "Herman Melville",
+        "release_date": [
+            10,
+            18,
+            1851
+        ],
+        "price": 0.99,
+        "score": 3.54,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Literature",
+            "Adventure",
+            "Historical Fiction",
+            "Novels",
+            "American"
+        ]
+    },
+    {
+        "title": "The Book of Mormon: Another Testament of Jesus Christ",
+        "author": "Joseph Smith Jr.",
+        "release_date": [
+            12,
+            31,
+            2009
+        ],
+        "price": 3.0,
+        "score": 4.25,
+        "genres": [
+            "Religion",
+            "Nonfiction",
+            "Lds",
+            "Church",
+            "Spirituality",
+            "Classics",
+            "History"
+        ]
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "release_date": [
+            3,
+            18,
+            2003
+        ],
+        "price": 0,
+        "score": 3.91,
+        "genres": [
+            "Fiction",
+            "Mystery",
+            "Thriller",
+            "Mystery Thriller",
+            "Historical Fiction",
+            "Suspense",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "release_date": [
+            12,
+            1,
+            1860
+        ],
+        "price": 4.99,
+        "score": 3.79,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Literature",
+            "Historical Fiction",
+            "School",
+            "Novels",
+            "19th Century"
+        ]
+    },
+    {
+        "title": "The Good Earth",
+        "author": "Pearl S. Buck",
+        "release_date": [
+            3,
+            2,
+            1931
+        ],
+        "price": 0,
+        "score": 4.0,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "China",
+            "Literature",
+            "Historical",
+            "Asia"
+        ]
+    },
+    {
+        "title": "The Hiding Place: The Triumphant True Story of Corrie Ten Boom",
+        "author": "Corrie ten Boom",
+        "release_date": [
+            1,
+            1,
+            1971
+        ],
+        "price": 7.26,
+        "score": 4.45,
+        "genres": [
+            "Nonfiction",
+            "Biography",
+            "History",
+            "Christian",
+            "Memoir",
+            "Classics",
+            "Holocaust"
+        ]
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "release_date": [
+            5,
+            26,
+            1897
+        ],
+        "price": 2.99,
+        "score": 4.01,
+        "genres": [
+            "Classics",
+            "Horror",
+            "Fiction",
+            "Fantasy",
+            "Vampires",
+            "Gothic",
+            "Paranormal"
+        ]
+    },
+    {
+        "title": "A Wrinkle in Time",
+        "author": "Madeleine L'Engle",
+        "release_date": [
+            1,
+            1,
+            1962
+        ],
+        "price": 0,
+        "score": 3.98,
+        "genres": [
+            "Fantasy",
+            "Fiction",
+            "Classics",
+            "Young Adult",
+            "Science Fiction",
+            "Childrens",
+            "Middle Grade"
+        ]
+    },
+    {
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "release_date": [
+            1,
+            10,
+            2012
+        ],
+        "price": 9.99,
+        "score": 4.14,
+        "genres": [
+            "Young Adult",
+            "Fiction",
+            "Contemporary",
+            "Realistic Fiction",
+            "Teen",
+            "Coming Of Age",
+            "Novels"
+        ]
+    },
+    {
+        "title": "Matilda",
+        "author": "Roald Dahl",
+        "release_date": [
+            10,
+            1,
+            1988
+        ],
+        "price": 7.99,
+        "score": 4.33,
+        "genres": [
+            "Childrens",
+            "Fiction",
+            "Classics",
+            "Fantasy",
+            "Middle Grade",
+            "Young Adult",
+            "Humor"
+        ]
+    },
+    {
+        "title": "The Perks of Being a Wallflower",
+        "author": "Stephen Chbosky",
+        "release_date": [
+            2,
+            1,
+            1999
+        ],
+        "price": 11.99,
+        "score": 4.23,
+        "genres": [
+            "Young Adult",
+            "Fiction",
+            "Coming Of Age",
+            "Classics",
+            "Romance",
+            "Mental Health",
+            "Realistic Fiction"
+        ]
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "release_date": [
+            1,
+            1,
+            1932
+        ],
+        "price": 4.99,
+        "score": 3.99,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Science Fiction",
+            "Dystopia",
+            "Literature",
+            "Novels",
+            "School"
+        ]
+    },
+    {
+        "title": "Sense and Sensibility",
+        "author": "Jane Austen",
+        "release_date": [
+            10,
+            30,
+            1811
+        ],
+        "price": 0.99,
+        "score": 4.08,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "Literature",
+            "Historical",
+            "Audiobook",
+            "Classic Literature"
+        ]
+    },
+    {
+        "title": "The Princess Bride",
+        "author": "William Goldman",
+        "release_date": [
+            9,
+            1,
+            1973
+        ],
+        "price": 0.0,
+        "score": 4.27,
+        "genres": [
+            "Fantasy",
+            "Classics",
+            "Fiction",
+            "Romance",
+            "Humor",
+            "Young Adult",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "The Iliad",
+        "author": "Homer",
+        "release_date": [
+            1,
+            1,
+            701
+        ],
+        "price": 3.99,
+        "score": 3.9,
+        "genres": [
+            "Classics",
+            "Poetry",
+            "Fiction",
+            "Mythology",
+            "Literature",
+            "Fantasy",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "title": "East of Eden",
+        "author": "John Steinbeck",
+        "release_date": [
+            1,
+            1,
+            1952
+        ],
+        "price": 0,
+        "score": 4.41,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "Literature",
+            "Novels",
+            "American",
+            "Literary Fiction"
+        ]
+    },
+    {
+        "title": "Where the Red Fern Grows",
+        "author": "Wilson Rawls",
+        "release_date": [
+            1,
+            1,
+            1961
+        ],
+        "price": 0,
+        "score": 4.11,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Young Adult",
+            "Childrens",
+            "Middle Grade",
+            "Historical Fiction",
+            "Animals"
+        ]
+    },
+    {
+        "title": "The Tell-Tale Heart and Other Writings",
+        "author": "Edgar Allan Poe",
+        "release_date": [
+            1,
+            1,
+            1843
+        ],
+        "price": 1.99,
+        "score": 4.19,
+        "genres": [
+            "Classics",
+            "Horror",
+            "Fiction",
+            "Short Stories",
+            "Poetry",
+            "Mystery",
+            "Gothic"
+        ]
+    },
+    {
+        "title": "Man's Search for Meaning",
+        "author": "Viktor E. Frankl",
+        "release_date": [
+            1,
+            1,
+            1959
+        ],
+        "price": 9.99,
+        "score": 4.37,
+        "genres": [
+            "Nonfiction",
+            "Psychology",
+            "Philosophy",
+            "History",
+            "Self Help",
+            "Memoir",
+            "Biography"
+        ]
+    },
+    {
+        "title": "The Lorax",
+        "author": "Dr. Seuss",
+        "release_date": [
+            1,
+            1,
+            1971
+        ],
+        "price": 0,
+        "score": 4.34,
+        "genres": [
+            "Childrens",
+            "Picture Books",
+            "Fiction",
+            "Classics",
+            "Poetry",
+            "Fantasy",
+            "Environment"
+        ]
+    },
+    {
+        "title": "Catching Fire",
+        "author": "Suzanne Collins",
+        "release_date": [
+            9,
+            1,
+            2009
+        ],
+        "price": 0,
+        "score": 4.32,
+        "genres": [
+            "Young Adult",
+            "Dystopia",
+            "Fiction",
+            "Fantasy",
+            "Science Fiction",
+            "Romance",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "A Game of Thrones",
+        "author": "George R.R. Martin",
+        "release_date": [
+            8,
+            6,
+            1996
+        ],
+        "price": 0,
+        "score": 4.44,
+        "genres": [
+            "Fantasy",
+            "Fiction",
+            "Epic Fantasy",
+            "Adult",
+            "High Fantasy",
+            "Science Fiction Fantasy",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "The Curious Incident of the Dog in the Night-Time",
+        "author": "Mark Haddon",
+        "release_date": [
+            7,
+            31,
+            2003
+        ],
+        "price": 12.99,
+        "score": 3.89,
+        "genres": [
+            "Fiction",
+            "Mystery",
+            "Young Adult",
+            "Contemporary",
+            "Classics",
+            "Autistic Spectrum Disorder",
+            "Novels"
+        ]
+    },
+    {
+        "title": "The Declaration of Independence / The Constitution of the United States",
+        "author": "Founding Fathers",
+        "release_date": [
+            1,
+            1,
+            1776
+        ],
+        "price": 1.99,
+        "score": 4.44,
+        "genres": [
+            "History",
+            "Nonfiction",
+            "Politics",
+            "Classics",
+            "Philosophy",
+            "Reference",
+            "American History"
+        ]
+    },
+    {
+        "title": "Watership Down",
+        "author": "Richard  Adams",
+        "release_date": [
+            11,
+            1,
+            1972
+        ],
+        "price": 0,
+        "score": 4.08,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Fantasy",
+            "Young Adult",
+            "Animals",
+            "Childrens",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "release_date": [
+            1,
+            1,
+            1963
+        ],
+        "price": 0.0,
+        "score": 4.05,
+        "genres": [
+            "Fiction",
+            "Feminism",
+            "Classics",
+            "Mental Health",
+            "Psychology",
+            "Literature",
+            "Mental Illness"
+        ]
+    },
+    {
+        "title": "Charlie and the Chocolate Factory",
+        "author": "Roald Dahl",
+        "release_date": [
+            1,
+            17,
+            1964
+        ],
+        "price": 0,
+        "score": 4.16,
+        "genres": [
+            "Fiction",
+            "Fantasy",
+            "Childrens",
+            "Classics",
+            "Young Adult",
+            "Middle Grade",
+            "Humor"
+        ]
+    },
+    {
+        "title": "Rebecca",
+        "author": "Daphne du Maurier",
+        "release_date": [
+            8,
+            1,
+            1938
+        ],
+        "price": 10.99,
+        "score": 4.24,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Mystery",
+            "Gothic",
+            "Romance",
+            "Historical Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "The Last Lecture",
+        "author": "Randy Pausch",
+        "release_date": [
+            4,
+            8,
+            2008
+        ],
+        "price": 11.99,
+        "score": 4.26,
+        "genres": [
+            "Nonfiction",
+            "Memoir",
+            "Biography",
+            "Self Help",
+            "Inspirational",
+            "Philosophy",
+            "Autobiography"
+        ]
+    },
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "release_date": [
+            6,
+            1,
+            1965
+        ],
+        "price": 0,
+        "score": 4.26,
+        "genres": [
+            "Science Fiction",
+            "Fiction",
+            "Fantasy",
+            "Classics",
+            "Science Fiction Fantasy",
+            "Audiobook",
+            "Space Opera"
+        ]
+    },
+    {
+        "title": "And Then There Were None",
+        "author": "Agatha Christie",
+        "release_date": [
+            11,
+            6,
+            1939
+        ],
+        "price": 9.99,
+        "score": 4.28,
+        "genres": [
+            "Mystery",
+            "Fiction",
+            "Thriller",
+            "Crime",
+            "Mystery Thriller",
+            "Classics",
+            "Audiobook"
+        ]
+    },
+    {
+        "title": "The Velveteen Rabbit",
+        "author": "Margery Williams Bianco",
+        "release_date": [
+            1,
+            1,
+            1922
+        ],
+        "price": 2.99,
+        "score": 4.3,
+        "genres": [
+            "Classics",
+            "Childrens",
+            "Fiction",
+            "Picture Books",
+            "Fantasy",
+            "Animals",
+            "Young Adult"
+        ]
+    },
+    {
+        "title": "The Lovely Bones",
+        "author": "Alice Sebold",
+        "release_date": [
+            7,
+            3,
+            2002
+        ],
+        "price": 0.0,
+        "score": 3.85,
+        "genres": [
+            "Fiction",
+            "Mystery",
+            "Young Adult",
+            "Contemporary",
+            "Fantasy",
+            "Crime",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "The Fountainhead",
+        "author": "Ayn Rand",
+        "release_date": [
+            4,
+            15,
+            1943
+        ],
+        "price": 9.99,
+        "score": 3.88,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Philosophy",
+            "Literature",
+            "Novels",
+            "Politics",
+            "Architecture"
+        ]
+    },
+    {
+        "title": "Alice in Wonderland",
+        "author": "Jane Carruth",
+        "release_date": [
+            1,
+            1,
+            1865
+        ],
+        "price": 1.0,
+        "score": 4.03,
+        "genres": [
+            "Classics",
+            "Fantasy",
+            "Fiction",
+            "Childrens",
+            "Young Adult",
+            "Adventure",
+            "Literature"
+        ]
+    },
+    {
+        "title": "The Call of the Wild",
+        "author": "Jack London",
+        "release_date": [
+            1,
+            1,
+            1903
+        ],
+        "price": 1.69,
+        "score": 3.9,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Adventure",
+            "Young Adult",
+            "Animals",
+            "Historical Fiction",
+            "Literature"
+        ]
+    },
+    {
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "release_date": [
+            8,
+            1,
+            2005
+        ],
+        "price": 0,
+        "score": 4.16,
+        "genres": [
+            "Fiction",
+            "Mystery",
+            "Thriller",
+            "Crime",
+            "Mystery Thriller",
+            "Suspense",
+            "Contemporary"
+        ]
+    },
+    {
+        "title": "The Return of the King",
+        "author": "J.R.R. Tolkien",
+        "release_date": [
+            10,
+            20,
+            1955
+        ],
+        "price": 0,
+        "score": 4.56,
+        "genres": [
+            "Fantasy",
+            "Fiction",
+            "Classics",
+            "Adventure",
+            "High Fantasy",
+            "Science Fiction Fantasy",
+            "Epic Fantasy"
+        ]
+    },
+    {
+        "title": "Animal Farm / 1984",
+        "author": "George Orwell",
+        "release_date": [
+            1,
+            1,
+            1949
+        ],
+        "price": 14.99,
+        "score": 4.3,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Dystopia",
+            "Literature",
+            "Science Fiction",
+            "Politics",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "The Five People You Meet in Heaven",
+        "author": "Mitch Albom",
+        "release_date": [
+            9,
+            1,
+            2003
+        ],
+        "price": 0,
+        "score": 3.98,
+        "genres": [
+            "Fiction",
+            "Contemporary",
+            "Inspirational",
+            "Fantasy",
+            "Classics",
+            "Spirituality",
+            "Adult"
+        ]
+    },
+    {
+        "title": "Perfume: The Story of a Murderer",
+        "author": "Patrick S\u00fcskind",
+        "release_date": [
+            1,
+            1,
+            1985
+        ],
+        "price": 9.99,
+        "score": 4.03,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Historical Fiction",
+            "Horror",
+            "Mystery",
+            "Thriller",
+            "Crime"
+        ]
+    },
+    {
+        "title": "A Story of Yesterday",
+        "author": "Sergio Cobo",
+        "release_date": [
+            3,
+            6,
+            2014
+        ],
+        "price": 3.99,
+        "score": 4.59,
+        "genres": [
+            "Spanish Literature",
+            "Thriller",
+            "European Literature",
+            "Mystery",
+            "Fiction",
+            "Magical Realism",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Angela's Ashes",
+        "author": "Frank McCourt",
+        "release_date": [
+            9,
+            5,
+            1996
+        ],
+        "price": 0,
+        "score": 4.14,
+        "genres": [
+            "Nonfiction",
+            "Memoir",
+            "Biography",
+            "Classics",
+            "Ireland",
+            "Autobiography",
+            "Biography Memoir"
+        ]
+    },
+    {
+        "title": "The Wonderful Wizard of Oz",
+        "author": "L. Frank Baum",
+        "release_date": [
+            5,
+            17,
+            1900
+        ],
+        "price": 0,
+        "score": 4.0,
+        "genres": [
+            "Classics",
+            "Fantasy",
+            "Fiction",
+            "Childrens",
+            "Young Adult",
+            "Adventure",
+            "Middle Grade"
+        ]
+    },
+    {
+        "title": "The Two Towers",
+        "author": "J.R.R. Tolkien",
+        "release_date": [
+            11,
+            11,
+            1954
+        ],
+        "price": 0,
+        "score": 4.48,
+        "genres": [
+            "Fantasy",
+            "Classics",
+            "Fiction",
+            "Adventure",
+            "High Fantasy",
+            "Science Fiction Fantasy",
+            "Epic Fantasy"
+        ]
+    },
+    {
+        "title": "Love You Forever",
+        "author": "Robert Munsch",
+        "release_date": [
+            1,
+            1,
+            1986
+        ],
+        "price": 4.73,
+        "score": 4.37,
+        "genres": [
+            "Picture Books",
+            "Childrens",
+            "Fiction",
+            "Classics",
+            "Family",
+            "Love",
+            "Realistic Fiction"
+        ]
+    },
+    {
+        "title": "Bridge to Terabithia",
+        "author": "Katherine Paterson",
+        "release_date": [
+            10,
+            21,
+            1977
+        ],
+        "price": 0.0,
+        "score": 4.04,
+        "genres": [
+            "Fiction",
+            "Young Adult",
+            "Classics",
+            "Fantasy",
+            "Childrens",
+            "Middle Grade",
+            "Realistic Fiction"
+        ]
+    },
+    {
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "release_date": [
+            1,
+            1,
+            1320
+        ],
+        "price": 6.99,
+        "score": 4.07,
+        "genres": [
+            "Classics",
+            "Poetry",
+            "Fiction",
+            "Literature",
+            "Philosophy",
+            "Religion",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "release_date": [
+            9,
+            26,
+            2006
+        ],
+        "price": 12.99,
+        "score": 3.99,
+        "genres": [
+            "Fiction",
+            "Science Fiction",
+            "Dystopia",
+            "Post Apocalyptic",
+            "Classics",
+            "Horror",
+            "Literature"
+        ]
+    },
+    {
+        "title": "A Prayer for Owen Meany",
+        "author": "John Irving",
+        "release_date": [
+            3,
+            28,
+            1989
+        ],
+        "price": 8.99,
+        "score": 4.24,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Contemporary",
+            "Literature",
+            "Literary Fiction",
+            "Novels",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "title": "A Midsummer Night's Dream",
+        "author": "William Shakespeare",
+        "release_date": [
+            1,
+            1,
+            1595
+        ],
+        "price": 0.99,
+        "score": 3.95,
+        "genres": [
+            "Classics",
+            "Plays",
+            "Fiction",
+            "Fantasy",
+            "School",
+            "Romance",
+            "Theatre"
+        ]
+    },
+    {
+        "title": "Persuasion",
+        "author": "Jane Austen",
+        "release_date": [
+            12,
+            20,
+            1817
+        ],
+        "price": 0,
+        "score": 4.15,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Romance",
+            "Historical Fiction",
+            "Historical",
+            "Literature",
+            "Audiobook"
+        ]
+    },
+    {
+        "title": "The Name of the Rose",
+        "author": "Umberto Eco",
+        "release_date": [
+            1,
+            1,
+            1980
+        ],
+        "price": 7.99,
+        "score": 4.14,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Mystery",
+            "Classics",
+            "Historical",
+            "Literature",
+            "Italian Literature"
+        ]
+    },
+    {
+        "title": "The Prophet",
+        "author": "Kahlil Gibran",
+        "release_date": [
+            1,
+            1,
+            1923
+        ],
+        "price": 3.99,
+        "score": 4.23,
+        "genres": [
+            "Poetry",
+            "Classics",
+            "Philosophy",
+            "Fiction",
+            "Spirituality",
+            "Religion",
+            "Literature"
+        ]
+    },
+    {
+        "title": "The Three Musketeers",
+        "author": "Alexandre Dumas",
+        "release_date": [
+            1,
+            1,
+            1844
+        ],
+        "price": 0.99,
+        "score": 4.09,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "Adventure",
+            "France",
+            "Literature",
+            "Historical"
+        ]
+    },
+    {
+        "title": "The Golden Compass",
+        "author": "Philip Pullman",
+        "release_date": [
+            7,
+            1,
+            1995
+        ],
+        "price": 0,
+        "score": 4.02,
+        "genres": [
+            "Fantasy",
+            "Young Adult",
+            "Fiction",
+            "Childrens",
+            "Adventure",
+            "Middle Grade",
+            "Science Fiction"
+        ]
+    },
+    {
+        "title": "Water for Elephants",
+        "author": "Sara Gruen",
+        "release_date": [
+            5,
+            22,
+            2006
+        ],
+        "price": 11.99,
+        "score": 4.11,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Romance",
+            "Historical",
+            "Adult",
+            "Adult Fiction",
+            "Contemporary"
+        ]
+    },
+    {
+        "title": "The Boy in the Striped Pajamas",
+        "author": "John Boyne",
+        "release_date": [
+            1,
+            1,
+            2006
+        ],
+        "price": 6.99,
+        "score": 4.15,
+        "genres": [
+            "Historical Fiction",
+            "Fiction",
+            "Young Adult",
+            "Historical",
+            "Classics",
+            "Holocaust",
+            "War"
+        ]
+    },
+    {
+        "title": "The Pillars of the Earth",
+        "author": "Ken Follett",
+        "release_date": [
+            10,
+            1,
+            1989
+        ],
+        "price": 0,
+        "score": 4.33,
+        "genres": [
+            "Historical Fiction",
+            "Fiction",
+            "Historical",
+            "Fantasy",
+            "Classics",
+            "Medieval",
+            "Audiobook"
+        ]
+    },
+    {
+        "title": "How the Grinch Stole Christmas!",
+        "author": "Dr. Seuss",
+        "release_date": [
+            10,
+            12,
+            1957
+        ],
+        "price": 0,
+        "score": 4.37,
+        "genres": [
+            "Childrens",
+            "Picture Books",
+            "Christmas",
+            "Classics",
+            "Fiction",
+            "Poetry",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "Jonathan Livingston Seagull",
+        "author": "Richard Bach",
+        "release_date": [
+            1,
+            1,
+            1970
+        ],
+        "price": 10.99,
+        "score": 3.85,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Philosophy",
+            "Fantasy",
+            "Spirituality",
+            "Inspirational",
+            "Self Help"
+        ]
+    },
+    {
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "release_date": [
+            1,
+            1,
+            1838
+        ],
+        "price": 3.61,
+        "score": 3.88,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "Literature",
+            "Novels",
+            "19th Century",
+            "Classic Literature"
+        ]
+    },
+    {
+        "title": "The Secret Life of Bees",
+        "author": "Sue Monk Kidd",
+        "release_date": [
+            11,
+            8,
+            2001
+        ],
+        "price": 12.99,
+        "score": 4.09,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Classics",
+            "Young Adult",
+            "Historical",
+            "Contemporary",
+            "Adult Fiction"
+        ]
+    },
+    {
+        "title": "The Notebook",
+        "author": "Nicholas Sparks",
+        "release_date": [
+            10,
+            1,
+            1996
+        ],
+        "price": 0,
+        "score": 4.14,
+        "genres": [
+            "Romance",
+            "Fiction",
+            "Chick Lit",
+            "Contemporary",
+            "Adult",
+            "Classics",
+            "Adult Fiction"
+        ]
+    },
+    {
+        "title": "The Master and Margarita",
+        "author": "Mikhail Bulgakov",
+        "release_date": [
+            1,
+            1,
+            1967
+        ],
+        "price": 9.99,
+        "score": 4.29,
+        "genres": [
+            "Fiction",
+            "Russia",
+            "Fantasy",
+            "Russian Literature",
+            "Magical Realism",
+            "Literature",
+            "Novels"
+        ]
+    },
+    {
+        "title": "Mockingjay",
+        "author": "Suzanne Collins",
+        "release_date": [
+            8,
+            24,
+            2010
+        ],
+        "price": 0,
+        "score": 4.08,
+        "genres": [
+            "Young Adult",
+            "Dystopia",
+            "Fiction",
+            "Fantasy",
+            "Science Fiction",
+            "Romance",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "The Complete Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "release_date": [
+            4,
+            1,
+            1927
+        ],
+        "price": 0,
+        "score": 4.5,
+        "genres": [
+            "Classics",
+            "Mystery",
+            "Fiction",
+            "Crime",
+            "Short Stories",
+            "Detective",
+            "Literature"
+        ]
+    },
+    {
+        "title": "In Cold Blood",
+        "author": "Truman Capote",
+        "release_date": [
+            1,
+            1,
+            1959
+        ],
+        "price": 12.99,
+        "score": 4.08,
+        "genres": [
+            "Nonfiction",
+            "Classics",
+            "True Crime",
+            "Crime",
+            "Mystery",
+            "History",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "The Red Tent",
+        "author": "Anita Diamant",
+        "release_date": [
+            1,
+            1,
+            1997
+        ],
+        "price": 0.0,
+        "score": 4.2,
+        "genres": [
+            "Historical Fiction",
+            "Fiction",
+            "Historical",
+            "Religion",
+            "Book Club",
+            "Feminism",
+            "Adult"
+        ]
+    },
+    {
+        "title": "The Crucible: A Play in Four Acts",
+        "author": "Arthur  Miller",
+        "release_date": [
+            5,
+            1,
+            1946
+        ],
+        "price": 0,
+        "score": 3.6,
+        "genres": [
+            "Classics",
+            "Plays",
+            "Fiction",
+            "Historical Fiction",
+            "School",
+            "Read For School",
+            "Historical"
+        ]
+    },
+    {
+        "title": "The Shadow of the Wind",
+        "author": "Carlos Ruiz Zaf\u00f3n",
+        "release_date": [
+            5,
+            1,
+            2001
+        ],
+        "price": 0,
+        "score": 4.29,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Mystery",
+            "Fantasy",
+            "Books About Books",
+            "Historical",
+            "Spain"
+        ]
+    },
+    {
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "release_date": [
+            1,
+            1,
+            1899
+        ],
+        "price": 1.99,
+        "score": 3.43,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Literature",
+            "Africa",
+            "Historical Fiction",
+            "School",
+            "Novels"
+        ]
+    },
+    {
+        "title": "Love in the Time of Cholera",
+        "author": "Gabriel Garc\u00eda M\u00e1rquez",
+        "release_date": [
+            11,
+            1,
+            1985
+        ],
+        "price": 0,
+        "score": 3.93,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Historical Fiction",
+            "Magical Realism",
+            "Literature",
+            "Novels",
+            "Spanish Literature"
+        ]
+    },
+    {
+        "title": "The Glass Castle",
+        "author": "Jeannette Walls",
+        "release_date": [
+            1,
+            1,
+            2005
+        ],
+        "price": 13.99,
+        "score": 4.31,
+        "genres": [
+            "Nonfiction",
+            "Memoir",
+            "Biography",
+            "Biography Memoir",
+            "Autobiography",
+            "Book Club",
+            "Adult"
+        ]
+    },
+    {
+        "title": "The Gift of the Magi",
+        "author": "O. Henry",
+        "release_date": [
+            12,
+            10,
+            1905
+        ],
+        "price": 3.99,
+        "score": 4.1,
+        "genres": [
+            "Classics",
+            "Short Stories",
+            "Fiction",
+            "Christmas",
+            "Romance",
+            "Holiday",
+            "Literature"
+        ]
+    },
+    {
+        "title": "Eat, Pray, Love",
+        "author": "Elizabeth Gilbert",
+        "release_date": [
+            2,
+            16,
+            2006
+        ],
+        "price": 14.99,
+        "score": 3.62,
+        "genres": [
+            "Nonfiction",
+            "Memoir",
+            "Travel",
+            "Biography",
+            "Romance",
+            "Chick Lit",
+            "Spirituality"
+        ]
+    },
+    {
+        "title": "The Unbearable Lightness of Being",
+        "author": "Milan Kundera",
+        "release_date": [
+            1,
+            1,
+            1984
+        ],
+        "price": 12.99,
+        "score": 4.11,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Philosophy",
+            "Literature",
+            "Novels",
+            "Czech Literature",
+            "Romance"
+        ]
+    },
+    {
+        "title": "Interview with the Vampire",
+        "author": "Anne Rice",
+        "release_date": [
+            4,
+            12,
+            1976
+        ],
+        "price": 0,
+        "score": 4.02,
+        "genres": [
+            "Horror",
+            "Fantasy",
+            "Fiction",
+            "Vampires",
+            "Paranormal",
+            "Classics",
+            "Gothic"
+        ]
+    },
+    {
+        "title": "The Art of War",
+        "author": "Sun Tzu",
+        "release_date": [
+            1,
+            1,
+            401
+        ],
+        "price": 0.0,
+        "score": 3.96,
+        "genres": [
+            "Classics",
+            "Nonfiction",
+            "Philosophy",
+            "History",
+            "War",
+            "Politics",
+            "Business"
+        ]
+    },
+    {
+        "title": "The Canterbury Tales",
+        "author": "Geoffrey Chaucer",
+        "release_date": [
+            1,
+            1,
+            1400
+        ],
+        "price": 0.49,
+        "score": 3.52,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Poetry",
+            "Literature",
+            "School",
+            "Short Stories",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "title": "On the Road",
+        "author": "Jack Kerouac",
+        "release_date": [
+            9,
+            5,
+            1957
+        ],
+        "price": 12.99,
+        "score": 3.61,
+        "genres": [
+            "Fiction",
+            "Travel",
+            "Literature",
+            "Classics",
+            "Novels",
+            "American",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "Aesop's Fables",
+        "author": "Aesop",
+        "release_date": [
+            1,
+            1,
+            501
+        ],
+        "price": 6.49,
+        "score": 4.05,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Short Stories",
+            "Childrens",
+            "Fantasy",
+            "Literature",
+            "Mythology"
+        ]
+    },
+    {
+        "title": "The Screwtape Letters",
+        "author": "C.S. Lewis",
+        "release_date": [
+            2,
+            1,
+            1942
+        ],
+        "price": 12.49,
+        "score": 4.26,
+        "genres": [
+            "Fiction",
+            "Christian",
+            "Classics",
+            "Religion",
+            "Christianity",
+            "Fantasy",
+            "Theology"
+        ]
+    },
+    {
+        "title": "The Godfather",
+        "author": "Mario Puzo",
+        "release_date": [
+            3,
+            10,
+            1969
+        ],
+        "price": 0,
+        "score": 4.38,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Crime",
+            "Thriller",
+            "Historical Fiction",
+            "Mystery",
+            "Novels"
+        ]
+    },
+    {
+        "title": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "release_date": [
+            1,
+            1,
+            1954
+        ],
+        "price": 24.0,
+        "score": 4.61,
+        "genres": [
+            "Fantasy",
+            "Fiction",
+            "Classics",
+            "Adventure",
+            "Science Fiction Fantasy",
+            "Epic Fantasy",
+            "High Fantasy"
+        ]
+    },
+    {
+        "title": "Dr. Jekyll and Mr. Hyde",
+        "author": "Robert Louis Stevenson",
+        "release_date": [
+            1,
+            5,
+            1886
+        ],
+        "price": 3.0,
+        "score": 3.83,
+        "genres": [
+            "Horror",
+            "Classics",
+            "Science Fiction",
+            "Gothic",
+            "Mystery",
+            "Fantasy",
+            "Literature"
+        ]
+    },
+    {
+        "title": "Fight Club",
+        "author": "Chuck Palahniuk",
+        "release_date": [
+            8,
+            17,
+            1996
+        ],
+        "price": 0,
+        "score": 4.19,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Thriller",
+            "Novels",
+            "Mystery",
+            "Adult",
+            "Literature"
+        ]
+    },
+    {
+        "title": "Walden",
+        "author": "Henry David Thoreau",
+        "release_date": [
+            8,
+            9,
+            1854
+        ],
+        "price": 0.0,
+        "score": 3.78,
+        "genres": [
+            "Classics",
+            "Philosophy",
+            "Nonfiction",
+            "Nature",
+            "Memoir",
+            "Literature",
+            "Biography"
+        ]
+    },
+    {
+        "title": "Gulliver's Travels",
+        "author": "Jonathan Swift",
+        "release_date": [
+            1,
+            1,
+            1726
+        ],
+        "price": 0.99,
+        "score": 3.58,
+        "genres": [
+            "Fiction",
+            "Fantasy",
+            "Classics",
+            "Adventure",
+            "Literature",
+            "Novels",
+            "18th Century"
+        ]
+    },
+    {
+        "title": "Robinson Crusoe",
+        "author": "Daniel Defoe",
+        "release_date": [
+            4,
+            25,
+            1719
+        ],
+        "price": 0.0,
+        "score": 3.68,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Adventure",
+            "Literature",
+            "Historical Fiction",
+            "Novels",
+            "18th Century"
+        ]
+    },
+    {
+        "title": "The Origin of Species",
+        "author": "Charles Darwin",
+        "release_date": [
+            1,
+            1,
+            1859
+        ],
+        "price": 2.99,
+        "score": 4.01,
+        "genres": [
+            "Science",
+            "Nonfiction",
+            "Classics",
+            "Biology",
+            "Evolution",
+            "Philosophy",
+            "History"
+        ]
+    },
+    {
+        "title": "Invisible Man",
+        "author": "Ralph Ellison",
+        "release_date": [
+            4,
+            14,
+            1952
+        ],
+        "price": 11.99,
+        "score": 3.91,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Literature",
+            "Historical Fiction",
+            "Race",
+            "African American",
+            "Novels"
+        ]
+    },
+    {
+        "title": "Emma",
+        "author": "Jane Austen",
+        "release_date": [
+            12,
+            23,
+            1815
+        ],
+        "price": 0.99,
+        "score": 4.04,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Romance",
+            "Historical Fiction",
+            "Literature",
+            "Historical",
+            "Audiobook"
+        ]
+    },
+    {
+        "title": "The Prince",
+        "author": "Niccol\u00f2 Machiavelli",
+        "release_date": [
+            1,
+            1,
+            1513
+        ],
+        "price": 9.99,
+        "score": 3.84,
+        "genres": [
+            "Classics",
+            "Philosophy",
+            "Nonfiction",
+            "Politics",
+            "History",
+            "Political Science",
+            "Literature"
+        ]
+    },
+    {
+        "title": "Sophie's World",
+        "author": "Jostein Gaarder",
+        "release_date": [
+            1,
+            1,
+            1991
+        ],
+        "price": 11.99,
+        "score": 3.96,
+        "genres": [
+            "Philosophy",
+            "Fiction",
+            "Classics",
+            "Young Adult",
+            "Novels",
+            "Fantasy",
+            "Literature"
+        ]
+    },
+    {
+        "title": "The Complete Grimm's Fairy Tales",
+        "author": "Jacob Grimm",
+        "release_date": [
+            12,
+            20,
+            1812
+        ],
+        "price": 0.99,
+        "score": 4.28,
+        "genres": [
+            "Classics",
+            "Fantasy",
+            "Fiction",
+            "Fairy Tales",
+            "Short Stories",
+            "Childrens",
+            "Literature"
+        ]
+    },
+    {
+        "title": "The Time Machine",
+        "author": "H.G. Wells",
+        "release_date": [
+            1,
+            1,
+            1895
+        ],
+        "price": 0.0,
+        "score": 3.9,
+        "genres": [
+            "Classics",
+            "Science Fiction",
+            "Fiction",
+            "Time Travel",
+            "Fantasy",
+            "Dystopia",
+            "Literature"
+        ]
+    },
+    {
+        "title": "The Trial",
+        "author": "Franz Kafka",
+        "release_date": [
+            4,
+            26,
+            1925
+        ],
+        "price": 0.99,
+        "score": 3.96,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Philosophy",
+            "Literature",
+            "German Literature",
+            "Novels",
+            "Dystopia"
+        ]
+    },
+    {
+        "title": "Watchmen",
+        "author": "Alan Moore",
+        "release_date": [
+            1,
+            1,
+            1987
+        ],
+        "price": 0,
+        "score": 4.38,
+        "genres": [
+            "Graphic Novels",
+            "Comics",
+            "Fiction",
+            "Science Fiction",
+            "Fantasy",
+            "Graphic Novels Comics",
+            "Classics"
+        ]
+    },
+    {
+        "title": "Candide",
+        "author": "Voltaire",
+        "release_date": [
+            1,
+            1,
+            1759
+        ],
+        "price": 2.99,
+        "score": 3.76,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Philosophy",
+            "France",
+            "Literature",
+            "French Literature",
+            "Humor"
+        ]
+    },
+    {
+        "title": "Roots: The Saga of an American Family",
+        "author": "Alex Haley",
+        "release_date": [
+            8,
+            17,
+            1976
+        ],
+        "price": 12.99,
+        "score": 4.44,
+        "genres": [
+            "Historical Fiction",
+            "Fiction",
+            "Classics",
+            "Historical",
+            "African American",
+            "Africa",
+            "Race"
+        ]
+    },
+    {
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "release_date": [
+            9,
+            16,
+            1987
+        ],
+        "price": 12.99,
+        "score": 3.94,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Historical Fiction",
+            "Magical Realism",
+            "Literature",
+            "Historical",
+            "School"
+        ]
+    },
+    {
+        "title": "Atonement",
+        "author": "Ian McEwan",
+        "release_date": [
+            9,
+            20,
+            2001
+        ],
+        "price": 13.99,
+        "score": 3.93,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Classics",
+            "Romance",
+            "Historical",
+            "War",
+            "Literary Fiction"
+        ]
+    },
+    {
+        "title": "The Fellowship of the Ring",
+        "author": "J.R.R. Tolkien",
+        "release_date": [
+            7,
+            29,
+            1954
+        ],
+        "price": 0,
+        "score": 4.39,
+        "genres": [
+            "Fantasy",
+            "Classics",
+            "Fiction",
+            "Adventure",
+            "High Fantasy",
+            "Science Fiction Fantasy",
+            "Epic Fantasy"
+        ]
+    },
+    {
+        "title": "Go Ask Alice",
+        "author": "Beatrice Sparks",
+        "release_date": [
+            1,
+            1,
+            1971
+        ],
+        "price": 0,
+        "score": 3.74,
+        "genres": [
+            "Young Adult",
+            "Fiction",
+            "Classics",
+            "Contemporary",
+            "Mental Health",
+            "Realistic Fiction",
+            "Banned Books"
+        ]
+    },
+    {
+        "title": "The Things They Carried",
+        "author": "Tim O'Brien",
+        "release_date": [
+            3,
+            28,
+            1990
+        ],
+        "price": 9.99,
+        "score": 4.14,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Classics",
+            "War",
+            "Short Stories",
+            "School",
+            "Historical"
+        ]
+    },
+    {
+        "title": "Tuck Everlasting",
+        "author": "Natalie Babbitt",
+        "release_date": [
+            1,
+            1,
+            1975
+        ],
+        "price": 8.99,
+        "score": 3.9,
+        "genres": [
+            "Fantasy",
+            "Classics",
+            "Young Adult",
+            "Fiction",
+            "Childrens",
+            "Middle Grade",
+            "School"
+        ]
+    },
+    {
+        "title": "My Sister's Keeper",
+        "author": "Jodi Picoult",
+        "release_date": [
+            4,
+            6,
+            2004
+        ],
+        "price": 13.99,
+        "score": 4.1,
+        "genres": [
+            "Fiction",
+            "Contemporary",
+            "Chick Lit",
+            "Young Adult",
+            "Drama",
+            "Adult",
+            "Adult Fiction"
+        ]
+    },
+    {
+        "title": "Divergent",
+        "author": "Veronica Roth",
+        "release_date": [
+            4,
+            25,
+            2011
+        ],
+        "price": 0,
+        "score": 4.15,
+        "genres": [
+            "Young Adult",
+            "Dystopia",
+            "Fantasy",
+            "Fiction",
+            "Science Fiction",
+            "Romance",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "Stranger in a Strange Land",
+        "author": "Robert A. Heinlein",
+        "release_date": [
+            7,
+            1,
+            1961
+        ],
+        "price": 9.99,
+        "score": 3.92,
+        "genres": [
+            "Science Fiction",
+            "Fiction",
+            "Classics",
+            "Science Fiction Fantasy",
+            "Fantasy",
+            "Novels",
+            "Speculative Fiction"
+        ]
+    },
+    {
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "release_date": [
+            10,
+            22,
+            1926
+        ],
+        "price": 0,
+        "score": 3.8,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Literature",
+            "Novels",
+            "Historical Fiction",
+            "American",
+            "Spain"
+        ]
+    },
+    {
+        "title": "The Mists of Avalon",
+        "author": "Marion Zimmer Bradley",
+        "release_date": [
+            12,
+            1,
+            1982
+        ],
+        "price": 0,
+        "score": 4.13,
+        "genres": [
+            "Fantasy",
+            "Fiction",
+            "Historical Fiction",
+            "Arthurian",
+            "Mythology",
+            "Classics",
+            "Historical"
+        ]
+    },
+    {
+        "title": "Mere Christianity",
+        "author": "C.S. Lewis",
+        "release_date": [
+            1,
+            1,
+            1942
+        ],
+        "price": 14.99,
+        "score": 4.35,
+        "genres": [
+            "Christian",
+            "Nonfiction",
+            "Religion",
+            "Theology",
+            "Christianity",
+            "Classics",
+            "Philosophy"
+        ]
+    },
+    {
+        "title": "The Lightning Thief",
+        "author": "Rick Riordan",
+        "release_date": [
+            7,
+            28,
+            2005
+        ],
+        "price": 0,
+        "score": 4.3,
+        "genres": [
+            "Fantasy",
+            "Young Adult",
+            "Mythology",
+            "Fiction",
+            "Middle Grade",
+            "Adventure",
+            "Greek Mythology"
+        ]
+    },
+    {
+        "title": "The Phantom Tollbooth",
+        "author": "Norton Juster",
+        "release_date": [
+            1,
+            1,
+            1961
+        ],
+        "price": 8.99,
+        "score": 4.19,
+        "genres": [
+            "Fantasy",
+            "Fiction",
+            "Classics",
+            "Childrens",
+            "Young Adult",
+            "Middle Grade",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "The Tale of Peter Rabbit",
+        "author": "Beatrix Potter",
+        "release_date": [
+            12,
+            16,
+            1901
+        ],
+        "price": 0,
+        "score": 4.21,
+        "genres": [
+            "Childrens",
+            "Classics",
+            "Picture Books",
+            "Fiction",
+            "Animals",
+            "Fantasy",
+            "Short Stories"
+        ]
+    },
+    {
+        "title": "Murder on the Orient Express",
+        "author": "Agatha Christie",
+        "release_date": [
+            1,
+            1,
+            1934
+        ],
+        "price": 0,
+        "score": 4.2,
+        "genres": [
+            "Mystery",
+            "Classics",
+            "Fiction",
+            "Crime",
+            "Mystery Thriller",
+            "Thriller",
+            "Audiobook"
+        ]
+    },
+    {
+        "title": "The Complete Maus",
+        "author": "Art Spiegelman",
+        "release_date": [
+            1,
+            1,
+            1980
+        ],
+        "price": 0,
+        "score": 4.57,
+        "genres": [
+            "Graphic Novels",
+            "Comics",
+            "Nonfiction",
+            "History",
+            "Biography",
+            "Memoir",
+            "Historical"
+        ]
+    },
+    {
+        "title": "Number the Stars",
+        "author": "Lois Lowry",
+        "release_date": [
+            4,
+            24,
+            1989
+        ],
+        "price": 0.0,
+        "score": 4.18,
+        "genres": [
+            "Historical Fiction",
+            "Young Adult",
+            "Fiction",
+            "Classics",
+            "Childrens",
+            "Historical",
+            "Middle Grade"
+        ]
+    },
+    {
+        "title": "James and the Giant Peach",
+        "author": "Roald Dahl",
+        "release_date": [
+            11,
+            1,
+            1961
+        ],
+        "price": 0,
+        "score": 4.03,
+        "genres": [
+            "Childrens",
+            "Fantasy",
+            "Fiction",
+            "Classics",
+            "Young Adult",
+            "Middle Grade",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "Bury My Heart at Wounded Knee: An Indian History of the American West",
+        "author": "Dee Brown",
+        "release_date": [
+            4,
+            1,
+            1970
+        ],
+        "price": 0.0,
+        "score": 4.24,
+        "genres": [
+            "History",
+            "Nonfiction",
+            "American History",
+            "Classics",
+            "Historical",
+            "Politics",
+            "Race"
+        ]
+    },
+    {
+        "title": "The Ultimate Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "release_date": [
+            1,
+            17,
+            1996
+        ],
+        "price": 13.99,
+        "score": 4.38,
+        "genres": [
+            "Science Fiction",
+            "Fiction",
+            "Humor",
+            "Fantasy",
+            "Classics",
+            "Comedy",
+            "Science Fiction Fantasy"
+        ]
+    },
+    {
+        "title": "Schindler's List",
+        "author": "Thomas Keneally",
+        "release_date": [
+            10,
+            18,
+            1982
+        ],
+        "price": 13.99,
+        "score": 4.34,
+        "genres": [
+            "History",
+            "Nonfiction",
+            "Holocaust",
+            "War",
+            "Historical",
+            "World War II",
+            "Biography"
+        ]
+    },
+    {
+        "title": "The Autobiography of Malcolm X",
+        "author": "Malcolm X",
+        "release_date": [
+            10,
+            29,
+            1965
+        ],
+        "price": 9.99,
+        "score": 4.35,
+        "genres": [
+            "Nonfiction",
+            "Biography",
+            "History",
+            "Memoir",
+            "Autobiography",
+            "Politics",
+            "Race"
+        ]
+    },
+    {
+        "title": "A Little Princess",
+        "author": "Frances Hodgson Burnett",
+        "release_date": [
+            1,
+            1,
+            1905
+        ],
+        "price": 0,
+        "score": 4.22,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Childrens",
+            "Young Adult",
+            "Historical Fiction",
+            "Middle Grade",
+            "Historical"
+        ]
+    },
+    {
+        "title": "The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury",
+        "author": "Bill Watterson",
+        "release_date": [
+            1,
+            1,
+            1988
+        ],
+        "price": 0,
+        "score": 4.64,
+        "genres": [
+            "Comics",
+            "Humor",
+            "Graphic Novels",
+            "Fiction",
+            "Childrens",
+            "Graphic Novels Comics",
+            "Comedy"
+        ]
+    },
+    {
+        "title": "Middlesex",
+        "author": "Jeffrey Eugenides",
+        "release_date": [
+            9,
+            4,
+            2002
+        ],
+        "price": 0.0,
+        "score": 4.03,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Contemporary",
+            "LGBT",
+            "Classics",
+            "Literary Fiction",
+            "Novels"
+        ]
+    },
+    {
+        "title": "Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time",
+        "author": "Greg Mortenson",
+        "release_date": [
+            3,
+            2,
+            2006
+        ],
+        "price": 12.99,
+        "score": 3.66,
+        "genres": [
+            "Nonfiction",
+            "Memoir",
+            "Biography",
+            "Travel",
+            "Education",
+            "Book Club",
+            "Biography Memoir"
+        ]
+    },
+    {
+        "title": "A Child Called \"It\"",
+        "author": "Dave Pelzer",
+        "release_date": [
+            1,
+            1,
+            1995
+        ],
+        "price": 0,
+        "score": 4.12,
+        "genres": [
+            "Nonfiction",
+            "Memoir",
+            "Biography",
+            "Psychology",
+            "Autobiography",
+            "Abuse",
+            "Biography Memoir"
+        ]
+    },
+    {
+        "title": "Into the Wild",
+        "author": "Jon Krakauer",
+        "release_date": [
+            1,
+            13,
+            1996
+        ],
+        "price": 12.99,
+        "score": 4.01,
+        "genres": [
+            "Nonfiction",
+            "Biography",
+            "Adventure",
+            "Travel",
+            "Classics",
+            "Memoir",
+            "Nature"
+        ]
+    },
+    {
+        "title": "Leaves of Grass",
+        "author": "Walt Whitman",
+        "release_date": [
+            7,
+            4,
+            1855
+        ],
+        "price": 15.99,
+        "score": 4.12,
+        "genres": [
+            "Poetry",
+            "Classics",
+            "Fiction",
+            "Literature",
+            "American",
+            "19th Century",
+            "Philosophy"
+        ]
+    },
+    {
+        "title": "Their Eyes Were Watching God",
+        "author": "Zora Neale Hurston",
+        "release_date": [
+            1,
+            1,
+            1937
+        ],
+        "price": 14.99,
+        "score": 3.98,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "School",
+            "African American",
+            "Literature",
+            "Feminism"
+        ]
+    },
+    {
+        "title": "The Wind in the Willows",
+        "author": "Kenneth Grahame",
+        "release_date": [
+            10,
+            8,
+            1908
+        ],
+        "price": 2.99,
+        "score": 4.0,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Childrens",
+            "Fantasy",
+            "Animals",
+            "Young Adult",
+            "Middle Grade"
+        ]
+    },
+    {
+        "title": "Speak",
+        "author": "Laurie Halse Anderson",
+        "release_date": [
+            10,
+            22,
+            1999
+        ],
+        "price": 0.0,
+        "score": 4.04,
+        "genres": [
+            "Young Adult",
+            "Fiction",
+            "Contemporary",
+            "Realistic Fiction",
+            "Mental Health",
+            "Teen",
+            "Coming Of Age"
+        ]
+    },
+    {
+        "title": "Peter Pan",
+        "author": "J.M. Barrie",
+        "release_date": [
+            12,
+            27,
+            1911
+        ],
+        "price": 3.87,
+        "score": 4.04,
+        "genres": [
+            "Classics",
+            "Fantasy",
+            "Fiction",
+            "Childrens",
+            "Adventure",
+            "Young Adult",
+            "Middle Grade"
+        ]
+    },
+    {
+        "title": "The Republic",
+        "author": "Plato",
+        "release_date": [
+            1,
+            1,
+            376
+        ],
+        "price": 10.99,
+        "score": 3.96,
+        "genres": [
+            "Philosophy",
+            "Classics",
+            "Nonfiction",
+            "Politics",
+            "History",
+            "School",
+            "Literature"
+        ]
+    },
+    {
+        "title": "A People's History of the United States",
+        "author": "Howard Zinn",
+        "release_date": [
+            1,
+            1,
+            1980
+        ],
+        "price": 14.49,
+        "score": 4.07,
+        "genres": [
+            "History",
+            "Nonfiction",
+            "Politics",
+            "American History",
+            "Historical",
+            "Social Justice",
+            "Classics"
+        ]
+    },
+    {
+        "title": "American Gods",
+        "author": "Neil Gaiman",
+        "release_date": [
+            6,
+            19,
+            2001
+        ],
+        "price": 0,
+        "score": 4.11,
+        "genres": [
+            "Fantasy",
+            "Fiction",
+            "Mythology",
+            "Urban Fantasy",
+            "Audiobook",
+            "Science Fiction",
+            "Science Fiction Fantasy"
+        ]
+    },
+    {
+        "title": "Holes",
+        "author": "Louis Sachar",
+        "release_date": [
+            8,
+            20,
+            1998
+        ],
+        "price": 0,
+        "score": 3.99,
+        "genres": [
+            "Young Adult",
+            "Fiction",
+            "Middle Grade",
+            "Childrens",
+            "Classics",
+            "Realistic Fiction",
+            "School"
+        ]
+    },
+    {
+        "title": "The Story of My Life",
+        "author": "Helen Keller",
+        "release_date": [
+            1,
+            1,
+            1902
+        ],
+        "price": 0.99,
+        "score": 4.08,
+        "genres": [
+            "Nonfiction",
+            "Biography",
+            "Classics",
+            "Memoir",
+            "History",
+            "Autobiography",
+            "Biography Memoir"
+        ]
+    },
+    {
+        "title": "The World According to Garp",
+        "author": "John Irving",
+        "release_date": [
+            4,
+            24,
+            1978
+        ],
+        "price": 14.99,
+        "score": 4.1,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Literature",
+            "Contemporary",
+            "Novels",
+            "Literary Fiction",
+            "Humor"
+        ]
+    },
+    {
+        "title": "Looking for Alaska",
+        "author": "John Green",
+        "release_date": [
+            3,
+            3,
+            2005
+        ],
+        "price": 8.99,
+        "score": 3.97,
+        "genres": [
+            "Young Adult",
+            "Fiction",
+            "Contemporary",
+            "Romance",
+            "Realistic Fiction",
+            "Coming Of Age",
+            "Teen"
+        ]
+    },
+    {
+        "title": "The Secret Magdalene",
+        "author": "Ki Longfellow",
+        "release_date": [
+            1,
+            1,
+            2005
+        ],
+        "price": 13.99,
+        "score": 4.15,
+        "genres": [
+            "Historical Fiction",
+            "Fiction",
+            "Religion",
+            "Historical",
+            "Spirituality",
+            "Novels",
+            "Literature"
+        ]
+    },
+    {
+        "title": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
+        "author": "Terry Pratchett",
+        "release_date": [
+            1,
+            1,
+            1990
+        ],
+        "price": 9.99,
+        "score": 4.25,
+        "genres": [
+            "Fantasy",
+            "Fiction",
+            "Humor",
+            "Urban Fantasy",
+            "Comedy",
+            "Audiobook",
+            "Science Fiction Fantasy"
+        ]
+    },
+    {
+        "title": "The Hound of the Baskervilles",
+        "author": "Arthur Conan Doyle",
+        "release_date": [
+            3,
+            25,
+            1902
+        ],
+        "price": 0.99,
+        "score": 4.13,
+        "genres": [
+            "Classics",
+            "Mystery",
+            "Fiction",
+            "Crime",
+            "Detective",
+            "Mystery Thriller",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Things Fall Apart",
+        "author": "Chinua Achebe",
+        "release_date": [
+            1,
+            1,
+            1958
+        ],
+        "price": 0,
+        "score": 3.73,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Historical Fiction",
+            "Africa",
+            "School",
+            "Literature",
+            "Nigeria"
+        ]
+    },
+    {
+        "title": "A Short History of Nearly Everything",
+        "author": "Bill Bryson",
+        "release_date": [
+            1,
+            1,
+            2003
+        ],
+        "price": 12.99,
+        "score": 4.21,
+        "genres": [
+            "Nonfiction",
+            "Science",
+            "History",
+            "Audiobook",
+            "Humor",
+            "Physics",
+            "Historical"
+        ]
+    },
+    {
+        "title": "The Addiction Manifesto",
+        "author": "Jerry Weaver",
+        "release_date": [
+            4,
+            7,
+            2018
+        ],
+        "price": 1.99,
+        "score": 4.84,
+        "genres": [
+            "Nonfiction",
+            "Self Help",
+            "Memoir",
+            "Mental Health",
+            "Psychology",
+            "Biography"
+        ]
+    },
+    {
+        "title": "A Brief History of Time",
+        "author": "Stephen Hawking",
+        "release_date": [
+            9,
+            1,
+            1988
+        ],
+        "price": 14.99,
+        "score": 4.21,
+        "genres": [
+            "Science",
+            "Nonfiction",
+            "Physics",
+            "History",
+            "Classics",
+            "Philosophy",
+            "Astronomy"
+        ]
+    },
+    {
+        "title": "Island of the Blue Dolphins",
+        "author": "Scott O'Dell",
+        "release_date": [
+            9,
+            9,
+            1960
+        ],
+        "price": 0,
+        "score": 3.86,
+        "genres": [
+            "Young Adult",
+            "Fiction",
+            "Historical Fiction",
+            "Classics",
+            "Childrens",
+            "Middle Grade",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "\u0632\u0646\u062f\u06af\u06cc \u0645\u0647 \u0622\u0644\u0648\u062f \u067e\u0631\u06cc\u0627",
+        "author": "\u0633\u06cc\u062f \u0645\u0631\u062a\u0636\u06cc \u0645\u0635\u0637\u0641\u0648\u06cc",
+        "release_date": [
+            1,
+            2,
+            2013
+        ],
+        "price": 0,
+        "score": 3.3,
+        "genres": [
+            "Fiction"
+        ]
+    },
+    {
+        "title": "Cat's Cradle",
+        "author": "Kurt Vonnegut Jr.",
+        "release_date": [
+            1,
+            1,
+            1963
+        ],
+        "price": 10.99,
+        "score": 4.16,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Science Fiction",
+            "Humor",
+            "Literature",
+            "Novels",
+            "Dystopia"
+        ]
+    },
+    {
+        "title": "A Farewell to Arms",
+        "author": "Ernest Hemingway",
+        "release_date": [
+            9,
+            1,
+            1929
+        ],
+        "price": 11.99,
+        "score": 3.82,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "War",
+            "Literature",
+            "Novels",
+            "American"
+        ]
+    },
+    {
+        "title": "The Complete Fairy Tales",
+        "author": "Hans Christian Andersen",
+        "release_date": [
+            12,
+            1,
+            1872
+        ],
+        "price": 2.79,
+        "score": 4.29,
+        "genres": [
+            "Classics",
+            "Fantasy",
+            "Fiction",
+            "Childrens",
+            "Fairy Tales",
+            "Short Stories",
+            "Literature"
+        ]
+    },
+    {
+        "title": "Blindness",
+        "author": "Jos\u00e9 Saramago",
+        "release_date": [
+            1,
+            1,
+            1995
+        ],
+        "price": 0,
+        "score": 4.17,
+        "genres": [
+            "Fiction",
+            "Dystopia",
+            "Science Fiction",
+            "Classics",
+            "Novels",
+            "Literature",
+            "Portugal"
+        ]
+    },
+    {
+        "title": "A Separate Peace",
+        "author": "John Knowles",
+        "release_date": [
+            1,
+            1,
+            1959
+        ],
+        "price": 12.99,
+        "score": 3.59,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Young Adult",
+            "Historical Fiction",
+            "School",
+            "Coming Of Age",
+            "High School"
+        ]
+    },
+    {
+        "title": "The Raven",
+        "author": "Edgar Allan Poe",
+        "release_date": [
+            1,
+            29,
+            1845
+        ],
+        "price": 8.0,
+        "score": 4.29,
+        "genres": [
+            "Poetry",
+            "Classics",
+            "Horror",
+            "Fiction",
+            "Short Stories",
+            "Gothic",
+            "School"
+        ]
+    },
+    {
+        "title": "The Shack",
+        "author": "William Paul Young",
+        "release_date": [
+            5,
+            1,
+            2007
+        ],
+        "price": 9.99,
+        "score": 3.81,
+        "genres": [
+            "Fiction",
+            "Christian",
+            "Christian Fiction",
+            "Spirituality",
+            "Faith",
+            "Religion",
+            "Inspirational"
+        ]
+    },
+    {
+        "title": "Fried Green Tomatoes at the Whistle Stop Cafe",
+        "author": "Fannie Flagg",
+        "release_date": [
+            1,
+            1,
+            1987
+        ],
+        "price": 9.99,
+        "score": 4.28,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "LGBT",
+            "Classics",
+            "Queer",
+            "Historical",
+            "Chick Lit"
+        ]
+    },
+    {
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "release_date": [
+            12,
+            15,
+            1856
+        ],
+        "price": 6.49,
+        "score": 3.7,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "France",
+            "Literature",
+            "French Literature",
+            "Romance",
+            "19th Century"
+        ]
+    },
+    {
+        "title": "The God Delusion",
+        "author": "Richard Dawkins",
+        "release_date": [
+            10,
+            1,
+            2006
+        ],
+        "price": 14.99,
+        "score": 3.9,
+        "genres": [
+            "Nonfiction",
+            "Religion",
+            "Science",
+            "Philosophy",
+            "Atheism",
+            "Psychology",
+            "Spirituality"
+        ]
+    },
+    {
+        "title": "The Joy Luck Club",
+        "author": "Amy Tan",
+        "release_date": [
+            1,
+            1,
+            1989
+        ],
+        "price": 13.99,
+        "score": 3.97,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Classics",
+            "China",
+            "Contemporary",
+            "Historical",
+            "Adult Fiction"
+        ]
+    },
+    {
+        "title": "Tao Te Ching",
+        "author": "Lao Tzu",
+        "release_date": [
+            1,
+            1,
+            401
+        ],
+        "price": 10.99,
+        "score": 4.3,
+        "genres": [
+            "Philosophy",
+            "Nonfiction",
+            "Classics",
+            "Religion",
+            "Spirituality",
+            "Poetry",
+            "China"
+        ]
+    },
+    {
+        "title": "The Neverending Story",
+        "author": "Michael Ende",
+        "release_date": [
+            9,
+            1,
+            1979
+        ],
+        "price": 8.53,
+        "score": 4.18,
+        "genres": [
+            "Fantasy",
+            "Classics",
+            "Fiction",
+            "Young Adult",
+            "Childrens",
+            "Adventure",
+            "German Literature"
+        ]
+    },
+    {
+        "title": "Sophie's Choice",
+        "author": "William Styron",
+        "release_date": [
+            1,
+            1,
+            1979
+        ],
+        "price": 13.71,
+        "score": 4.17,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Historical Fiction",
+            "Holocaust",
+            "War",
+            "Historical",
+            "World War II"
+        ]
+    },
+    {
+        "title": "A Confederacy of Dunces",
+        "author": "John Kennedy Toole",
+        "release_date": [
+            5,
+            1,
+            1980
+        ],
+        "price": 8.48,
+        "score": 3.89,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Humor",
+            "Literature",
+            "Comedy",
+            "Novels",
+            "American"
+        ]
+    },
+    {
+        "title": "How to Win Friends and Influence People",
+        "author": "Dale Carnegie",
+        "release_date": [
+            10,
+            1,
+            1936
+        ],
+        "price": 14.99,
+        "score": 4.22,
+        "genres": [
+            "Self Help",
+            "Nonfiction",
+            "Business",
+            "Psychology",
+            "Personal Development",
+            "Leadership",
+            "Communication"
+        ]
+    },
+    {
+        "title": "Angels & Demons",
+        "author": "Dan Brown",
+        "release_date": [
+            5,
+            1,
+            2000
+        ],
+        "price": 0,
+        "score": 3.94,
+        "genres": [
+            "Fiction",
+            "Mystery",
+            "Thriller",
+            "Mystery Thriller",
+            "Suspense",
+            "Adventure",
+            "Crime"
+        ]
+    },
+    {
+        "title": "Never Let Me Go",
+        "author": "Kazuo Ishiguro",
+        "release_date": [
+            4,
+            5,
+            2005
+        ],
+        "price": 12.99,
+        "score": 3.84,
+        "genres": [
+            "Fiction",
+            "Science Fiction",
+            "Dystopia",
+            "Contemporary",
+            "Literary Fiction",
+            "Romance",
+            "Novels"
+        ]
+    },
+    {
+        "title": "Guns, Germs, and Steel: The Fates of Human Societies",
+        "author": "Jared Diamond",
+        "release_date": [
+            5,
+            9,
+            1997
+        ],
+        "price": 0,
+        "score": 4.04,
+        "genres": [
+            "History",
+            "Nonfiction",
+            "Science",
+            "Anthropology",
+            "Sociology",
+            "Politics",
+            "Economics"
+        ]
+    },
+    {
+        "title": "Extremely Loud & Incredibly Close",
+        "author": "Jonathan Safran Foer",
+        "release_date": [
+            1,
+            1,
+            2005
+        ],
+        "price": 14.49,
+        "score": 3.97,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Contemporary",
+            "Novels",
+            "Literary Fiction",
+            "Adult",
+            "Adult Fiction"
+        ]
+    },
+    {
+        "title": "Flow Down Like Silver",
+        "author": "Ki Longfellow",
+        "release_date": [
+            8,
+            20,
+            2009
+        ],
+        "price": 9.95,
+        "score": 3.98,
+        "genres": [
+            "Historical Fiction",
+            "Fiction",
+            "Egypt",
+            "Historical",
+            "Philosophy",
+            "Literature",
+            "Africa"
+        ]
+    },
+    {
+        "title": "The Clan of the Cave Bear",
+        "author": "Jean M. Auel",
+        "release_date": [
+            1,
+            1,
+            1980
+        ],
+        "price": 0,
+        "score": 4.09,
+        "genres": [
+            "Historical Fiction",
+            "Fiction",
+            "Fantasy",
+            "Historical",
+            "Classics",
+            "Romance",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "Tess of the D'Urbervilles",
+        "author": "Thomas Hardy",
+        "release_date": [
+            1,
+            1,
+            1891
+        ],
+        "price": 0.0,
+        "score": 3.83,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Literature",
+            "Historical Fiction",
+            "19th Century",
+            "Victorian",
+            "Novels"
+        ]
+    },
+    {
+        "title": "The Color Purple",
+        "author": "Alice Walker",
+        "release_date": [
+            6,
+            1,
+            1982
+        ],
+        "price": 0,
+        "score": 4.26,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Feminism",
+            "Classics",
+            "LGBT",
+            "Historical",
+            "Queer"
+        ]
+    },
+    {
+        "title": "Outlander",
+        "author": "Diana Gabaldon",
+        "release_date": [
+            6,
+            1,
+            1991
+        ],
+        "price": 0,
+        "score": 4.26,
+        "genres": [
+            "Historical Fiction",
+            "Romance",
+            "Fantasy",
+            "Fiction",
+            "Time Travel",
+            "Historical",
+            "Historical Romance"
+        ]
+    },
+    {
+        "title": "The Tao of Pooh",
+        "author": "Benjamin Hoff",
+        "release_date": [
+            4,
+            28,
+            1982
+        ],
+        "price": 6.99,
+        "score": 4.0,
+        "genres": [
+            "Philosophy",
+            "Nonfiction",
+            "Spirituality",
+            "Religion",
+            "Self Help",
+            "Audiobook",
+            "Taoism"
+        ]
+    },
+    {
+        "title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+        "author": "Stephen R. Covey",
+        "release_date": [
+            1,
+            1,
+            1988
+        ],
+        "price": 0.0,
+        "score": 4.15,
+        "genres": [
+            "Self Help",
+            "Nonfiction",
+            "Business",
+            "Personal Development",
+            "Psychology",
+            "Leadership",
+            "Productivity"
+        ]
+    },
+    {
+        "title": "Eclipse",
+        "author": "Stephenie Meyer",
+        "release_date": [
+            8,
+            7,
+            2007
+        ],
+        "price": 0,
+        "score": 3.72,
+        "genres": [
+            "Fantasy",
+            "Young Adult",
+            "Romance",
+            "Vampires",
+            "Fiction",
+            "Paranormal",
+            "Paranormal Romance"
+        ]
+    },
+    {
+        "title": "One Day in the Life of Ivan Denisovich",
+        "author": "Aleksandr Solzhenitsyn",
+        "release_date": [
+            11,
+            1,
+            1962
+        ],
+        "price": 0.0,
+        "score": 3.98,
+        "genres": [
+            "Fiction",
+            "Classics",
+            "Russia",
+            "Historical Fiction",
+            "Russian Literature",
+            "Literature",
+            "Novels"
+        ]
+    },
+    {
+        "title": "A Light in the Attic",
+        "author": "Shel Silverstein",
+        "release_date": [
+            10,
+            7,
+            1981
+        ],
+        "price": 0.0,
+        "score": 4.35,
+        "genres": [
+            "Poetry",
+            "Childrens",
+            "Classics",
+            "Fiction",
+            "Humor",
+            "Young Adult",
+            "Picture Books"
+        ]
+    },
+    {
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "release_date": [
+            2,
+            2,
+            1922
+        ],
+        "price": 0,
+        "score": 3.75,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Literature",
+            "Novels",
+            "Ireland",
+            "Irish Literature",
+            "20th Century"
+        ]
+    },
+    {
+        "title": "Lonesome Dove",
+        "author": "Larry McMurtry",
+        "release_date": [
+            1,
+            1,
+            1985
+        ],
+        "price": 0,
+        "score": 4.52,
+        "genres": [
+            "Fiction",
+            "Historical Fiction",
+            "Westerns",
+            "Classics",
+            "Historical",
+            "Adventure",
+            "Novels"
+        ]
+    },
+    {
+        "title": "The Jungle",
+        "author": "Upton Sinclair",
+        "release_date": [
+            2,
+            25,
+            1905
+        ],
+        "price": 0,
+        "score": 3.76,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Historical Fiction",
+            "Literature",
+            "Politics",
+            "School",
+            "Novels"
+        ]
+    },
+    {
+        "title": "The Phantom of the Opera",
+        "author": "Gaston Leroux",
+        "release_date": [
+            9,
+            23,
+            1909
+        ],
+        "price": 0,
+        "score": 3.96,
+        "genres": [
+            "Fiction",
+            "Horror",
+            "Romance",
+            "Classics",
+            "Gothic",
+            "Mystery",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "title": "Breaking Dawn",
+        "author": "Stephenie Meyer",
+        "release_date": [
+            8,
+            2,
+            2008
+        ],
+        "price": 0,
+        "score": 3.73,
+        "genres": [
+            "Fantasy",
+            "Young Adult",
+            "Romance",
+            "Vampires",
+            "Fiction",
+            "Paranormal",
+            "Paranormal Romance"
+        ]
+    },
+    {
+        "title": "Nickel and Dimed",
+        "author": "Barbara Ehrenreich",
+        "release_date": [
+            5,
+            8,
+            2001
+        ],
+        "price": 0.0,
+        "score": 3.65,
+        "genres": [
+            "Nonfiction",
+            "Sociology",
+            "Politics",
+            "Economics",
+            "Memoir",
+            "Social Justice",
+            "Poverty"
+        ]
+    },
+    {
+        "title": "The Name of the Wind",
+        "author": "Patrick Rothfuss",
+        "release_date": [
+            3,
+            27,
+            2007
+        ],
+        "price": 0,
+        "score": 4.52,
+        "genres": [
+            "Fantasy",
+            "Fiction",
+            "Epic Fantasy",
+            "High Fantasy",
+            "Magic",
+            "Science Fiction Fantasy",
+            "Adult"
+        ]
+    },
+    {
+        "title": "Paradise Lost",
+        "author": "John Milton",
+        "release_date": [
+            1,
+            1,
+            1667
+        ],
+        "price": 0.99,
+        "score": 3.84,
+        "genres": [
+            "Classics",
+            "Poetry",
+            "Fiction",
+            "Literature",
+            "Religion",
+            "Fantasy",
+            "Philosophy"
+        ]
+    },
+    {
+        "title": "The Green Mile",
+        "author": "Stephen King",
+        "release_date": [
+            1,
+            1,
+            1996
+        ],
+        "price": 9.99,
+        "score": 4.47,
+        "genres": [
+            "Horror",
+            "Fiction",
+            "Fantasy",
+            "Thriller",
+            "Mystery",
+            "Classics",
+            "Crime"
+        ]
+    },
+    {
+        "title": "Horton Hears a Who!",
+        "author": "Dr. Seuss",
+        "release_date": [
+            1,
+            1,
+            1954
+        ],
+        "price": 0,
+        "score": 4.21,
+        "genres": [
+            "Childrens",
+            "Picture Books",
+            "Fiction",
+            "Classics",
+            "Poetry",
+            "Fantasy",
+            "Animals"
+        ]
+    },
+    {
+        "title": "The God of Small Things",
+        "author": "Arundhati Roy",
+        "release_date": [
+            4,
+            1,
+            1997
+        ],
+        "price": 14.99,
+        "score": 3.95,
+        "genres": [
+            "Fiction",
+            "India",
+            "Historical Fiction",
+            "Classics",
+            "Contemporary",
+            "Literary Fiction",
+            "Novels"
+        ]
+    },
+    {
+        "title": "Are You There God? It's Me, Margaret",
+        "author": "Judy Blume",
+        "release_date": [
+            1,
+            1,
+            1970
+        ],
+        "price": 9.99,
+        "score": 3.94,
+        "genres": [
+            "Young Adult",
+            "Fiction",
+            "Childrens",
+            "Classics",
+            "Middle Grade",
+            "Coming Of Age",
+            "Realistic Fiction"
+        ]
+    },
+    {
+        "title": "All Creatures Great and Small / All Things Bright and Beautiful",
+        "author": "James Herriot",
+        "release_date": [
+            1,
+            1,
+            1972
+        ],
+        "price": 11.39,
+        "score": 4.32,
+        "genres": [
+            "Nonfiction",
+            "Classics",
+            "Animals",
+            "Memoir",
+            "Biography",
+            "Humor",
+            "Nature"
+        ]
+    },
+    {
+        "title": "Treasure Island",
+        "author": "Robert Louis Stevenson",
+        "release_date": [
+            1,
+            28,
+            1882
+        ],
+        "price": 0.99,
+        "score": 3.84,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Adventure",
+            "Historical Fiction",
+            "Young Adult",
+            "Childrens",
+            "Pirates"
+        ]
+    },
+    {
+        "title": "The House of the Spirits",
+        "author": "Isabel Allende",
+        "release_date": [
+            1,
+            1,
+            1982
+        ],
+        "price": 13.99,
+        "score": 4.27,
+        "genres": [
+            "Fiction",
+            "Magical Realism",
+            "Historical Fiction",
+            "Fantasy",
+            "Spanish Literature",
+            "Historical",
+            "Novels"
+        ]
+    },
+    {
+        "title": "The Shining",
+        "author": "Stephen King",
+        "release_date": [
+            1,
+            28,
+            1977
+        ],
+        "price": 0,
+        "score": 4.26,
+        "genres": [
+            "Horror",
+            "Fiction",
+            "Thriller",
+            "Classics",
+            "Fantasy",
+            "Paranormal",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "The Iliad / The Odyssey",
+        "author": "Homer",
+        "release_date": [
+            1,
+            1,
+            801
+        ],
+        "price": 0.99,
+        "score": 4.06,
+        "genres": [
+            "Classics",
+            "Fiction",
+            "Poetry",
+            "Mythology",
+            "Fantasy",
+            "Literature",
+            "Historical Fiction"
+        ]
+    },
+    {
+        "title": "V for Vendetta",
+        "author": "Alan Moore",
+        "release_date": [
+            1,
+            1,
+            1990
+        ],
+        "price": 0,
+        "score": 4.26,
+        "genres": [
+            "Graphic Novels",
+            "Comics",
+            "Fiction",
+            "Dystopia",
+            "Science Fiction",
+            "Graphic Novels Comics",
+            "Classics"
+        ]
+    },
+    {
+        "title": "The Foundation Trilogy",
+        "author": "Isaac Asimov",
+        "release_date": [
+            1,
+            1,
+            1953
+        ],
+        "price": 9.99,
+        "score": 4.41,
+        "genres": [
+            "Science Fiction",
+            "Fiction",
+            "Classics",
+            "Science Fiction Fantasy",
+            "Fantasy",
+            "Space Opera",
+            "Literature"
+        ]
+    },
+    {
+        "title": "The Complete Works",
+        "author": "William Shakespeare",
+        "release_date": [
+            1,
+            1,
+            1623
+        ],
+        "price": 1.99,
+        "score": 4.47,
+        "genres": [
+            "Classics",
+            "Poetry",
+            "Fiction",
+            "Plays",
+            "Drama",
+            "Literature",
+            "Reference"
+        ]
+    },
+    {
+        "title": "New Moon",
+        "author": "Stephenie Meyer",
+        "release_date": [
+            9,
+            6,
+            2006
+        ],
+        "price": 0,
+        "score": 3.59,
+        "genres": [
+            "Fantasy",
+            "Young Adult",
+            "Romance",
+            "Vampires",
+            "Fiction",
+            "Paranormal",
+            "Paranormal Romance"
+        ]
+    }
+]
